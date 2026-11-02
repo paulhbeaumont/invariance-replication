@@ -29,15 +29,18 @@ It refuses to overwrite different existing inputs. Then install the analysis
 requirements and run `python -B replicate.py verify` or `replicate.py all`
 as described below.
 
-For the raw-to-results workflow, also retrieve the exact production archives:
+For the complete raw-to-results workflow, retrieve all pinned attachments:
 
 ```text
-python download_data.py --group production
+python download_data.py --group all
 ```
 
 The 12 production ZIPs total 7.74 GB. The six diagnostic-only ZIPs (1.62 GB)
-are optional: `python download_data.py --group diagnostics`. Use `--group all`
-to retrieve all 11.27 GB. Other public raw sources are fetched from their
+do not enter regressions, but the unchanged complete raw-source audit checks
+them too. Thus `--group all` is required for `raw_to_results.py all`; it
+retrieves all 11.27 GB, including the prepared comparison targets. The narrower
+`--group production` or `--group diagnostics` options retrieve those bundles
+separately. Other public raw sources are fetched from their
 recorded original/publisher URLs by the raw workflow; no previous Dropbox
 checkout is required. The published EFSY panel is the external employment
 source, not a rerun of its authors' original Census imputation.

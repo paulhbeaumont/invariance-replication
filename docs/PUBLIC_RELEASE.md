@@ -15,11 +15,13 @@ was changed for publication.
 - Ordinary Git: code, configuration, independent references, pinned historical
   code, original source receipts, checksums and documentation.
 - Release `v1.0.0`: one prepared-data ZIP (100 original inputs), twelve exact
-  FY2007-2018 production USAspending ZIPs, six optional FY2001-2006 diagnostic
+  FY2007-2018 production USAspending ZIPs, six FY2001-2006 diagnostic
   ZIPs, and the verified five-page recap PDF. The diagnostics do not enter
   production. Every asset is smaller than 2 GiB.
-- Download `prepared` for the prepared-data workflow; add `production` for
-  the complete raw-chain workflow. Other public raw sources are downloaded
+- Download `prepared` for the prepared-data workflow. Use `--group all` for
+  the complete raw-chain workflow: its unchanged source audit verifies the
+  diagnostics as well, although they never enter production regressions.
+  Other public raw sources are downloaded
   from the recorded original/publisher endpoints by the raw-source tools.
 - `config/release_assets.json` pins data attachment hashes. Existing source
   manifests, saved estimates and independent expected hashes are unchanged.

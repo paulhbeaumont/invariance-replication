@@ -113,7 +113,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--group', choices=['prepared', 'production', 'diagnostics', 'all'], default='prepared',
                         help='Default: prepared inputs (1.91 GB). Production adds exact FY2007-2018 ZIPs; '
-                             'diagnostics are not needed for the production raw build.')
+                             'diagnostics do not enter regressions, but the complete raw-source audit checks them.')
     parser.add_argument('--verify-only', action='store_true', help='Verify installed inputs; no network or writes.')
     parser.add_argument('--cache', type=Path, default=ROOT / '.downloads')
     args = parser.parse_args()

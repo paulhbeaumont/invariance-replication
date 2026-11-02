@@ -2,8 +2,10 @@
 
 **Public distribution, November 2, 2026:** the unchanged archives accompany
 [release v1.0.0](https://github.com/paulhbeaumont/invariance-replication/releases/tag/v1.0.0).
-Run `python download_data.py --group production` (or `--group diagnostics` for
-the optional overlap archives). Current instructions are in
+Run `python download_data.py --group all` before the complete raw-to-results
+workflow, whose source audit verifies production and diagnostic archives.
+`--group production` and `--group diagnostics` also retrieve them separately.
+The diagnostics do not enter the regressions. Current instructions are in
 [PUBLIC_RELEASE.md](PUBLIC_RELEASE.md); former local-only status below is dated
 development history. Source manifests and historical hashes are not rewritten.
 
