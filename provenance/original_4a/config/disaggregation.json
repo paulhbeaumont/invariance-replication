@@ -1,0 +1,44 @@
+{
+  "id": "disaggregation_h234",
+  "horizons": [
+    2,
+    3,
+    4
+  ],
+  "first_years": {
+    "2": 1980,
+    "3": 1981,
+    "4": 1982
+  },
+  "last_year": 2016,
+  "rungs": [
+    "naics2",
+    "naics4_alloc"
+  ],
+  "outcomes": [
+    "mpgr",
+    "log"
+  ],
+  "fixed_effects": [
+    "county",
+    "year"
+  ],
+  "county_support": "locked_3058",
+  "growth_horizon": "same_h_for_outcome_spending_population_and_exposure",
+  "exposure_length": 5,
+  "exposure_gap": 5,
+  "midpoint_weight": "cell_endpoint_sum_over_county_endpoint_sum",
+  "log_weight": "equal_per_positive_both_endpoints_cell",
+  "correction_n_mpgr": "county_year_count",
+  "correction_n_log": "positive_cell_count",
+  "reconstruction_atol": 1e-12,
+  "county_sum_rtol": 1e-09,
+  "invariance_atol": 1e-11,
+  "coefficient_rtol": 1e-09,
+  "reference_baseline": "baseline_roll5_gap5_2016",
+  "new_model_estimates": 17,
+  "reused_model_estimates": 1,
+  "direct_validation_estimates": 2,
+  "no_growth_winsorization": true,
+  "no_cell_deletion_for_mpgr": true
+}

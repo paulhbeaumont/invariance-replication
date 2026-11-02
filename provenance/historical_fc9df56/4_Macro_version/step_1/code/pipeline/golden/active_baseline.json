@@ -1,0 +1,18 @@
+{
+  "assets_sha256": {
+    "_golden/county_h2.parquet": "4326a63f880632e9ccb50d8c39b75f068f8d4c6c2f4819464896acc8ab86c60a",
+    "_golden/county_h3.parquet": "b7e8af460b52575bc4faf9dc2996d1f02789f8c60427b1175d36ace44299cce0",
+    "_golden/county_h4.parquet": "8d3dff856edb0f9e89a29b326b15d07f0ae20022b1b8ad9f4a054116a9aec843",
+    "_golden/frozen_aggregation_baseline.csv": "f5df7bc6ff0cad3d2db18614d451e6c9b6034368253d5a5be35fdd4337e9c8c2",
+    "analysis_panel.parquet": "914babb05fe79328e2e4ba614d4556a7c64003ac4b020581d490a8aabeb1baea",
+    "category_shocks_year.parquet": "fc52ccbb8f8dfd15a295df505aa7354bcfd7b3705f8169b51499ef0279d95c85",
+    "composition_instrument_ccg_year.parquet": "f14672c284e67d8cb79bf9a3764641916fd15c8953db0a8f3eeb1498b5501421",
+    "contracts_category_ccg_year.parquet": "6684414c59afb73ba956284e8a2687308145f0e505635f49ef8a1614e69e346b",
+    "contracts_ccg_year.parquet": "e24d568a652b6351051c7bb5903e18f25a2eba79be0ae7e4271920652250646f"
+  },
+  "baseline_id": "verified_production_geography_v1",
+  "geography": "verified production geography",
+  "promotion_producer": "97_promote_verified_geography_baseline.py",
+  "reported_source_archive": "freezes/reported_source_geography_v1",
+  "standing_gate": "05_baseline_tieout.py"
+}

@@ -1,0 +1,2 @@
+era,horizon,lam,denom,exposure,expo_first,expo_last,rule,floor,screen,fe,weight,winsor_group,n_obs,n_counties,beta,se,beta_scaled,se_scaled,unit,t,first_stage_F,status
+full,2,1.0,population,roll10,1985,2016,net,none,False,county+year,none,pooled,97856,3058,4.9601373536388854e-05,2.1367966934180166e-05,4.960137353638886,2.1367966934180167,"pp per $1,000 per head",2.3212958766351597,18.47194624818798,ok

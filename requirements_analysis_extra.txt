@@ -1,0 +1,2 @@
+# Isolated query engine for the pinned older analysis environment; no deps.
+duckdb==1.4.1

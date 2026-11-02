@@ -1,0 +1,11 @@
+statistic,intensity,composition
+Number of shifters $K$,1,300
+Shock observations ($K \times T$),32,"9,600"
+Effective number of shifters (1/HHI),1.0,54.4
+Variance in first component,0.840,0.282
+Components for 90\% of variance,2,9
+Median $R^2$ of shifter on common cycle,1.000,0.148
+Shifters with $R^2>0.5$ on common cycle,1 of 1,22 of 298
+Largest component's first-stage share,1.000,0.332
+Five largest components' share,1.000,0.523
+"Effective components, first stage (1/HHI)",1.0,8.1

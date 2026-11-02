@@ -1,0 +1,45 @@
+\begin{table}[!htbp]
+\caption{Shock-Level Diagnostics for the Composition Instrument}
+\label{tab:bhj_shock_level}
+{\centering
+\adjustbox{max width=\linewidth}{%
+\begin{tabular}{lr}
+\toprule
+Shock-level observations $(k,t)$ & 9,600 \\\\
+Effective shocks, each $(k,t)$ & 1108.1 \\\\
+Effective shocks, each category once & 40.0 \\\\
+County-level 2SLS coefficient & 4.0909 \\\\
+Shock-level IV coefficient & 4.0909 \\\\
+Equivalence gap & 1.4e-15 \\\\
+Coefficient, no share-sum control & 4.091 \\\\
+\hspace{1.5em}$t$ & 6.77 \\\\
+Coefficient, share sum controlled & 3.367 \\\\
+\hspace{1.5em}$t$ & 5.46 \\\\
+Share sum's share of instrument variance & 0.052 \\\\
+Balance: income per head & -0.0071 (0.0183) \\\\
+Balance: employment rate & -0.0010 (0.0154) \\\\
+Balance: log population & 0.0034 (0.0103) \\\\
+Balance: pre-period growth & 0.0114 (0.0209) \\\\
+Balance: joint $F$ & 0.59 \\\\
+Observations, county level & 97,856 \\\\
+\bottomrule
+\end{tabular}}
+\par}
+\medskip
+{\scriptsize \noindent\textit{Notes:} The composition instrument at a four-year horizon on
+97,856 county-years, with division-by-year fixed effects, division-equal weights and the
+treatment winsorized within year. Following Borusyak, Hull and Jaravel, the shift-share IV is
+rewritten as an IV at the level of the 300 Federal Supply Classification categories,
+using exposure-weighted aggregates of the outcome and the treatment and weighting by shock
+importance; the two coefficients agree to the reported gap, so the design is a shock-level
+experiment in their sense. Effective shock counts are inverse Herfindahl indices of the
+importance weights, reported both treating each category-year as a shock and treating each
+category as one shock, the latter being conservative because a category's national series is
+serially correlated. Their framework requires exposure shares summing to a constant; here they
+sum to total contract dollars per head, so the estimate is reported with and without that sum
+partialled out. Balance regressions take the national category rate on exposure-weighted
+predetermined county characteristics, standardized, weighted by shock importance and clustered
+by category; the pre-period growth rate is the same midpoint employment growth measured over
+the four years ending where the estimation window begins. Balance failing to reject is evidence
+consistent with quasi-random assignment and is not proof of it.\par}
+\end{table}

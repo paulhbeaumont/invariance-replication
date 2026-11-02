@@ -1,0 +1,67 @@
+# External financial dependence by 2-digit SIC, 60 sectors, ALL sectors not just manufacturing.
+# Cetorelli-Strahan recomputation of the Rajan-Zingales measure, mature Compustat firms, 1980-1996.
+# THIS IS NOT THE RAJAN-ZINGALES PUBLISHED MEASURE. Different classification, sample window, firm screen and scale: leather is -0.96 here against RZ's -0.140, tobacco -0.92 against -0.451. Never pool or compare as levels.
+# Reaches 91.5-92.0% of EFSY employment 1998-2016, against 9-16% for canonical RZ. Built by 70_ingest_rajan_zingales.py.
+# Source: Duygan-Bump, Levkov and Montoriol-Garriga (2010), FRB Boston WP QAU10-6, published 2015 JME 78, 89-105. https://www.bostonfed.org/-/media/Documents/Workingpapers/PDF/qau1006.pdf sha256 a03cad1276a5553b768f6bbca0965cab512a2db1f1a495483247d51ff5eee4e2
+# Appendix Table 2. Codes 01-02-07 (agriculture) and 15-16-17 (construction) are reported as pooled sectors.
+sic2,industry_name,efd
+08,"Forestry",-4.63
+63,"Insurance carriers",-3.96
+31,"Leather and leather products",-0.96
+21,"Tobacco products",-0.92
+23,"Apparel and other finished products made from fabrics",-0.61
+82,"Educational services",-0.55
+83,"Social services",-0.43
+76,"Miscellaneous repair services",-0.25
+20,"Food and kindred products",-0.24
+34,"Fabricated metal products, except machinery and transportation equipment",-0.24
+25,"Furniture and fixtures",-0.23
+32,"Stone, clay, glass, and concrete products",-0.20
+39,"Miscellaneous manufacturing industries",-0.20
+56,"Apparel and accessory stores",-0.16
+73,"Business services",-0.16
+41,"Local and suburban transit and interurban highway passenger transportation",-0.12
+72,"Personal services",-0.12
+27,"Printing, publishing, and allied industries",-0.07
+48,"Communications",-0.07
+87,"Engineering, accounting, research, management, and related services",-0.05
+38,"Measuring, analyzing, and controlling instruments; photographic, medical, and optical goods",-0.04
+37,"Transportation equipment",0.00
+47,"Transportation services",0.01
+35,"Industrial and commercial machinery and computer equipment",0.01
+33,"Primary metal industries",0.03
+01-02-07,"Agriculture",0.03
+40,"Railroad transportation",0.04
+24,"Lumber and wood products, except furniture",0.04
+30,"Rubber and miscellaneous plastics products",0.04
+14,"Mining and quarrying of nonmetallic minerals, except fuels",0.05
+26,"Paper and allied products",0.06
+29,"Petroleum refining and related industries",0.09
+51,"Wholesale trade: non-durable goods",0.10
+22,"Textile mill products",0.10
+42,"Motor freight transportation and warehousing",0.10
+53,"General merchandise stores",0.12
+12,"Coal mining",0.13
+59,"Miscellaneous retail",0.16
+54,"Food stores",0.16
+78,"Motion pictures",0.17
+79,"Amusement and recreation services",0.21
+36,"Electronic and other electrical equipment and components, except computer equipment",0.22
+49,"Electric, gas, and sanitary services",0.24
+58,"Eating and drinking places",0.25
+28,"Chemicals and allied products",0.28
+09,"Fishing, hunting, and trapping",0.31
+50,"Wholesale trade: durable goods",0.32
+80,"Health services",0.35
+65,"Real estate",0.38
+70,"Hotels, rooming houses, camps, and other lodging places",0.38
+13,"Oil and gas extraction",0.40
+55,"Automotive dealers and gasoline service stations",0.41
+75,"Automotive repair, services, and parking",0.43
+52,"Building materials, hardware, garden supply, and mobile home dealers",0.47
+45,"Transportation by air",0.48
+15-16-17,"Construction",0.57
+44,"Water transportation",0.67
+57,"Home furniture, furnishings, and equipment stores",0.69
+10,"Metal mining",0.96
+46,"Pipelines, except natural gas",1.00

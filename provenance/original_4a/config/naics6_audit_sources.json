@@ -1,0 +1,13 @@
+{
+  "scope": "construction_audit_only",
+  "inputs": {
+    "efsy": {
+      "path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_Source/US/CBP_EFSY/efsy_panel_naics.parquet",
+      "sha256": "cc9e2c5cadf216d18d59cdb0bd6ba672eb4f28c5e027ceb5b3d08dd9b0ed01b4"
+    },
+    "crosswalk": {
+      "path": "/Users/f1azmm00/Research/aggregation-disaggregation-invariance/4_Macro_version/4a_PaperApplication/config/naics6_county_crosswalk.csv",
+      "sha256": "fecef2c188211e615c896dda6c06c371e1438c7cc1deb9c6aa0109523ba656c1"
+    }
+  }
+}

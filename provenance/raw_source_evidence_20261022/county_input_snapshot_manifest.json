@@ -1,0 +1,184 @@
+{
+  "status": "frozen_constructed_inputs",
+  "files": [
+    {
+      "relative_path": "population.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/county_panel/population_ccg_year.parquet",
+      "sha256": "b832218429ba93aafbc26f8e9c49c755a7b3e7d031643581e3c71113d60992e5"
+    },
+    {
+      "relative_path": "county_reference.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/efsy_ccg_year.parquet",
+      "sha256": "c731e8b6ed3fd67d9f7d70668532111fdf091be95f17b73395f74155fb19638b"
+    },
+    {
+      "relative_path": "raw_efsy.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_Source/US/CBP_EFSY/efsy_panel_naics.parquet",
+      "sha256": "cc9e2c5cadf216d18d59cdb0bd6ba672eb4f28c5e027ceb5b3d08dd9b0ed01b4"
+    },
+    {
+      "relative_path": "crosswalk.csv",
+      "source": "/Users/f1azmm00/Research/aggregation-disaggregation-invariance/4_Macro_version/step_1/code/reference/county_ccg_crosswalk.csv",
+      "sha256": "fecef2c188211e615c896dda6c06c371e1438c7cc1deb9c6aa0109523ba656c1"
+    },
+    {
+      "relative_path": "employment_producer.py",
+      "source": "/Users/f1azmm00/Research/aggregation-disaggregation-invariance/4_Macro_version/step_1/code/py/11_build_employment_cells.py",
+      "sha256": "d5ca09f18d0fe76f301c2f044494440cbfac32ecd216eda1b1e8b53a20d385da"
+    },
+    {
+      "relative_path": "population_producer.py",
+      "source": "/Users/f1azmm00/Research/aggregation-disaggregation-invariance/4_Macro_version/step_1/code/py/12_build_county_income.py",
+      "sha256": "10603714f93d829f4c87a08173235a1558de10ef0155cc949e1a3639ea20f023"
+    },
+    {
+      "relative_path": "geography_producer.py",
+      "source": "/Users/f1azmm00/Research/aggregation-disaggregation-invariance/4_Macro_version/step_1/code/py/14_build_instrument.py",
+      "sha256": "c1d5e2281d4e0e547cdb11ba62fc24eca989159c6e0230c758e37a4c53b6f362"
+    },
+    {
+      "relative_path": "cells/y1983.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1983.parquet",
+      "sha256": "4ecd511224d1479952652bb95d550beeb07ab80fe1b280598cd6410b91929111"
+    },
+    {
+      "relative_path": "cells/y1984.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1984.parquet",
+      "sha256": "9178a777a1afa1a5b89fd18c632e6d2c78d870b7c0028cc0d4dec7cc4b8b72b3"
+    },
+    {
+      "relative_path": "cells/y1985.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1985.parquet",
+      "sha256": "0ef0efbfa312aa0bfbb8c0712f8d014faaa4bc9dbf0220cd8ee750515db4ec8d"
+    },
+    {
+      "relative_path": "cells/y1986.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1986.parquet",
+      "sha256": "92d6c9227b064abee2db09227b47ffa14c6a6996f7d850e49b352caeca4f34b4"
+    },
+    {
+      "relative_path": "cells/y1987.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1987.parquet",
+      "sha256": "03a25ae317d915e8de5ad410d8df64df4bf8553a3408dd06142495eb12d3db80"
+    },
+    {
+      "relative_path": "cells/y1988.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1988.parquet",
+      "sha256": "1e203abce37d788f27b57a27ebb2c8a92691984578e1f4dfaf28ace8622f9f8c"
+    },
+    {
+      "relative_path": "cells/y1989.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1989.parquet",
+      "sha256": "7131b0d563545eb9d26c7f1e7f2b22a7b1270aa0a9b1dfca7d50d74b7b11866f"
+    },
+    {
+      "relative_path": "cells/y1990.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1990.parquet",
+      "sha256": "2688b71f250dff68af009ae57e888853c4b49cd2b2b5757810e8fe5882a5effd"
+    },
+    {
+      "relative_path": "cells/y1991.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1991.parquet",
+      "sha256": "13ed227f4ad71c648e267e07d09b5d737e122d6953fd9d1a8f39e2a26816b1b1"
+    },
+    {
+      "relative_path": "cells/y1992.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1992.parquet",
+      "sha256": "763a1d792fceef5aa7091cdc7579bb8a41e491c7ab57d2d221235d3a42dd5c38"
+    },
+    {
+      "relative_path": "cells/y1993.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1993.parquet",
+      "sha256": "7bfcf544d6c91e0b573beb297daf83a848ecbffad6e8e7839d8411d718e37ff8"
+    },
+    {
+      "relative_path": "cells/y1994.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1994.parquet",
+      "sha256": "b721f8e5a0800f0e4bf1cb7726560494a1e4db8158e91cfb13811c636bf31a0d"
+    },
+    {
+      "relative_path": "cells/y1995.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1995.parquet",
+      "sha256": "406ac011fe0f643159925b3a97eb17cd427137747bc16ee1231af9f81c788e20"
+    },
+    {
+      "relative_path": "cells/y1996.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1996.parquet",
+      "sha256": "fcdf468394916c90b6b885174f7697cfd4ebbdaa8ab16cdedcf7c9b26cf33d36"
+    },
+    {
+      "relative_path": "cells/y1997.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1997.parquet",
+      "sha256": "89f49f795056f9e82f719f2bfac6c2e551ba246f3af1201366250ca0a8e372fd"
+    },
+    {
+      "relative_path": "cells/y1998.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1998.parquet",
+      "sha256": "a43c0745637e53ed04bb88b70cee67f80dcb85962f3f7b5f6f2cfc5bb94d1b5d"
+    },
+    {
+      "relative_path": "cells/y1999.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y1999.parquet",
+      "sha256": "ba6128e8823b3c00bcdb4134f18cc799ac160d8edb02a2e80591338b03322524"
+    },
+    {
+      "relative_path": "cells/y2000.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2000.parquet",
+      "sha256": "7a5f0ab3c9f47ac4878792281a662cf721f9779def1f78445d581cc7756d185b"
+    },
+    {
+      "relative_path": "cells/y2001.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2001.parquet",
+      "sha256": "22a0775c5df6cd6abe67d8e66871a40e9e789de7fe2a640146baae4d35fd96ac"
+    },
+    {
+      "relative_path": "cells/y2002.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2002.parquet",
+      "sha256": "20dfdc52706894d946becc308300738e089eef197472d40a8d778250a789ebbc"
+    },
+    {
+      "relative_path": "cells/y2003.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2003.parquet",
+      "sha256": "f8e9e5e94168065aaa2533bb8657112d872dc0983bdc846f094b049412628c63"
+    },
+    {
+      "relative_path": "cells/y2004.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2004.parquet",
+      "sha256": "53396a1e01a77e460c04b2146366d0d52bdc81282bff6b8431f0ad0428c20925"
+    },
+    {
+      "relative_path": "cells/y2005.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2005.parquet",
+      "sha256": "28f0c68d527da5d8ad038e07d42fd8c15e78ab3a7edfe0c612b486f36335a4ef"
+    },
+    {
+      "relative_path": "cells/y2006.parquet",
+      "source": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/temp/employment/naics4_alloc/y2006.parquet",
+      "sha256": "580a6e79392b17b745890b43950b319be160a9d7d224790a6d15fa9f32e257af"
+    }
+  ],
+  "specification": {
+    "schema_version": 1,
+    "status": "approved_for_county_input_build",
+    "approval": "User approved existing CBP county-industry sums, whole-county missing-data exclusions, and implementation.",
+    "horizon": 2,
+    "first_regression_year": 1985,
+    "last_regression_year": 2006,
+    "first_population_year": 1969,
+    "first_employment_year": 1983,
+    "employment": "sum_existing_naics4_alloc_emp",
+    "missing_rule": "exclude_entire_county_in_required_years",
+    "undefined_mpgr_rule": "exclude_entire_county",
+    "zero_endpoint_rule": "retain_if_source_present_and_midpoint_denominator_positive",
+    "cell_cleaning": "preserve_existing_cells_without_modification",
+    "source_boundary": "frozen_constructed_inputs_not_raw_to_cell_certification",
+    "fixed_effect_variants": [
+      "county_year",
+      "county_division_year",
+      "county_region_year"
+    ],
+    "division_definition": "nine_Census_divisions",
+    "region_definition": "four_Census_regions"
+  },
+  "raw_to_cell_replication_certified": false
+}

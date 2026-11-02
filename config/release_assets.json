@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "repository": "paulhbeaumont/invariance-replication",
+  "tag": "v1.0.0",
+  "base_url": "https://github.com/paulhbeaumont/invariance-replication/releases/download/v1.0.0",
+  "assets": [
+    {
+      "name": "prepared-data-v1.0.0.zip",
+      "group": "prepared",
+      "bytes": 1906605431,
+      "sha256": "e820a9524708a3c76ee8411dec21919f8a3c8b20ecba85233e62e45986c53fb2"
+    },
+    {
+      "name": "FY2007_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2007_097_Contracts_Full_20260806.zip",
+      "bytes": 466997027,
+      "sha256": "88e28719b289efbf8cec5693c001fa9bcf2197b3972139c162dbd9d3b5f61b86"
+    },
+    {
+      "name": "FY2008_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2008_097_Contracts_Full_20260806.zip",
+      "bytes": 493254520,
+      "sha256": "06fa327a912f61ebff5aa710babc4f3d59b40b6bd8497025a06e859d28598653"
+    },
+    {
+      "name": "FY2009_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2009_097_Contracts_Full_20260806.zip",
+      "bytes": 476579180,
+      "sha256": "996b393688c4c450fd069e654d4bb6ba62eff8ee51ce759b14a4da4dd2ec073d"
+    },
+    {
+      "name": "FY2010_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2010_097_Contracts_Full_20260806.zip",
+      "bytes": 497105017,
+      "sha256": "03f18650fdc642c1cd69544730948f6d9bed340fba0925a89955a233a28ac4c3"
+    },
+    {
+      "name": "FY2011_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2011_097_Contracts_Full_20260806.zip",
+      "bytes": 494528908,
+      "sha256": "9599eead7c0e42174f706cffac71da9985a72328c456ca289a345b257e00cb8c"
+    },
+    {
+      "name": "FY2012_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2012_097_Contracts_Full_20260806.zip",
+      "bytes": 472762531,
+      "sha256": "c348fa57d5b717b4583e1403ece6b76d96b62b22513fe70158de11478de62361"
+    },
+    {
+      "name": "FY2013_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2013_097_Contracts_Full_20260806.zip",
+      "bytes": 435310051,
+      "sha256": "af949d826233333aa47783bc733acd50f582a5a79f59d288f014e82ecf6759ed"
+    },
+    {
+      "name": "FY2014_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2014_097_Contracts_Full_20260806.zip",
+      "bytes": 440232751,
+      "sha256": "fc7eeb3628cbdeeb5401e857ee1ce7b0273b10659547a5d742515323bf1152a2"
+    },
+    {
+      "name": "FY2015_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2015_097_Contracts_Full_20260806.zip",
+      "bytes": 852094335,
+      "sha256": "3b565de4d504a19aef54bc09ea59d11a6a1d6aa1a73e68be83a8a433a667ddaf"
+    },
+    {
+      "name": "FY2016_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2016_097_Contracts_Full_20260806.zip",
+      "bytes": 970596480,
+      "sha256": "7da7b54353124135fd801c502e42034e919a713ebffb8e528a43c294cfb0c4e1"
+    },
+    {
+      "name": "FY2017_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2017_097_Contracts_Full_20260806.zip",
+      "bytes": 978887165,
+      "sha256": "02b59c9f423e57c72268e6dc5ef959b5d1afd193de9297d08399617477390e14"
+    },
+    {
+      "name": "FY2018_097_Contracts_Full_20260806.zip",
+      "group": "production",
+      "path": "data/raw/USAspending/production/FY2018_097_Contracts_Full_20260806.zip",
+      "bytes": 1163280107,
+      "sha256": "9e301f2536f94162e80c3b7aff2817788511d10080fe0f313440bd83ccf1ae63"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M12S44925658.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2001/All_PrimeTransactions_2026-08-14_H12M12S44925658.zip",
+      "bytes": 107519543,
+      "sha256": "fe8e23482d1ea32d0ab218a4dddfab2bf4c54f9d1b4e0d28a38326c7fc0bfec1"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2002/All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+      "bytes": 158759404,
+      "sha256": "7336efdd04f4345a2f84a1befa5c7c458997b3b6061c8f9474eaaa4ca8bee8f7"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2003/All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+      "bytes": 203326757,
+      "sha256": "e555e3df510057b4e4c4c9215a022d7e6530f6d3f439a03acda97ffecc689802"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2004/All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+      "bytes": 253288709,
+      "sha256": "96e4cd41a386d4b8f7fecaf4b133803bbd03c71e06f22f69a0671bd2839fd9b8"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2005/All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+      "bytes": 452525420,
+      "sha256": "5b70428c10f50c0b96b55383dfd2bd6ddb149ea0dcbab9547aa404e2c0cda508"
+    },
+    {
+      "name": "All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+      "group": "diagnostics",
+      "path": "data/raw/USAspending/diagnostics/fy2006/All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+      "bytes": 442588523,
+      "sha256": "523ef9b8a63ffe9514107140a5284974eef16665c5ad0b85fe84f2d4110bd37e"
+    }
+  ]
+}

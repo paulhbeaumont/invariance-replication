@@ -1,0 +1,39 @@
+{
+  "paper": {
+    "doi": "10.1257/aer.104.3.753",
+    "path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/literature/Nakamura et al. - 2014 - Fiscal Stimulus in a Monetary Union_ Evidence from US Regions.pdf",
+    "sha256": "8a2d3e9d3ffe763f62b867a28dbae7fce853ce2a90db380b5197ee8b5c2acb25",
+    "pages": 40,
+    "source_type": "zotero",
+    "inspected_print_pages": [
+      757,
+      758,
+      759,
+      760,
+      761,
+      765
+    ]
+  },
+  "replication": {
+    "archive_path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/source/NS2014_replication/DataPrograms/Corrected.FiscalDataPrograms.zip",
+    "sha256": "66c948fbd4b496341e606a72d55059fc90b325a014a46b3fd6477fa89062f6d5",
+    "remote_byte_identity_verified": false,
+    "members": {
+      "DataPrograms V2 Jan 2017/do files/Table II_states.do": {
+        "sha256": "130d3c568b0ca1b7a706f1a858c87eb544e6e17972d87797d10444ffe8baad58",
+        "expanded_local_path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/source/NS2014_replication/DataPrograms/do-files/Table-II_states.do",
+        "line_sequence_match": true
+      },
+      "DataPrograms V2 Jan 2017/do files/Table III_states.do": {
+        "sha256": "639cf54b17f7e55d708d181824b46111834c78b732c7a560e440a789eefecb77",
+        "expanded_local_path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/source/NS2014_replication/DataPrograms/do-files/Table-III_states.do",
+        "line_sequence_match": true
+      },
+      "DataPrograms V2 Jan 2017/do files/Table II_III Row 1 preamble_states.do": {
+        "sha256": "781238001dbdc7c2c5c73d77c3fd58d4f2d53669eb6b4cb1c1852e91bd56a898",
+        "expanded_local_path": "/Users/f1azmm00/Library/CloudStorage/Dropbox-Matray/_AdrienTeam/Chenzi_Adrien/Invariance_Agg_Disagg/1_current_paper/_data/source/NS2014_replication/DataPrograms/do-files/Table-II_III-Row-1-preamble_states.do",
+        "line_sequence_match": true
+      }
+    }
+  }
+}

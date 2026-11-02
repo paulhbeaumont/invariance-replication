@@ -1,0 +1,1290 @@
+[
+  {
+    "path": "data/disaggregation/county_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/disaggregation_h234/county_h3.parquet",
+    "sha256": "f62da2e2eabcfd7bdde50724634f3c56c5881b67ed1f5ece4186506e34bb79e1",
+    "bytes": 10501926,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/naics2_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/disaggregation_h234/naics2_h3.parquet",
+    "sha256": "34ad7d3e45c5fc1f4be315f6ba8f08ae4ea017164c69a28b20f97c3106badda2",
+    "bytes": 2494135,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/naics4_alloc_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/disaggregation_h234/naics4_alloc_h3.parquet",
+    "sha256": "82c02f4247096f7ac2550164ea7d1333b9a7b7e6d18c862c58f2983d5a055f84",
+    "bytes": 2759067,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/lag_naics2_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/lag_weighted_log_h234/naics2_h3.parquet",
+    "sha256": "f5b92f067e142f0167425b39cb23f24bac381e5b615964276da7ba52e8ffa28b",
+    "bytes": 2867770,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/lag_naics4_alloc_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/lag_weighted_log_h234/naics4_alloc_h3.parquet",
+    "sha256": "ce37cc4426b0e58481919c55309f41856bf32bb03a44374c4706dc10942f1acb",
+    "bytes": 3470523,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/mpgr_naics6_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/mpgr_h3.parquet",
+    "sha256": "01cc7c77247660ae10c22e2fa1ecd200240846e10a5d2854f499fb1658d5619a",
+    "bytes": 1154098,
+    "kind": "data"
+  },
+  {
+    "path": "data/disaggregation/decomposition.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/h3_analysis/decomposition.parquet",
+    "sha256": "d22b04e5d6265e5052902f6577b74b97cf11e98363f9d22ae7b3e04cbd43aaa5",
+    "bytes": 19342381,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/log_iy_h3.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/tables45_weights/h3.parquet",
+    "sha256": "6057bc5990c8cdf32ca13b1af01f9c9c817e286e32d5cf7bfca7162818a1704e",
+    "bytes": 349438687,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1981.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1981.parquet",
+    "sha256": "ed0e1dd3e23f996dffff113b380a95783eeb47ba26113562bb9446e0cd98555e",
+    "bytes": 40573754,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1982.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1982.parquet",
+    "sha256": "34f0e99a8173efeae275014ca4c200fc5ebf5dc44aa012c3654acc164bd1954c",
+    "bytes": 39890054,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1983.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1983.parquet",
+    "sha256": "117aba1d9998e0d19512914f0281cf0b968ded46131e6ad60d09ba372a833588",
+    "bytes": 40476692,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1984.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1984.parquet",
+    "sha256": "f193e350eb02294b71c9ec2cc6cd3d668d08da4397d4eaf0ee58949d7011c996",
+    "bytes": 42179339,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1985.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1985.parquet",
+    "sha256": "423431f3b32a4ad7b95b33b0f07b3691365003779cd3f8546b3d15291212eacb",
+    "bytes": 41985620,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1986.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1986.parquet",
+    "sha256": "9637af7e68ad6bd6d37878eccf74e4175913045e89327516db8a0faf23f30376",
+    "bytes": 42476019,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1987.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1987.parquet",
+    "sha256": "5dc88bf8e1454d893ba4d82b5de8b91f92cdd823bcd86be7c38946c56efb7be9",
+    "bytes": 42374572,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1988.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1988.parquet",
+    "sha256": "dbc67866c56735761ba29d7af7074e31c47393128034610dca7a7a1027371a27",
+    "bytes": 48842653,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1989.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1989.parquet",
+    "sha256": "1c5c9604074639f9072931cc856f14df6e41e291e47fe26ea4c88dc51a24ebeb",
+    "bytes": 42621469,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1990.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1990.parquet",
+    "sha256": "0e59d8df952cd35bb9ab1090d2aae23ebcb6eea443539da755cdafc57a72122e",
+    "bytes": 42100196,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1991.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1991.parquet",
+    "sha256": "92a0d1b4308c5c4dc1025d58f6d900befde6e4d7086ebe1d3aae9d25eeec1330",
+    "bytes": 51898217,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1992.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1992.parquet",
+    "sha256": "4d3a8a1675478109d5b548e25478bc6aaba2c62bff9e64d6c265b85ab6e3aa8c",
+    "bytes": 47638929,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1993.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1993.parquet",
+    "sha256": "16759e8e3a1726006a8623acaa9f850b451eaf0ce43d10952b66e12e4ec561b5",
+    "bytes": 48796718,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1994.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1994.parquet",
+    "sha256": "941662d5c9b147caeca8566b120d4061cd165e9d20fdcb7918ef4b22a71f3f3f",
+    "bytes": 54015199,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1995.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1995.parquet",
+    "sha256": "dee0f3b2f6d03dad125ba3ed742f3e676ce724b18e9be82075fa3264dba376ca",
+    "bytes": 55004926,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1996.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1996.parquet",
+    "sha256": "cf34d77f450971009bf36869ae4c12d053ce3ca594330b2e7b7fa8692a64b56c",
+    "bytes": 55410027,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1997.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1997.parquet",
+    "sha256": "68266ac56fc0fc6f907e61ee2fbff256fbc709a52dffed26d29b4aeada6c572f",
+    "bytes": 55835921,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1998.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1998.parquet",
+    "sha256": "0bf89d15d0d80d416739c867c864118b2611b6277488b7e95bae669efc1ca336",
+    "bytes": 36367135,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y1999.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y1999.parquet",
+    "sha256": "b4279ec3fc8994edf5accde8d4aa2106da77a1b31e1c8a5fb17d50aaa2e6224e",
+    "bytes": 35488830,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2000.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2000.parquet",
+    "sha256": "5e3398acb9c7048b663232caec64eb4eaa7faaeef58579d530b5601c27fd3748",
+    "bytes": 37046485,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2001.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2001.parquet",
+    "sha256": "c0cca64193ca1627317cf2a1e0f996a49596e52101cd222291cc2ba88b865dc9",
+    "bytes": 17536491,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2002.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2002.parquet",
+    "sha256": "775dc7e3a941a3e8e0e55caf486a07df0b03d206d63e1f78c633780a314fe6ef",
+    "bytes": 17654724,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2003.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2003.parquet",
+    "sha256": "5b52f4b228c46c12960532150631b5aa4202dd7ea2c1589b575a5bd3dd313fc4",
+    "bytes": 18029308,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2004.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2004.parquet",
+    "sha256": "70e8e0a80cf76abb919ed5734a8a600ae70aefd2935b80bdb172410cd978759a",
+    "bytes": 17489253,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2005.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2005.parquet",
+    "sha256": "eedb6eb32b9ee5a2911f27e4a8ba6a0efb7728373633363ab7a326451abe0986",
+    "bytes": 18041681,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2006.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2006.parquet",
+    "sha256": "3d177f60a3b0c685a34a8fda5b61f1b90b9bfe3ce41c3c8b037734e1b2e2afc5",
+    "bytes": 16112122,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2007.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2007.parquet",
+    "sha256": "6db735963a53d6817fc3660b40269938047fdbbb152631035925aeb02f39af92",
+    "bytes": 16434007,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2008.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2008.parquet",
+    "sha256": "908b9ca6dd0d54d81847d051998bb3ebb91027d0d57509ad231b35221365af40",
+    "bytes": 16284447,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2009.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2009.parquet",
+    "sha256": "2191387a20ce3726b92f8f1580f13d5be443e0d1edbcf65ae0c55136b60f5ae3",
+    "bytes": 16220483,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2010.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2010.parquet",
+    "sha256": "39f98bb09206b2f7c816af188f8bdbcf1b299be0a09424f64c8827b9ee29eb02",
+    "bytes": 16319043,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2011.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2011.parquet",
+    "sha256": "1aacd8f10108f338d9031d7333022cf614c46921ecd71f9b87edcc127c2662c6",
+    "bytes": 15789440,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2012.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2012.parquet",
+    "sha256": "7a912be1afbc20e287b8f7378bfdc4e14ebfdea87beb9022b3e50de4545bd034",
+    "bytes": 15739467,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2013.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2013.parquet",
+    "sha256": "f25db7c8960342fd15cd482c192c302921b1084932afc6701472967d4ad1fa12",
+    "bytes": 15624752,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2014.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2014.parquet",
+    "sha256": "536959104c058a2d833c747469ddc77687ea5c3322e90d62cee7a0eb80e6d044",
+    "bytes": 15690788,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2015.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2015.parquet",
+    "sha256": "ea7bf8680b9990d4c6f0cd7f60ab2c1b140af71005638d5780826246f8493498",
+    "bytes": 15984826,
+    "kind": "data"
+  },
+  {
+    "path": "data/cells/mpgr_iy_h3/y2016.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/analysis/table2_cells/h3/y2016.parquet",
+    "sha256": "9e029174632a9585d07513fc9992d91f161eb7c6604d1b456e3761836e690a08",
+    "bytes": 15912639,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1978.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1978.parquet",
+    "sha256": "6342bdc75da5fd35e522c132e6c71e9e4c4315be769a93cd63e31f33ce273582",
+    "bytes": 9087454,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1979.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1979.parquet",
+    "sha256": "073a119834ee9baecd9c534275d2ff2a9cd961154f735add20ed3e084d74ccff",
+    "bytes": 9076785,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1980.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1980.parquet",
+    "sha256": "b825d8cbbd4273fc06240db48f4742fc887b40ef3af7dd9d88b8c419105a0bc8",
+    "bytes": 9104345,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1981.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1981.parquet",
+    "sha256": "56907a45f8e331b72bbc28ccc37fe35fe348e701d25f4c0b5f4a0ad4b9260d1a",
+    "bytes": 9475048,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1982.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1982.parquet",
+    "sha256": "9ffec239084a26610f4b33f5b1d26b71f59af5a00cb7e45f2deea508aa6eeb79",
+    "bytes": 8936929,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1983.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1983.parquet",
+    "sha256": "01e15ea28480e002f5a6d5c07b2e400709c6be94bf2952f8842389a1513cfe12",
+    "bytes": 9195014,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1984.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1984.parquet",
+    "sha256": "dfe37403f9d52835e6ca5623b0b53e04c0bb0172999ccd2315ffb9b0f6df1ee7",
+    "bytes": 9650326,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1985.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1985.parquet",
+    "sha256": "af21ea116bfe2a055ef7220433ebd39f6bf2002a580a52eae8e1e643db55de2c",
+    "bytes": 9917991,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1986.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1986.parquet",
+    "sha256": "32127621f5d78fef6e17e2ecce7b647ed4e59ce639ec314950d83f66ce055271",
+    "bytes": 9728163,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1987.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1987.parquet",
+    "sha256": "8a9b217076617907c00f3b1f28b406e35ab267a3187b27c8a40f032cffcc8d12",
+    "bytes": 9220263,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1988.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1988.parquet",
+    "sha256": "7f717c10dd9c39da25d23b1b1f47c59a453034aa6d9dfcc5d2814c32708b2134",
+    "bytes": 10711584,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1989.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1989.parquet",
+    "sha256": "de8139caf853eb36b119c63f5cb8b10ed9ee39557f913ab9d815223fcf0039d7",
+    "bytes": 9056263,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1990.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1990.parquet",
+    "sha256": "85c44700bf987c8ecaf9cd7d09387accd046f90335680735ba68acbafd81624e",
+    "bytes": 9471090,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1991.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1991.parquet",
+    "sha256": "770d618da047129e3e00aa92c79f98530932a67baa140900cdc19f19c3480594",
+    "bytes": 10933788,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1992.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1992.parquet",
+    "sha256": "0aa8fcd38868926e18454bc28ddb0dbffba716127b40e4ededb0f5a612445443",
+    "bytes": 11198159,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1993.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1993.parquet",
+    "sha256": "114160c2508a159b3adf87fc14faf4473956ee486ac2e0cef890907044fdd9db",
+    "bytes": 11357870,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1994.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1994.parquet",
+    "sha256": "4bbc42e9b75cc46c88980140560c7d6ed1f13ca12868e3dc6bb500c1e89db8a0",
+    "bytes": 11416127,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1995.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1995.parquet",
+    "sha256": "629c5860681a074abd31284fba5c248b09f69bac4929e27a706f287f5cdff78d",
+    "bytes": 11440753,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1996.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1996.parquet",
+    "sha256": "4ed8ad63ef784ab605d47a860394ac1bb5cc333fe31127c0c1e631ec55824e7d",
+    "bytes": 11640934,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1997.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1997.parquet",
+    "sha256": "3c35cc7cfd190cdd0008200327fcd19a9a586eaff5e094c07466a916369a794d",
+    "bytes": 11728304,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1998.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1998.parquet",
+    "sha256": "60fd2e99725b276d937ffbad7578021b29436a11e9f6975e4f2846ba3c397aaa",
+    "bytes": 4797117,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y1999.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y1999.parquet",
+    "sha256": "7cbf671f0c5d04cc1366c0046bdcbd7b99cf9906044d5ca76a6b6bc8481b29c8",
+    "bytes": 4702531,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2000.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2000.parquet",
+    "sha256": "d435b6d33f090f9255188360686cb85d22e418383a76214e00766c3c4d7ba49a",
+    "bytes": 4758529,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2001.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2001.parquet",
+    "sha256": "9f0493e60879ec0d8ad8f903cd96745dd51bc0878ce4d82b58f8520bea98ddc8",
+    "bytes": 4745997,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2002.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2002.parquet",
+    "sha256": "0f3196cf8e8c658610257efcb5c91aa927ffa6b6847037f89c03f6fb002a68b5",
+    "bytes": 4850326,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2003.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2003.parquet",
+    "sha256": "38f5a161c60b8a155780d7197f871ebdfc410c9e314628cfb33f4aa5a7ed7cf8",
+    "bytes": 4423919,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2004.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2004.parquet",
+    "sha256": "edc413672d35d69637ccdf38f7296dab9ec4a1f6ca1aa5aab93212d41c4f7a84",
+    "bytes": 4494466,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2005.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2005.parquet",
+    "sha256": "0a62b0307232099229b51119ca4a883904308c411976c7daaaf2a394da7a6c31",
+    "bytes": 4448447,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2006.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2006.parquet",
+    "sha256": "21c1d8873bf195557f7764e70e4af4cd0597748f92876b7b76c35d8b41136b1c",
+    "bytes": 4540737,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2007.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2007.parquet",
+    "sha256": "3c5f0e707498d053de2174baec0ee23a99cf83dc2aaca69818cfa1bee2a811c4",
+    "bytes": 4518065,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2008.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2008.parquet",
+    "sha256": "e48bf84f355929cd3a5be5f615641ab829ad910d2813754f33efb418158fb6dc",
+    "bytes": 4445484,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2009.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2009.parquet",
+    "sha256": "91ac5abc05f6c3e49ad1fc3412f4b72f64b16a9fe9338ed18135bb201f2751d0",
+    "bytes": 4350488,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2010.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2010.parquet",
+    "sha256": "48e35170426133bf30171eb15c4bacd3d6d0a56e8b2a80c1c47c8b33b50fa3b8",
+    "bytes": 4303483,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2011.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2011.parquet",
+    "sha256": "0cf10e6583ce0fa17f4c1be0e00eac3582744a07ba4d6d30d53fd0227282c144",
+    "bytes": 4396122,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2012.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2012.parquet",
+    "sha256": "c0511627398aff41991646a5a88d6e8fb5a2d02a3188be60a5db69b4ab5ffdec",
+    "bytes": 4401015,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2013.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2013.parquet",
+    "sha256": "278f95b10805570a0a337a34cde50600b496f339e3263845bc5d0d31e8adfe79",
+    "bytes": 4272324,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2014.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2014.parquet",
+    "sha256": "8dca9f0d3ab9c659a521fb84bc2a11b53eebed91673d10f20a93f8d55c874ae6",
+    "bytes": 4264976,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2015.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2015.parquet",
+    "sha256": "68a5b7cb13209fea30a5886a89908e361041c807d3cf3335a041bee243d59bf5",
+    "bytes": 4364439,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics6_annual/y2016.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/naics6_residual/y2016.parquet",
+    "sha256": "0026b7c3c39bfb09c5308090a4c5a4633a3792e3e6d91f0125a8afad8d2c07c7",
+    "bytes": 4462650,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/baseline_roll5_gap5/source51_contracts_net.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/baseline_roll5_gap5/source51_contracts_net.parquet",
+    "sha256": "212258ca316215ceccb567e4bbe8dfbfcec5443785e00e099bfd10186d69b678",
+    "bytes": 966480,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/baseline_roll5_gap5/source51_county_panel.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/baseline_roll5_gap5/source51_county_panel.parquet",
+    "sha256": "2cea0645682623b0d7c355411c8dadd806db81e6563e8ec30eff9152cfe93c21",
+    "bytes": 3341733,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/county_state_h2.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/county_state_h2.parquet",
+    "sha256": "32d797fb2f77430371becf6874245e767115885847359f8ff0d946964f0e010d",
+    "bytes": 7375569,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/aggregate_state_h2.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/aggregate_state_h2.parquet",
+    "sha256": "6be22521251f486cefc2feb0abbc9a15a85dbf22187d10aa4b48fbad71e6db5c",
+    "bytes": 132583,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/county_state_h3.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/county_state_h3.parquet",
+    "sha256": "e416711b8aae39aa5e954eb89d7f663aca6a6394b84c8913b5a8fa67ceb4c1ef",
+    "bytes": 7213312,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/aggregate_state_h3.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/aggregate_state_h3.parquet",
+    "sha256": "4a8b305c1318c791dab924b8bfab4f435bb789cc1a512e9fb5707868383c8ae9",
+    "bytes": 129005,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/county_state_h4.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/county_state_h4.parquet",
+    "sha256": "7256ef40b1ad32f4cb0e81cf35d9e6e145cb1900a62c8c0eee0d63116861bac7",
+    "bytes": 7038489,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/aggregate_state_h4.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/aggregate_state_h4.parquet",
+    "sha256": "241fe4eff2a08ca104d4bbdc23fac09ace19a4932508ceeca4558f05c39b287c",
+    "bytes": 125714,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/county_cea_h3.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/county_cea_h3.parquet",
+    "sha256": "38a780881dbed255387d338e5fcb5a0021bc589380ca859b9f402ca5af193d7d",
+    "bytes": 7484043,
+    "kind": "data"
+  },
+  {
+    "path": "data/aggregation/aggregate_cea_h3.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/horizon_2345/aggregate_cea_h3.parquet",
+    "sha256": "8ad1c3845c4468a89351c9c81fea5297d6b1a5ca687070935dc256f5cc03b5fa",
+    "bytes": 845011,
+    "kind": "data"
+  },
+  {
+    "path": "data/heterogeneity/county.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/heterogeneity_levels/county.parquet",
+    "sha256": "a415c50a9dbe5b5b2cb5f53c9faaea86789e79e38b24b42c40821a01b7b848a3",
+    "bytes": 13282414,
+    "kind": "data"
+  },
+  {
+    "path": "data/heterogeneity/state.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/heterogeneity_levels/state.parquet",
+    "sha256": "3421d2bb2f2951eead130bcafbc6925b308667eef9181722e2ca6292ba8baeba",
+    "bytes": 288528,
+    "kind": "data"
+  },
+  {
+    "path": "data/heterogeneity/characteristics_reference.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/balance_reference_2000/characteristics.parquet",
+    "sha256": "af41679e934309ab0ab63b97fceabd3414925e35508229fd9b6385e131b7cf08",
+    "bytes": 570770,
+    "kind": "data"
+  },
+  {
+    "path": "data/heterogeneity/balance_tests_characteristics.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/balance_tests/characteristics.parquet",
+    "sha256": "4a4ce5c3f58fc5f356a85e8cd39ca446d9505a634fdf387545d8f658d198cc62",
+    "bytes": 366718,
+    "kind": "data"
+  },
+  {
+    "path": "data/heterogeneity/balance_sensitivity_characteristics.parquet",
+    "source": "4_Macro_version/sandbox_Paul/data/balance_sensitivity/characteristics.parquet",
+    "sha256": "edc3daea320a687851ec5354735b5617f225f15853668028c31743f532ce97b2",
+    "bytes": 425424,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics4_characteristics/y1978.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/disaggregation_h234/naics4_alloc/y1978.parquet",
+    "sha256": "2fed95d6cb4a7b7f2ac7fe67d6cc947f9a060af0cf93b477fad2cff5c1fdadde",
+    "bytes": 8785570,
+    "kind": "data"
+  },
+  {
+    "path": "data/upstream/naics4_characteristics/y2000.parquet",
+    "source": "4_Macro_version/4a_PaperApplication/data/intermediate/disaggregation_h234/naics4_alloc/y2000.parquet",
+    "sha256": "7a5f0ab3c9f47ac4878792281a662cf721f9779def1f78445d581cc7756d185b",
+    "bytes": 2415398,
+    "kind": "data"
+  },
+  {
+    "path": "reference/coefficient_files/disaggregation_h234_complete.csv",
+    "source": "4_Macro_version/4a_PaperApplication/results/coefficients/disaggregation_h234_complete.csv",
+    "sha256": "cbe238b425497774c5c44b73eb069ffaec4027921eea5470a19b9da3c3c37aea",
+    "bytes": 3513,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/coefficient_files/log_lag_full_county.csv",
+    "source": "4_Macro_version/4a_PaperApplication/results/coefficients/log_lag_full_county.csv",
+    "sha256": "7447af330d36d36b95a04b075bf12f4266521e7375c08ef4cd276608943686b0",
+    "bytes": 1154,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/coefficient_files/log_naics6.csv",
+    "source": "4_Macro_version/4a_PaperApplication/results/coefficients/log_naics6.csv",
+    "sha256": "a67865a428c621f356e0d28f382a7e4e3143ebefefc9dc223c44f9879344ca3c",
+    "bytes": 1398,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/coefficient_files/tables45_new.csv",
+    "source": "4_Macro_version/4a_PaperApplication/results/coefficients/tables45_new.csv",
+    "sha256": "0f54705e96981e3f80d1d4630e1ee4edc772e87f1d0eb0f771a1a2c3c80a4cac",
+    "bytes": 1905,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/coefficient_files/table2_new.csv",
+    "source": "4_Macro_version/4a_PaperApplication/results/coefficients/table2_new.csv",
+    "sha256": "6d39a5f872c2e143847fda6878480d5dd5fd2c9f6082b536c2a1fd6eacafdfe6",
+    "bytes": 2751,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/displayed_estimates.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/disaggregation_no_population/displayed_estimates.csv",
+    "sha256": "fba538932ee0e956ea30718bca0c98ba7e494e1bf09b8d45a2382a63fa67dbd2",
+    "bytes": 19347,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/aggregation_selected.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/aggregation_summary_tables/selected_results.csv",
+    "sha256": "22d235390bf1a88437723bd950fe771ccbe0a891222c4c0d9740e1473a5d3e41",
+    "bytes": 3215,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/aggregation_fit_statistics.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/aggregation_summary_tables/fit_statistics.csv",
+    "sha256": "7ff8d0bc9adeda8543e69985de7822040bcb96aa8118f5484e822a0f28a02d5b",
+    "bytes": 413,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/h3_estimates.json",
+    "source": "4_Macro_version/sandbox_Paul/output/h3_analysis/estimates.json",
+    "sha256": "8538e345ea97a98ea4f2a1407e9e1deeebab4c69ca68a7a18439bd1cad73aef3",
+    "bytes": 10731,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/decomposition.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/h3_analysis/decomposition.csv",
+    "sha256": "77d01b3cfc40550ce7d9df396ae74697ac5e9d2cee0b448e03e66e2945d589ac",
+    "bytes": 295,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/heterogeneity_coefficients.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/heterogeneity_separate/coefficients.csv",
+    "sha256": "0750d9788ecf4c75ce317dd59cca256a180dc520e8a68509b8cc42b2056946a9",
+    "bytes": 2539,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/heterogeneity_delta.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/heterogeneity_separate/delta.csv",
+    "sha256": "4169fd36d4343213cbfdc2a887ca578995b18190eac8399a0962b5d39a148112",
+    "bytes": 417,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/heterogeneity_design.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/heterogeneity_separate/design_audit.csv",
+    "sha256": "d0a3dda0fbaa26984f0cd971a310886a523f30fcfe644d803bec48ff36a4ff1c",
+    "bytes": 818,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/balance.csv",
+    "source": "4_Macro_version/sandbox_Paul/output/balance_reference_2000/balance.csv",
+    "sha256": "2dd21bee5f93295427c12a11868400a6caef671e3249ce715c56930bf5912348",
+    "bytes": 2643,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/aggregation_alternatives.tex",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/aggregation_alternatives.tex",
+    "sha256": "2b137140f0ceb60fad0abfadfac6c95512d6dd642357212ba0cf536f17ee9f20",
+    "bytes": 870,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/aggregation_controls.tex",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/aggregation_controls.tex",
+    "sha256": "67f535e50d28f32e903067fdfabd90915d888952a83e39a0ec19b5e7e689986f",
+    "bytes": 953,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/aggregation_main.tex",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/aggregation_main.tex",
+    "sha256": "e417ff319b224d66ea7333928f8002e996d41e162f463528c9afd550e40a5352",
+    "bytes": 623,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/disaggregation.tex",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/disaggregation.tex",
+    "sha256": "f40d0bc6a1aae1141693cdebde9598f598d6763754dd0d8c9bb6bccb48ed788d",
+    "bytes": 1651,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/disaggregation_portrait.tex",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/disaggregation_portrait.tex",
+    "sha256": "5d090846312e2cad1fa8a2b9a1c82a510fd56de6fb185eb8b98bf943612055a7",
+    "bytes": 2090,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/covariate_balance.pdf",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/covariate_balance.pdf",
+    "sha256": "705a4dca08973e82f0996cac634b45b81cca75142770d981d284909c8a1621fd",
+    "bytes": 62566,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/disaggregation_gap.pdf",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/disaggregation_gap.pdf",
+    "sha256": "1106d6f2ead989b22dd7adf8386a72ee2acf74971b4fb16d9acc0bb4dabc39c7",
+    "bytes": 62807,
+    "kind": "reference"
+  },
+  {
+    "path": "reference/paper_exhibits/disaggregation_gap_portrait.pdf",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/assets/fiscal_application/disaggregation_gap_portrait.pdf",
+    "sha256": "a01fb6e6cce9401610cbd878dfd23cacbf9b4083271847f2c2d0f0b433325d70",
+    "bytes": 64732,
+    "kind": "reference"
+  },
+  {
+    "path": "config/county_construction.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/baseline.json",
+    "sha256": "c8219866f81b4af3f753a92a0b178b9b3446f1858870d6f5b33a791cd95a20b1",
+    "bytes": 960,
+    "kind": "configuration"
+  },
+  {
+    "path": "reference/upstream_source_manifest.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/baseline_sources.json",
+    "sha256": "ddec720c6ba1625ba150a5acf28f48e12550505c91ff3cb1d81bd1c2549fc41c",
+    "bytes": 3216,
+    "kind": "reference"
+  },
+  {
+    "path": "code/vendor/baseline_math.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/baseline_math.py",
+    "sha256": "f05efa4a7dc444c94cc9f3fd575394a163237d97aec0d49d59bec604db907aab",
+    "bytes": 4096,
+    "kind": "code"
+  },
+  {
+    "path": "provenance/original_4a/code/build/aggregation.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/aggregation.py",
+    "sha256": "7dced34933dc25845e8da8fc25a1d1c5036d9a8989b2b8ec3c5263d273ee2f96",
+    "bytes": 4614,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/aggregation_iv.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/aggregation_iv.py",
+    "sha256": "b51356ffbfc50f923bbc86548b22534a164ff73bba4d2b7a3064cf467f518b89",
+    "bytes": 3895,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/aggregation_winsorized.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/aggregation_winsorized.py",
+    "sha256": "db15c3b01d9cfe853d0c433d48cb5e624e528537b0842b7a9895fa4ad68bbd2d",
+    "bytes": 3511,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/annual_procurement.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/annual_procurement.py",
+    "sha256": "f0b0868f130c78a3aafa3a1c8a8764a69f2002b31984f8fd7cca33833c53a13c",
+    "bytes": 7109,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/audit_annual_inputs.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/audit_annual_inputs.py",
+    "sha256": "d880be173b5b138fcc74b429e9370d3adb1aafa030085f9a72dbb69c9df54792",
+    "bytes": 8184,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/baseline.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/baseline.py",
+    "sha256": "dfa3c06d80a8d8c245a9db8e62928e1fff83a7be9719f6d9faa52be1b36e8f48",
+    "bytes": 4400,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/county_inputs.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/county_inputs.py",
+    "sha256": "420a6aa8b5bb78c7a129bdf7ac701d14405b27cae69ff6e0b276b7686df4ac28",
+    "bytes": 13954,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/disaggregation.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/disaggregation.py",
+    "sha256": "7ee039858b6f65b077a20feea8391d93b0c834b6d7ea8d838991c6d20f48ed24",
+    "bytes": 7619,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/disaggregation_snapshot.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/disaggregation_snapshot.py",
+    "sha256": "28db65e95eb68b536d48e67f593d6281e60cfc8cc9a5a66ec21db234de54cbe4",
+    "bytes": 3506,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/exposure_grid.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/exposure_grid.py",
+    "sha256": "de4b582ecaae2724bd954e46982c4b34df93d1d0f528096225f956c4effb9074",
+    "bytes": 8743,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/lag_weighted_log.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/lag_weighted_log.py",
+    "sha256": "5b1ddb0ec488f7a0bcc6b1bb5444d80a963ef6a4bafb39a5e031832ed190273e",
+    "bytes": 4380,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/naics6_cells.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/naics6_cells.py",
+    "sha256": "fd501ca1f4654f15752fcba1b48eae0b8488b53c2ed3a894bc62a46f61bd2406",
+    "bytes": 8892,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/naics6_construction_audit.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/naics6_construction_audit.py",
+    "sha256": "c38a0243a762dc116da35cf7787380be32520ac2206b0bfbfbeebee59ba47a8c",
+    "bytes": 6901,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/naics6_log.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/naics6_log.py",
+    "sha256": "cc4bde2c72506685bf00c4d9220c6e7a2b448604deb3b9d9aa03b765c4b1bb9f",
+    "bytes": 4603,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/ns_procurement_tieout.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/ns_procurement_tieout.py",
+    "sha256": "b00b86eebcf9f71c997be02d2e489cc22001799573971e367167b51cdfb5251b",
+    "bytes": 5504,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/snapshot_baseline.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/snapshot_baseline.py",
+    "sha256": "33aa882305d1541e2037c12f442176e422cee63a02a5e686b7b70b8777e5dc93",
+    "bytes": 3880,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/table2_cells.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/table2_cells.py",
+    "sha256": "ad94a03c879478d6a1e35ba90c215b546643945ffff6f934e57aacf9c2e5c2c0",
+    "bytes": 5088,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/table3_cells.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/table3_cells.py",
+    "sha256": "7900046fe71d7d2b09c0a7d5e107d5409f234d4dc87d78911d447c84ffaa2f0b",
+    "bytes": 5138,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/tables45_weights.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/tables45_weights.py",
+    "sha256": "e7c1e82b8db23c4ccd50e38d3b722d34e907272eeae7e523e055f2142206d0d3",
+    "bytes": 2920,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/build/weighted_log.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/build/weighted_log.py",
+    "sha256": "5994f12cc16d0937cc36b5338c50696994393a376f80288760e8d3ac4bc86dba",
+    "bytes": 4449,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/aggregation_design.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/aggregation_design.py",
+    "sha256": "85d8499f96186717600000a38e557f5d3f591247695ede0c0044bac9260aa763",
+    "bytes": 5157,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/baseline_io.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/baseline_io.py",
+    "sha256": "a0983a49594f8c915a8bc5b2b5fb5136ab2de287607486214d8b119fe40b4535",
+    "bytes": 2424,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/baseline_math.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/baseline_math.py",
+    "sha256": "f05efa4a7dc444c94cc9f3fd575394a163237d97aec0d49d59bec604db907aab",
+    "bytes": 4096,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/disaggregation_math.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/disaggregation_math.py",
+    "sha256": "c3c75883d32c715ef0d09b7ae561f59cefe01b24c0790ea93e30b61b63f0ca98",
+    "bytes": 3265,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/paper_weight_io.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/paper_weight_io.py",
+    "sha256": "e6eff335ba0a52c3a910629a4416b6c7c1ac018ce41f963b98b7cab71dcd4ba2",
+    "bytes": 746,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/lib/research_table.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/research_table.py",
+    "sha256": "69e20eec1d6e36e0d388c3191d65ed7aa4d8efcc89758d1466cb8b4a9fea83c6",
+    "bytes": 4902,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/aggregation.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/aggregation.json",
+    "sha256": "da67cbaf52a9aa8242f1ddd8a7e54f09a47965b207fe6b4ddc40a0e9b5b99ef4",
+    "bytes": 1225,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/baseline.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/baseline.json",
+    "sha256": "c8219866f81b4af3f753a92a0b178b9b3446f1858870d6f5b33a791cd95a20b1",
+    "bytes": 960,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/baseline_lock.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/baseline_lock.json",
+    "sha256": "b791710c0214531af6331426cd1830aed11dc6985161991a9c580413c5715bc6",
+    "bytes": 178,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/baseline_sources.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/baseline_sources.json",
+    "sha256": "ddec720c6ba1625ba150a5acf28f48e12550505c91ff3cb1d81bd1c2549fc41c",
+    "bytes": 3216,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/county_inputs.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/county_inputs.json",
+    "sha256": "6e2f1c06d7e4bbbcd079c9b192be5b25bc9fc5d250a1f6cf23b976239f01b44d",
+    "bytes": 923,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/disaggregation.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/disaggregation.json",
+    "sha256": "6f8ad0b8140d1e7638c47e973fa0c9907c004491a433e9274e9c23f608e6806d",
+    "bytes": 1015,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/disaggregation_lock.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/disaggregation_lock.json",
+    "sha256": "fab45e8977b6369b383711563ef5dbe7a3adbaa28e2a560547599a0a81e15395",
+    "bytes": 272,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/exposure_grid.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/exposure_grid.json",
+    "sha256": "c463149d1f01c3daf2ce27774d7e133dd5ddaee0b3e66b3372f8fdcc01ade084",
+    "bytes": 2492,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/log_sample_policy.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/log_sample_policy.json",
+    "sha256": "b7ec1eb4cd16ddd19cc8290f28e59c85df4add2dc5b0a29bd2908dcebcef85e5",
+    "bytes": 440,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/log_weight_variants.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/log_weight_variants.json",
+    "sha256": "bf9413cca34661a791a31a522ee6e2af8fda9ed81f335adaddddcc3ff590fe8c",
+    "bytes": 519,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/naics6_audit_sources.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/naics6_audit_sources.json",
+    "sha256": "1ef73a144a29d8276e7711f2cf0be21daf38bdcd40f2fe0382d49077c8f80084",
+    "bytes": 537,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/ns_reference_evidence.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/ns_reference_evidence.json",
+    "sha256": "ea0c1ab3a32740e646c137b81d48ad0489a7a5eabc253d3aca73f1674a129068",
+    "bytes": 2151,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/paper_aggregation.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/paper_aggregation.json",
+    "sha256": "8612fe0121419294a7501a0a1f7b1c2d87e49e6e396c646522436a18c6bf510a",
+    "bytes": 1432,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/paper_weights.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/paper_weights.json",
+    "sha256": "3b9055ec68ddf83818710a21b9d27ce89c278685a8e86eec5fd02dadbf68b147",
+    "bytes": 516,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/procurement.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/procurement.json",
+    "sha256": "a022e66f766d84799a4e47593d0f237a63ba0286abe256088ac1d7ccdf0466bf",
+    "bytes": 1235,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/config/source_snapshot.json",
+    "source": "4_Macro_version/4a_PaperApplication/config/source_snapshot.json",
+    "sha256": "65847a7a38003289c27f2224e6ad6e164d99cecad62e8a842ff782448459d273",
+    "bytes": 1061,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/h3_analysis.py",
+    "source": "4_Macro_version/sandbox_Paul/code/h3_analysis.py",
+    "sha256": "494cf4b71871fc49ddb40d04afbf250e85e0c7c2fa89d50bda0aa98a9d05631c",
+    "bytes": 15691,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/horizon_2345.py",
+    "source": "4_Macro_version/sandbox_Paul/code/horizon_2345.py",
+    "sha256": "b5423fe2efaaf3c07d01dc191f1a553b8d3975afcc4af9573b40a0f4810c360a",
+    "bytes": 12522,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/heterogeneity_levels.py",
+    "source": "4_Macro_version/sandbox_Paul/code/heterogeneity_levels.py",
+    "sha256": "4bdb830ad51563db1aca8ebe4295a122e1268bef5c3239dc3ea38607ac91a05a",
+    "bytes": 10060,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/heterogeneity_separate.py",
+    "source": "4_Macro_version/sandbox_Paul/code/heterogeneity_separate.py",
+    "sha256": "4c43cd111f11d9b23dec6ca38e8b707f61ea9b9536e185230cf246b0eda6202c",
+    "bytes": 6313,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/balance_tests.py",
+    "source": "4_Macro_version/sandbox_Paul/code/balance_tests.py",
+    "sha256": "2ca8bf020faacbaeef26f474373f1d5dfcb3fee3a7dcc3e8a52a77e7f454ae8f",
+    "bytes": 15144,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/balance_sensitivity.py",
+    "source": "4_Macro_version/sandbox_Paul/code/balance_sensitivity.py",
+    "sha256": "669acc7e4e3c3f350b06a68ef732d4ecb9fd7c8aad539da7ffef1684e663dd87",
+    "bytes": 12715,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/balance_reference_2000.py",
+    "source": "4_Macro_version/sandbox_Paul/code/balance_reference_2000.py",
+    "sha256": "008426515a5512b46222e4bedf14b9b6a3eec39bdc70a52c8b2311a7ed7c426e",
+    "bytes": 9138,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/render_results_recap.py",
+    "source": "4_Macro_version/sandbox_Paul/code/render_results_recap.py",
+    "sha256": "2ff3184ba73bce7b642b8476ba1c0e5a630f4280af6e71ebab4377ecf4783d4d",
+    "bytes": 24645,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_sandbox/graph_results_recap.do",
+    "source": "4_Macro_version/sandbox_Paul/code/graph_results_recap.do",
+    "sha256": "bcd3121c3a5650c4fe0f5f7485d1b7917a2830ed63f9038c01fafb77e170d6e3",
+    "bytes": 3899,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/estimate/table2.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/estimate/table2.py",
+    "sha256": "5eabc632e6a572f602de8ea2c297b9d202edc9ec71dfa4e072abb8ce42a78721",
+    "bytes": 4807,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/estimate/tables45.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/estimate/tables45.py",
+    "sha256": "496715cb5ef55154ae7d8c834f5a00a48c60a370bfc66d3e19cd631ccac98c60",
+    "bytes": 2548,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/estimate/log_weight_variants.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/estimate/log_weight_variants.py",
+    "sha256": "bc925a08db54d11115715ddc8493e84bddbc1a1049424837e1b007023edb4c6f",
+    "bytes": 3858,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/code/estimate/naics6_log.py",
+    "source": "4_Macro_version/4a_PaperApplication/code/estimate/naics6_log.py",
+    "sha256": "7eb1b10edecbf21c3c2a9ceb93d083ac9181668d2bd7fa4eb395ad8e01761d09",
+    "bytes": 2628,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/docs/specification.md",
+    "source": "4_Macro_version/4a_PaperApplication/docs/specification.md",
+    "sha256": "d2adbd7350864f913374db4de65bff5fceb67aeba4dd9b9b28f4ee64683da9fd",
+    "bytes": 7926,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/docs/disaggregation.md",
+    "source": "4_Macro_version/4a_PaperApplication/docs/disaggregation.md",
+    "sha256": "09cf2a2498bbbfb6982827d0e2358731a58f57e92d7f0fa20fd4aa0e78937da6",
+    "bytes": 7637,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/original_4a/docs/aggregation.md",
+    "source": "4_Macro_version/4a_PaperApplication/docs/aggregation.md",
+    "sha256": "a90625e1d61491be4103c849796f38e5a46cdf3b5c9912f54e110659ff8de7b3",
+    "bytes": 3555,
+    "kind": "source_archive"
+  },
+  {
+    "path": "provenance/paper_plotting/graph_fiscal_disaggregation.do",
+    "source": "1_current_paper/paper/_paper/paul_rewrite_sandbox/tools/graph_fiscal_disaggregation.do",
+    "sha256": "6227ffa41028975fd1b3166526ee5a15339ae1f8dd1763eb1768f2e768be78b1",
+    "bytes": 1972,
+    "kind": "source_archive"
+  }
+]

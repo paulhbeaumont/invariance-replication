@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "status": "approved_for_empirical_run",
+  "approval_record": "config/approved_spec.yaml:approved_fields.county_run_settings",
+  "variants": [
+    {
+      "id": "fixed_1969_1974",
+      "start": 1969,
+      "end": 1974
+    },
+    {
+      "id": "rolling_L4_gap1",
+      "length": 4,
+      "gap": 1
+    },
+    {
+      "id": "rolling_L5_gap1",
+      "length": 5,
+      "gap": 1
+    },
+    {
+      "id": "rolling_L10_gap1",
+      "length": 10,
+      "gap": 1
+    },
+    {
+      "id": "rolling_L4_gap5",
+      "length": 4,
+      "gap": 5
+    },
+    {
+      "id": "rolling_L5_gap5",
+      "length": 5,
+      "gap": 5
+    },
+    {
+      "id": "rolling_L10_gap5",
+      "length": 10,
+      "gap": 5
+    }
+  ],
+  "horizon": 2,
+  "outcome_growth": "midpoint",
+  "first_regression_year": 1985,
+  "last_regression_year": 2006,
+  "exposure_formula": "mean_annual_per_capita_relative_national",
+  "national_shift": "window_change_over_baseline_population",
+  "national_support": "all_input_counties",
+  "leave_one_out": false,
+  "fixed_effects": [
+    "ccg",
+    "year"
+  ],
+  "weights": "equal",
+  "cluster": "ccg",
+  "small_sample_adjustment": {
+    "k_adj": true,
+    "k_fixef": "nonnested",
+    "G_adj": true,
+    "G_df": "min"
+  },
+  "annual_panel": "annual_20260913/annual_panel.parquet",
+  "annual_panel_sha256": "84daa9978aafc4a0c9eb333f23443a2b772ceb33a02bb30d2541fd99d9fa52d3",
+  "annual_source_manifest": "annual_20260913/manifest.json",
+  "annual_source_manifest_sha256": "72ddaf7f8667c5f6b7cd611e79dde1192242e1ab322e6d03e1a393982e0f4bba",
+  "package_versions": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "pyarrow": "25.0.1",
+    "pyfixest": "0.60.0",
+    "scipy": "1.18.0"
+  },
+  "field_status": "User-approved NS-style conventions with accepted discrepancy; annual input certified within frozen constructed-source boundary.",
+  "outcome_approval": {
+    "level": "county",
+    "formula": "2*(E_ct-E_c,t-h)/(E_ct+E_c,t-h)",
+    "scope": "Seven-exposure county grid only; no change to the aggregation-test outcome.",
+    "approval": "Explicit user choice: MPGR growth at the county level for now."
+  },
+  "fixed_effect_variants": [
+    {
+      "id": "county_year",
+      "columns": [
+        "ccg",
+        "year"
+      ]
+    },
+    {
+      "id": "county_division_year",
+      "columns": [
+        "ccg",
+        "division_year"
+      ]
+    },
+    {
+      "id": "county_region_year",
+      "columns": [
+        "ccg",
+        "region_year"
+      ]
+    }
+  ]
+}

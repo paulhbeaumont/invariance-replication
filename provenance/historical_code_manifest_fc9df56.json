@@ -1,0 +1,1799 @@
+{
+  "commit": "fc9df562037324ecfeb1cae1d34de8b13d408ce5",
+  "source_repository": "thetfplab/aggregation-disaggregation-invariance",
+  "files": [
+    {
+      "path": "4_Macro_version/step_1/README.md",
+      "sha256": "fb69fa008f62ebe4a6252c318c0db086204591b4c054e9480e9416811082961d",
+      "bytes": 250575,
+      "git_blob": "f7f9b66f64551f45c66572a885678e47b43443e2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_272.json",
+      "sha256": "ec1426c59939e8a41166c8bdb31a3f020c0d8fe6f824cf81fa57bfb51bc70575",
+      "bytes": 7488,
+      "git_blob": "f50973ea6559f959eb332e53bbb215177267c219"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_392.json",
+      "sha256": "2b7cbf0921cb9b4a94c6fb1fee458772eb8a355a46a59cad3ab7b637a42a5261",
+      "bytes": 13064,
+      "git_blob": "f2bb2a99481892272ba44f77f19aca414c664656"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_464.json",
+      "sha256": "fa6cec842a5fffa1c04777b34c53f2eef56afd068c38e0dbf121d35b9bad564a",
+      "bytes": 14937,
+      "git_blob": "1d5f222c364469f07a14ac82f12ed9090d731f58"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_464_fy89.json",
+      "sha256": "9a5025006e00d350634834d35add032482c32a77bb9b71f639df91430f7ed6a4",
+      "bytes": 14040,
+      "git_blob": "600661da5ff6a047d30b014e3a6fb3147a6a73ae"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_470.json",
+      "sha256": "dd0de42a94e73c6cd725cbdde77d65e745b0c4f30d1e12c88f9b1b1b3b5ae71e",
+      "bytes": 14630,
+      "git_blob": "484ba488ea32aca70d3e09689e9d0eebb1a759e8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy00.json",
+      "sha256": "a9304d86bf018794832bf86ce6d6361674e420a9d0c3ba86bc71b3b93354b12b",
+      "bytes": 12362,
+      "git_blob": "dccdb919f4c5175f96bb1a8a21b6a3574aa44ec0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy01.json",
+      "sha256": "cf3e519b5938b57f0945a4b0899867ddc296a5870add34f1b85c5144469960a3",
+      "bytes": 13126,
+      "git_blob": "19cec37a124e7732af0872961b1941751f0b7e56"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy02.json",
+      "sha256": "f95b5b7cd901f815883d22c9eb4594e0af5a3e3f666e37d7c882f5390c2590f3",
+      "bytes": 13949,
+      "git_blob": "b0a79ee64cf559fe81cf2770bfefaa0e6fe2eb81"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy03.json",
+      "sha256": "92bcffbd025379051b6e499f2cff5b3d8a9b3a34cf81305fcc4d3d0dd5a41443",
+      "bytes": 14332,
+      "git_blob": "a306f2dc4ba1b1c4fdfb777d0122967846ff37d2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy97_98.json",
+      "sha256": "e6aaf7a390f8d3717510f7a569a8b845d748a0b9b6e813a3fe79c1ce367d332b",
+      "bytes": 12845,
+      "git_blob": "65139a5cc7ef0ecb6b489f111697f54a1e0d36c0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_502_fy99.json",
+      "sha256": "695ae883ef3452a835b8baaa692ac4d8d0d5bdd77a3da964b5733bc10d0fdbc2",
+      "bytes": 12441,
+      "git_blob": "85a7d4914f5beafe43df2a0623f233c920b90917"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/layouts/dcads_delim_2004.json",
+      "sha256": "a671406b5a660001e006ac0bfe45575ed54f678218e48113da3e42b711bcd5ac",
+      "bytes": 24078,
+      "git_blob": "6f73bf471dc73914a68d95ab3273dff8d4a9d844"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/00_capture_golden.py",
+      "sha256": "eab298b95b3783405023a52ae8359eb7218d2fd0489971fb73d903ae9155ec86",
+      "bytes": 4502,
+      "git_blob": "5480c49b76a9d4ed051a2f773db0a1e8d8a93822"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/01_contract_panel.py",
+      "sha256": "679b3579cce9df381187e971c117ecbb619c24127ddc982e43304f5098bf32df",
+      "bytes": 3709,
+      "git_blob": "282356a2afaeddbf1af37d3518ebce064af7b035"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/02_county_panel.py",
+      "sha256": "2fec678f032e657bf415f612789fdf5dcee190c5fa9991f4f6d9fbe4a9ba74a8",
+      "bytes": 1750,
+      "git_blob": "9da48b4791f9a6a2cf59cbfb74fac1885e5fbd27"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/03_composition_instrument.py",
+      "sha256": "d1891d07c582be8d02a2ffffc7c037364295bf8fb2613913783e040c2f3c024a",
+      "bytes": 6529,
+      "git_blob": "22458cda8a1b57abdceae7daa0457e8bf003a613"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/04_analysis_panel.py",
+      "sha256": "300fb11642a9416ebe6a312352b16b43f52697eb67f4ed952c21a9ac98cdf1e0",
+      "bytes": 6371,
+      "git_blob": "d3092d943bb61c843b2d1bdd90ef31ad8aaad771"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/05_baseline_tieout.py",
+      "sha256": "2db47a34cac3b8038bd96436764d5307239f8ffd046de8d6ea1a11370ce1e598",
+      "bytes": 12536,
+      "git_blob": "413f90ed4e83ca3bdb86877d0fa5efabadea494d"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/06_fsc_industry_concordance.py",
+      "sha256": "17be99810fd93f44ebd538b7f5152c5ecc255418f4c7fcedb6e52b0d523b7e6f",
+      "bytes": 16771,
+      "git_blob": "abe690aec88f576934510abea734792324b75413"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/07_naics_vintage_concordances.py",
+      "sha256": "15b1777af3186ce03e9533ac362c98ceb948507b0f5e2172a87e5be6cbadf99e",
+      "bytes": 23560,
+      "git_blob": "ef36c7b32288acc15490e279d3254c00a4ef3200"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/08_fsc_concordance_on_efsy_axis.py",
+      "sha256": "f2351d6eb7f33d86ee210df0ec454c9ee0fb14687d781904bf55a689a5d7f934",
+      "bytes": 19430,
+      "git_blob": "6346713fde2732aa69aa5d19f8c37a14190805e0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/09_usaspending_recipient.py",
+      "sha256": "5dfe60b5656d8a868bead0f190621f609558f1b97b56097b9ecafc02e22c1a62",
+      "bytes": 23978,
+      "git_blob": "197c22a4f0138590bf1ef14cd12be7a493e0d654"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/100_h2_full_instrument_design_grid.py",
+      "sha256": "20b0bdc9d00788821f757032ad01167b4e63519d11c9babea0518097a79f5b62",
+      "bytes": 17024,
+      "git_blob": "aaf119d5ca345c7023297754b9818aba5f35d99c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/101_h2_county_xy_winsorization.py",
+      "sha256": "8b38b41e50a87fa1203819a9da386c94f06a294dfeba13cf84d7e81dacff2769",
+      "bytes": 14190,
+      "git_blob": "4fe02248ce227fd612ae7e9b1dd9a45472faceeb"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/102_h2_winsorization_cell_audit.py",
+      "sha256": "de05e748e109b8b97817e30fa35b6c12fde7c6ea3aadffd89d448b57d83c07fb",
+      "bytes": 307589,
+      "git_blob": "3697eac3156e0504b8384dd2b86b459880d1b1fc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/103_audit_contract_report_corrections.py",
+      "sha256": "110d69e584cd12be220eb885b30996244925b33c146e0d5da87ed6743dd9111a",
+      "bytes": 22543,
+      "git_blob": "4d22e50ff7b85ab3b8f3bb27a753d14672135354"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/104_apply_contract_report_corrections.py",
+      "sha256": "0e297aa8d6b06f7db74e363381402b00b51b0866be7cf9f4078cdfe3cffbb5d4",
+      "bytes": 13677,
+      "git_blob": "67a705a0b7e9bac12343e24118c9b549ca9197d2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/105_h2_report_correction_comparison.py",
+      "sha256": "74f39ee819b2ca6db978e8532236b6bd7cd1e65991258956b31930d6cefdbbcd",
+      "bytes": 17359,
+      "git_blob": "e534c218da68e5b7856ef290aabce1acb1393d25"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/106_h2_exclude_meat_ew.py",
+      "sha256": "12796d2219782bafc6fe0681928e75f91400967d7dfea85804339d31d91745ec",
+      "bytes": 13291,
+      "git_blob": "f4eb57c489476f17ee330f2ef790262ba55e74fd"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/107_h2_net_flows_fixed_exposure_ew.py",
+      "sha256": "91fc59b699a463687dbd57d27d450f5dc87430c4357848e16df24249815456da",
+      "bytes": 17108,
+      "git_blob": "e47dc55ceb0bc5fe330f1c6e0d2b0eeb53f9d7f0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/108_h4_winsorization_diagnosis.py",
+      "sha256": "24df8e345f90af073d31a0e367db13e0caf4b45a8333bf86d3549cb170ee05a5",
+      "bytes": 56523,
+      "git_blob": "db89e30c0de4355b4e4a4348429e726626e5b4d7"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/109_h4_target_source_audit.py",
+      "sha256": "23f5398d47715d8aee27c071aef7ed3743e84534baa9f376bc9b67b227f764ee",
+      "bytes": 33350,
+      "git_blob": "6037ecbfb110929599b8f32d543c4cd171bb6b8b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/10_nets_benchmark.py",
+      "sha256": "bf6122e754ee22071389c0518e32538b2d3875af35251efcace0c244761bb9d2",
+      "bytes": 71993,
+      "git_blob": "61df9a906f195c191963dc27129105cac8cfa537"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/11_nets_birth_divergence.py",
+      "sha256": "77a1e1c9a0fc50b85466287f8c18710ea62edf9e56d8646b54d5f7d8d70701e0",
+      "bytes": 61890,
+      "git_blob": "f9a08899c7a77d79d7441edc0fe7f86a1cc3f947"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/19_ingest_1970_county_characteristics.py",
+      "sha256": "1e4480bf93153cc872b057f856845c926e25eb1babfb8609b4765b66da54a695",
+      "bytes": 21672,
+      "git_blob": "f8e25119e1c381234390684f55c1b4b82b023bf6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/20_shift_share_tests.py",
+      "sha256": "c329f447d6d93025e3fa18351874c9f06f66fe736c8b031944f58753f6492f30",
+      "bytes": 24980,
+      "git_blob": "6699dc50c6f0112a743859ee5ac86c439b0e2cca"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21_fixed_initial_share_balance.py",
+      "sha256": "1b369a22f441f44f5aa7ef193516e0530df19034d21d99797b6f182ca37f5c61",
+      "bytes": 9859,
+      "git_blob": "c2a58dd1576071cad59bd25783b1ea382981b9b3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21_rotemberg.py",
+      "sha256": "2c0464d6f6aa05df0c3ea293f071cafdf33cc362c59bb3b9121533c0052d2d45",
+      "bytes": 37715,
+      "git_blob": "fb481fa77a5e5d81fad9eea2e577be11a5413330"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21b_gpss_frozen_share_rotemberg.py",
+      "sha256": "d664435ea432c255d1cdac11f4e69ad35558b7eef731578bc28033cee69eb11f",
+      "bytes": 18547,
+      "git_blob": "2e2884bc7bc6d96ffe181ae525f70f6056f16334"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21c_gpss_leave_top_out.py",
+      "sha256": "9f6660fcbc1b437fe6e0bf98e703e87fb3b2d153640b3e0b08fcd2cfc5834422",
+      "bytes": 10571,
+      "git_blob": "f957ac3937a9087819d837dc29b9427ad6749d8c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21d_gpss_share_balance_1970.py",
+      "sha256": "ba5d2b7395a2e523539384a176b1e2625ca22924e92e9eef560e6ff1f6b697c4",
+      "bytes": 13042,
+      "git_blob": "9da5e756e43de5439caed3ca9274e7ec9ce4d2e0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21g_gpss_top_category_anatomy.py",
+      "sha256": "624c04f32ed22af13af0b46b0b7ff914d53e7057d203a3c2ca0a9fe7366fc376",
+      "bytes": 17170,
+      "git_blob": "7b5c461920dbd0d4758392f8cebc4071ef1cc231"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21h_gpss_capped_scale_instrument.py",
+      "sha256": "e0375720cab60990a5571c2806ba52c8f2cb086d1097d99e515f7c4b35f9b673",
+      "bytes": 13594,
+      "git_blob": "90d9bc1511320e44cb2b2fc841ee95fa15194b0d"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/21i_gpss_capped_full_diagnostics.py",
+      "sha256": "d17206deba34461c2894bbb18234cc54e1a5a72ad2098a09b0bb507f0ea411ae",
+      "bytes": 15837,
+      "git_blob": "fac0408b54bdd733ff143bb7bdc735033dd7b182"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22_bhj_assumption1.py",
+      "sha256": "2bd63e4cf9de30caca2be41b3e41cffe7f38ee4eb7db2f068098be9b171af0fe",
+      "bytes": 66680,
+      "git_blob": "624497ab586af3ea635b469c1950292ef0cac9ef"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22b_bhj_1970_balance_h2.py",
+      "sha256": "992855b1d7d41b0abc958f63229a3f530f6ccc7aaa4b5c28d6b0b3578a269305",
+      "bytes": 12639,
+      "git_blob": "10ed5025c6ad0ed3c680cdef393160ce84b2122a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22c_bhj_effective_shocks_h2.py",
+      "sha256": "c07ba4475e303c113a6ba5c37a16a3de3fb6b58776f75e56d5caaf40fc51063f",
+      "bytes": 8162,
+      "git_blob": "768199d9b3df4329ff55580e18b759e7112292bf"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22d_bhj_incomplete_share_checks_h2.py",
+      "sha256": "e6c29cbfb96f962508615be08fb7ace2aa537908eeac3d4ed7e49a378f1657da",
+      "bytes": 21266,
+      "git_blob": "0072abf707e66c53a994bd41d47a9833a7e92d69"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22e_bhj_share_sum_year_decomposition_h2.py",
+      "sha256": "6eac11474e708f8f51aa8afc4c0e28083b5179a1ebd18ccf93835c0e505777a6",
+      "bytes": 21470,
+      "git_blob": "77d845946e28f3c5397eed8649281641109af57e"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22f_bhj_1989_1993_drivers_h2.py",
+      "sha256": "b40e819e74775691266b1a6dccd7172f5e38843d4eabadab6a37a02d604effd4",
+      "bytes": 16287,
+      "git_blob": "37950b4c67052bb158c5bced93bf0c7c3664ad9b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22g_bhj_platform_split_h2.py",
+      "sha256": "f67bc08e94633dde06e986fc7fe22a627ae204681c6a8de50b14655769a43ac2",
+      "bytes": 14717,
+      "git_blob": "dab7cfb33a353ae10248d42574371c5176b49668"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22h_bhj_fixed_initial_share_control_h2.py",
+      "sha256": "61ffab443a236705424a435882ffadeb2ebab9369ec94dac527c83d844e7cebe",
+      "bytes": 9984,
+      "git_blob": "2c30840853c1f9fbc2beb6f8f860398edea8a76f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22i_bhj_normalized_composition_h2.py",
+      "sha256": "4eb974278fd0c25fb6b43d2d4443aee66f65e3ad8a108b2a6055aafe680c9fc1",
+      "bytes": 11128,
+      "git_blob": "104849afcc64ee6b08a858130c92d87ba351792f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22j_bhj_hierarchical_shock_correlation_h2.do",
+      "sha256": "835da5a6eb2fe9536065726d634c12085d8d4b8cf7f253cbe183847e83142e87",
+      "bytes": 2383,
+      "git_blob": "719470cb11390d7f9a6d759f7912da946ee47a2a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22j_bhj_hierarchical_shock_correlation_h2.py",
+      "sha256": "6f073a7dcfe81e918409f10e1ba95fa8e6e375b727b774d90d1914d75d25b193",
+      "bytes": 10517,
+      "git_blob": "9137d6e07b4311e320aac7fb7a5e1b9e9ee81ea6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22k_bhj_leave_one_fsc_group_out_h2.py",
+      "sha256": "f565d3a46b1acf4abcc6b581af94d6c704ea4e8b57f31cf88aa30b321c3fd56a",
+      "bytes": 11686,
+      "git_blob": "1b562d6f065dd66c2cfbedf2890b57a280867722"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/22l_bhj_capped_scale_h2.py",
+      "sha256": "3ef4cffcfe731c7535d68406e1ec69974b652d2eb81d11dbe54d6307b8d21bd4",
+      "bytes": 13194,
+      "git_blob": "d4d7e03beadb920623aff14294fb69d8d6204f01"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/23_industry_axis_cells.py",
+      "sha256": "d189a57f32447517e8f6659073d0982149ea808c00aed53a8172e98ef31ae99b",
+      "bytes": 25330,
+      "git_blob": "2e8e994ac2eb9eabf80fd64d495199a9bd826dd0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/24_efsy_axis_rung.py",
+      "sha256": "e42bdb643d80bfcd7dafad4482b5205535f7b7c91cc8d234662c83bfbbba5fa3",
+      "bytes": 20754,
+      "git_blob": "578ba8be629fd3f126382c9ad8ba1c1efd19be36"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/25_industry_instrument.py",
+      "sha256": "d1a687aadad19a7e0b18f1bb3bd6c53bab8f77b47705225263b57862e6ac6849",
+      "bytes": 15684,
+      "git_blob": "b21174b852e56db8c494b24dfb0aa504c8136d43"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/26_industry_analysis_panel.py",
+      "sha256": "0b0ac24054ac05263aad992fd8c3279729812106928df5c1d84adf6d5958f39b",
+      "bytes": 2948,
+      "git_blob": "b37524a49795e0dd8e7d9712a712c848777eb57b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/27_industry_axis_comparison.py",
+      "sha256": "bbcf52130ca048e3efa0d734b52dbc6b6988643d3eca536a40b74b4262ea0902",
+      "bytes": 9783,
+      "git_blob": "59c848485fd793a70ce4375198d5f8b5a4ec226f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/28_industry_shift_share_tests.py",
+      "sha256": "5ca9c61295b452ba8f244bd1d6877fa61e6c4d723d6b9b3e61da5a5396bdb220",
+      "bytes": 48147,
+      "git_blob": "e67a909c4122ff60e7b10450f8e9909b7eeefe01"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/30_entry_margin_bins.py",
+      "sha256": "8d0bb3ea54dd73f231ad89f99618d26d74cb44df1903d9cee412ea7aa0af676b",
+      "bytes": 72134,
+      "git_blob": "586a2ea1ca5e9a50e4b9c23eb48d51bb5ca48e6a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/40_weighting_ladder.py",
+      "sha256": "62554257ea355d3cf7aa2bdb201e5408990be1033466ad6fccab5f648871cd33",
+      "bytes": 11305,
+      "git_blob": "0b090237023c790731a8e3db916360bb9c22af12"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/50_lp_dynamics.py",
+      "sha256": "c7400f2d764e6385b355cecda29e38481caff40095e0becc7fedb9e752bb67db",
+      "bytes": 118319,
+      "git_blob": "d04d15f4a6ad554513991400da3ce0c7f6652a3f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/51_industry_lp_dynamics.py",
+      "sha256": "08c24e4ce2be6eb0cc65f0a7cffdca32af8d030a17a92f77605a6b6eb4d7fff1",
+      "bytes": 39829,
+      "git_blob": "9cf0fc496d24290d6a62f8c0043fb8626d3502a5"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/52_two_year_shock_lp.py",
+      "sha256": "caae6bdaa7b3bc0451157e51ad5e5cde092ba97cb7a7271c09f23d279d63dc4d",
+      "bytes": 19953,
+      "git_blob": "77ba7359117f9fe7c29a1d7bc853f5e68fcb4fa3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/53_two_annual_innovations_lp.py",
+      "sha256": "3ec7016dc1a179bbe834b7f8b969e5aa8aad0d35446de8b02f89a509b6fbf485",
+      "bytes": 22427,
+      "git_blob": "1d86f248cea660dbe68830f8141576b677ca5d28"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/54_annual_shock_predictability.py",
+      "sha256": "824ffd868da0f68354acc01ea855ea36be450b803a2bd39e44353453f5fb46cd",
+      "bytes": 8887,
+      "git_blob": "1306645959c7c8eda53c01b2da062498632a789b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/54_lp2_compact_bridge.py",
+      "sha256": "53d97bb3699466b24d121afa92a2a7ff8e8737c22935b19f2347348370f74ecc",
+      "bytes": 8182,
+      "git_blob": "85755f2e646a0b497e426b683362a2750ed08896"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/55_five_year_normalized_shifter.py",
+      "sha256": "e966c50b5dd3d8e2ea1cebabd71dd19b4a4ebe7bfbfefea65e9c94fbd58556c9",
+      "bytes": 11862,
+      "git_blob": "06976fb9fefa34145ca774d08994bb90c166d0ea"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/55_lp2_preperiod_decomposition.py",
+      "sha256": "a71f074b04dedf0181c7b729f2ff7f757f18c15c60584a9a0267e02b46b1dbc5",
+      "bytes": 7550,
+      "git_blob": "21cd130a3f9b235a8285574088d76cd2d74a5b37"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/56_h1_j2_diagnostic.py",
+      "sha256": "6d4c750f872ecb7dd993e86bf49367f72185988f4ee5a178b4fd450d6fc1a38b",
+      "bytes": 10562,
+      "git_blob": "2f313ff1cbc43c6726b45fe00bde4e92191576fd"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/57_h2_shifter_clipping_diagnostics.py",
+      "sha256": "ded083ec08418779eac75c7705470b2d39916344d8adcc36e9579f9d746ad193",
+      "bytes": 16665,
+      "git_blob": "4affc501fe2b7a9256068452efe9fde9728551ff"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/58_h2_shifter_smooth_mpgr.py",
+      "sha256": "df4312964c0bc8a7cf6e01b5a3667ebe93ff4109efe4c5445b786da7bab90a4d",
+      "bytes": 7002,
+      "git_blob": "85aabbc0bba80a7006b81b88115bafdd0b86c3b8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/59_h2_shifter_mp5.py",
+      "sha256": "f3c95bbe3f6a5dfba141766d4cd7de67a3ca341669fccc0de54ebe992da36dbe",
+      "bytes": 8026,
+      "git_blob": "b302ce23570b96f9a76a8c19dcc101a25dfe9cfd"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/60_h2_shifter_denominator_comparison.py",
+      "sha256": "2d89c4dba09b217e7a5f5794f3770daef55727e10e0516c7169ef37856debd38",
+      "bytes": 9351,
+      "git_blob": "8371c9c68660015e4ff110c8ea6bca88dbbef95b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/61_h2_base_denominator_tail_rules.py",
+      "sha256": "f8a52816f911b14233229ebec143bd8274678d7d6881123410cea2fa0c27fc10",
+      "bytes": 10443,
+      "git_blob": "ea30eba54e7422e3f1a888d9ca5f2f7e4936aab7"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/62_h2_base_denominator_iqr_rules.py",
+      "sha256": "f99e07aba0277c4ab12b2e3f6c9e8204c1f897b12bbe1e687a22c11405ff9c5d",
+      "bytes": 10745,
+      "git_blob": "763320e9ff9735273ac5907c6e30cf1d2c9f9f6e"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/63_h2_prefix3_category_shifter.py",
+      "sha256": "4b77fd7e1a70d63cbc050adcfb1a5d6bcd8b025a3fadcd78f5cacb6386d3c936",
+      "bytes": 10629,
+      "git_blob": "55177c44ebf79597daedf9690574ba2ae36edb47"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/64_h2_prefix2_denominator_window_ladder.py",
+      "sha256": "06ad9b6f9e69e81253261b8a068aaa6c8bd31d38ee2490562af718d85bca66cd",
+      "bytes": 13151,
+      "git_blob": "7f70631cc1fb6cbfa74915ce4d438a5ac3655439"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/65_h2_four_character_denominator_window_ladder.py",
+      "sha256": "3a2e67c9fd728763f8878be7c5551d977000719156bf40467e4e79bd0a1b5ae8",
+      "bytes": 9563,
+      "git_blob": "2c922d842741e2c0c528eb420071e836c45e7670"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/66_full_sample_scale_horizon_clip_ladder.py",
+      "sha256": "8e9b9ecd8cd8b578c3ac453da2d88ac4d6f8d789cbc4e15d0e42ff086793b239",
+      "bytes": 11568,
+      "git_blob": "7def7d2715fe6a22d388a2d801b1fc2671c627b5"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/67_flow_audit_full_sample_horizon_clip_ladder.py",
+      "sha256": "f113163ce4927dcab0362d985df338393337916c2012766ac5babc80caae7532",
+      "bytes": 11951,
+      "git_blob": "bd5c3a9a013eb6e0fa132cc2c605c97df8984e6a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/68_h2_exposure_window_market_share_shifter.py",
+      "sha256": "cf974d78689858649319b67b15d62b528883df15e5580ef3fa54f9e245a259ea",
+      "bytes": 11622,
+      "git_blob": "cf2c560bd9979b2bc629cdc7ac3eb2ae73bdf451"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/69_h2_market_share_first_stage_diagnostics.py",
+      "sha256": "898d83c88f2678ba206fecd5590de703caa67e842501c46739d3083d885a4dbd",
+      "bytes": 16927,
+      "git_blob": "8b40f1ed96d785b452a58f3e2c1a1d379fc85016"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/70_h2_market_share_austin_county_anatomy.py",
+      "sha256": "061c38772c51a697c1455a6bfaba4d8120ad88fed270c1c7c87f8b8ba14bcbc1",
+      "bytes": 20727,
+      "git_blob": "bdab99b26d3b84dd3124e09c38afaa31eb2580f2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/71_h2_leave_one_out_market_share_shifter.py",
+      "sha256": "858c835db03da8bfdca81e1d5af70639bef3046201800bc36e0e3f6923548581",
+      "bytes": 17864,
+      "git_blob": "2e43aaff16ad9550b150069ed173c38f3577cd6a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/72_h2_market_share_window_length_grid.py",
+      "sha256": "d1a39e80eae4aa77fbcf711882f1ae411caa370ff40b4ce781758c10cb8d49cc",
+      "bytes": 13012,
+      "git_blob": "850ef19355211a8073d3338abc2ad9433f3497f1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/73_h2_market_share_category_coarsening.py",
+      "sha256": "69cec22690ba944a88524ba692fe3f6e6a99bf0fa0a6f6e589edf13b8264645d",
+      "bytes": 17055,
+      "git_blob": "4ae2c6e43361a9b91bb182ea11ee042065809a2b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/74_h2_market_share_2320_audit.py",
+      "sha256": "4087e9738a3f43f53f80a4903e12ae4d4434bd8d47c4f5a76f4b2df979adbdf0",
+      "bytes": 25661,
+      "git_blob": "0d7f5a91133599180c098b65522b01d2c68832a1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/75_usaspending_city_county_source_audit.py",
+      "sha256": "2d339c046c0cde8b11c44d1b3d212b233d698a2527ddf2c15847c5acd3339441",
+      "bytes": 9700,
+      "git_blob": "a9f79689a252a467c92c76849127184f2793a366"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/76_usaspending_city_county_repeated_triage.py",
+      "sha256": "d0a7c548103e4bdb25d926a6e9b5820fb8a59bcfec8b038d6c10496bc23d93fd",
+      "bytes": 25811,
+      "git_blob": "c91a93031c1159cbab19540b7c568bbc5b70c8c8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/77_verify_lancaster_west_jefferson.py",
+      "sha256": "2132721187b43895bad05cf716bc8402518afab8ded1c4f654eb0437fedc83c6",
+      "bytes": 22539,
+      "git_blob": "0244a5668c49474ce372c48128100ca69e726143"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/78_verify_brooklyn_geography.py",
+      "sha256": "9968b74128658cad41bd4b62ac20bfa4711cd7afcef5651c64c832cda84ffa1d",
+      "bytes": 24339,
+      "git_blob": "984d390ddb570049b5479183a5a07762344bc543"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/79_audit_remaining_repeated_city_county_candidates.py",
+      "sha256": "05394133eaaf9bd4ccdf4961df1ed8df34901c25939dd0a8b389199dd01a145a",
+      "bytes": 32615,
+      "git_blob": "cc00ffde088734d66bbfb021e5f8470a80481368"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/80_audit_single_window_city_county_candidates.py",
+      "sha256": "651a909300894788bce3c6ab26b80843ea96749d1fc1f01ad53af5fbd9c63595",
+      "bytes": 34318,
+      "git_blob": "eab82124ec83e5ccbe2e0c373a1d11c6ad1586ea"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/81_h2_loo_category_coarsening.py",
+      "sha256": "baf42f9d75f99ad77e8c576dc28199400337a856d4ac498bc647fc7f91a0de49",
+      "bytes": 13618,
+      "git_blob": "2ff0e25ed412cb861c0e7c36c6496275c3b8bc66"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/82_h2_market_share_delete_one_county.py",
+      "sha256": "3fbefaf8567d0c812d28c942fae98bd95a384b8dc5c1bd13680b341e6acc873b",
+      "bytes": 16503,
+      "git_blob": "59baae05a9824a2d0b581ffc1300022ede9756cb"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/83_h2_market_share_fixed_county_leverage_grid.py",
+      "sha256": "76807be751ad9ab30a2b750360a16f74442e819ebc8a467ea68023f13178a0f4",
+      "bytes": 10938,
+      "git_blob": "49d190826d3971f12365971fff369eedc9b0bbaf"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/84_h2_raw_procurement_county_share_grid.py",
+      "sha256": "cf030456515c1ff00efff26ce5c8f94f75a788c7dd36627a8b6043e0430d45f8",
+      "bytes": 9819,
+      "git_blob": "9affc8d5eaddd03eea93b0952b8089e06c5372a1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/85_h2_raw_category_dominance_county_screen.py",
+      "sha256": "63c80609c2c66e80d559ce21c464c4674e42b3e024fbade7b9d1d2670d8a6c3d",
+      "bytes": 11861,
+      "git_blob": "402d9c473cea74479a8352ddb2b50a5bfe19d3a1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/86_h2_pooled_category_dominance_county_screen.py",
+      "sha256": "70ddf78779edaaa67faed1e40031cc1689f094ee50cd5bcb29fbc8c744b70897",
+      "bytes": 16771,
+      "git_blob": "f2db8ad02bf86526c84d5d85e422191f764510e2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/87_h2_pooled_county_category_cell_share_screen.py",
+      "sha256": "cf3bf47f6d7e109f5961f9ea82f8b88983cca1f4a79193752eb83e7424b040a1",
+      "bytes": 11882,
+      "git_blob": "aa7ddad89d7bfb97f029fa777678f2ed7f6f7332"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/88_h2_procurement_intensity_county_screen.py",
+      "sha256": "c4f0454fb7b43faa0d7174f48840086baaeed3838e9c19100f76b7962bfcc465",
+      "bytes": 11073,
+      "git_blob": "605f2653a73af78fc1980770000e0930042dc264"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/89_h2_county_screen_iv_grid.py",
+      "sha256": "ef41ef535946102df48239213d474d8817f423297fcce3e240c6b63571379c67",
+      "bytes": 27777,
+      "git_blob": "bf89203fd6445c4d3910cb94df9f007913d17f8b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/90_h2_market_share_growth_tail_grid.py",
+      "sha256": "f29de931d6527f3676ac90fafc4fa8d407aa5d99acbcfcc1c2f3c14d8c690a36",
+      "bytes": 11356,
+      "git_blob": "991eeaae6295d38ed8f3939de9b1022a356ef9b6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/91_complete_city_county_assignment_audit.py",
+      "sha256": "78c0660252308b2f6f508f2543b1ea7478fc527a3545388944eb3a366708f7fe",
+      "bytes": 52605,
+      "git_blob": "f797880cf2f70673a22d75abb25d139e1e858651"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/92_classify_complete_city_county_candidates.py",
+      "sha256": "da22febed65448040b125a6027d1528f591d68922e7cd00bac8ee3ad108b5f81",
+      "bytes": 20382,
+      "git_blob": "40110e7d412a257af0aef38f4c1a25c46bbd78b3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/93_h2_geography_cleaning_ft_comparison.py",
+      "sha256": "24179a88350bc20727fb7b56deba3b04eb14ae4dedf9da2b9fed91ca6f4e96ec",
+      "bytes": 28890,
+      "git_blob": "b8e4ff08f2e70d7d8cd976e53032304550a21450"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/94_build_verified_dcads_geography_overrides.py",
+      "sha256": "63463d09aad2b1c42c4e0ce73d34dcd26a66778df7e92441e8ecab4f4c7f8f7b",
+      "bytes": 9695,
+      "git_blob": "d546773f056a7e78a1ea41fbca10292afa7b5773"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/95_old_design_geography_key_tables.py",
+      "sha256": "9b389c9733e0d0af9561155e18e586d485941ef3f346161d4e44eb75df747ac8",
+      "bytes": 30843,
+      "git_blob": "c38c8f32eccecdf404b49f4015aade6ea16a9ae8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/96_freeze_reported_source_geography.py",
+      "sha256": "6705205dba2c6fffc4fd57e5a6ba0b2b95ec39af64ebefef4cea7a9cf4ec4736",
+      "bytes": 5707,
+      "git_blob": "4b099488ddce6415d9303727f2dbce1c2e09e038"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/97_promote_verified_geography_baseline.py",
+      "sha256": "48e50a9df70ed4982297d3a03a772a509a72dd9e955190cb5c1bae23df16d614",
+      "bytes": 4519,
+      "git_blob": "d91c28cacc59aacd930667a5d603c9508940c066"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/98_h2_all_category_market_share_design_grid.py",
+      "sha256": "507cc97e21ff765e76b09d12b30233667592eab0aacf936302bf3cb082f33efc",
+      "bytes": 19668,
+      "git_blob": "093068096453adbcdc2c432d73fc64094f40c258"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/99_h2_all_category_window_by_category_grid.py",
+      "sha256": "a47ec5ae96542ace661a69937414ce230389ad325ac1351c6435ce17f882aa42",
+      "bytes": 8783,
+      "git_blob": "4759d15250107f1889e967daac5b78ed83e1da86"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/PIPELINE.md",
+      "sha256": "e8bc66a3f1d565a224870d583b37f632f909bdbba2780ebe02d5f4baaa9fa200",
+      "bytes": 36644,
+      "git_blob": "616b0dc86544eede2a1a0e977957cdbe575ec0a8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/SHA256SUMS",
+      "sha256": "156e790b0fe356092e86ab1f2d08d59bacaf68346b5a504db657b0946dd846d9",
+      "bytes": 771,
+      "git_blob": "b15d8a2692fff8a1d7374fb22313a87f3d7bb3d8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/active_baseline.json",
+      "sha256": "a1de192ede065654406a36227a87b006701ae9ee624bd87e55a67d35707dc8f6",
+      "bytes": 1259,
+      "git_blob": "75461e8422db13419799dc6f3dc8cb3c5b665411"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/frozen_Table_bhj_shock_level.tex",
+      "sha256": "5ea8250a5737da1d91c6cbf15f8a721f5149b9656285f739c144ba91b3b00f34",
+      "bytes": 2419,
+      "git_blob": "b71d9f20a9838ab135169f485505b13ad4dc8ba6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/frozen_Table_many_shifters.tex",
+      "sha256": "c33e1b0ffad01f90bd684b4497b7ce268b2b6b0cf2761afdd2b932ae48a4ed26",
+      "bytes": 2186,
+      "git_blob": "d57b5bbdda10007a26c893d784dfad8ac19350ec"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/frozen_aggregation_baseline.csv",
+      "sha256": "f5df7bc6ff0cad3d2db18614d451e6c9b6034368253d5a5be35fdd4337e9c8c2",
+      "bytes": 5882,
+      "git_blob": "5a88fc91691bd6fb3942fa153b74ab192570dab1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/frozen_bhj_shock_level.csv",
+      "sha256": "56e8d31fca16983d84917b22bc4dc4fb84628ea3f180ff1895417dd659407de2",
+      "bytes": 644,
+      "git_blob": "cd95b355e914618f230e733c2f1bf4e4fc220f20"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/frozen_many_shifters_diagnostics.csv",
+      "sha256": "fea6126074c66212e5d0e1496ebc1eb84aea3b2389dd01891982b6f876a21581",
+      "bytes": 482,
+      "git_blob": "7dacf0a6b8b7aac1e0150bdafcc7fe43ac5e5165"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/rerun_bhj_shock_level.csv",
+      "sha256": "368900d9558cb3e4694a0eb671f382b14ec09de75394e6b5140056ce773e2ba9",
+      "bytes": 645,
+      "git_blob": "f59f939d5d7f695964e61a06437a11d398ea3812"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/golden/rerun_many_shifters_diagnostics.csv",
+      "sha256": "d0e1749ec4758d93d61927d63d3658aebc726255bf9944cd200b930fd98834e6",
+      "bytes": 485,
+      "git_blob": "92f813660d1dd520e3c521f4a589982affeefe5e"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/clusterstats.py",
+      "sha256": "6ab2585b421f252d12b72683c888c9bacccbfdbcb729d70aa973d907e962e6b0",
+      "bytes": 4822,
+      "git_blob": "609a5447a1f07dc8349b2eb2c7fc305a1add5e02"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/contracts.py",
+      "sha256": "ab244dcbfd0435f64fd559421af90293017bb6a5177b2e29216a779f2b3abe75",
+      "bytes": 10235,
+      "git_blob": "8191e5933ac8d6c6c3875f5125a4b89d50a642d7"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/harmonize.py",
+      "sha256": "8efd81e4f176fff49ed81dce2e4297e54e5912f12d5aeea1032d54e0eab57484",
+      "bytes": 8964,
+      "git_blob": "2a3c1eaaefc0392d1d1840eee34339e3a8677776"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/industry.py",
+      "sha256": "67ebadc8241e5960176aad2ceefd5da1b6a082560fffea56b47066d900f72bdb",
+      "bytes": 7682,
+      "git_blob": "431316b4d95466bc38755e7f84dc005901744886"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/instrument.py",
+      "sha256": "e008c963b5af3c6e3027899070b88477f4026728bf58e328405aae36de0d6cfa",
+      "bytes": 4900,
+      "git_blob": "3fad03182f21a2029bbebceeca362cb0a41d3281"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/oldpath.py",
+      "sha256": "e868611cc40b773c65faa8e272321fa827836078ec2cda4e35615219e7bf7ebc",
+      "bytes": 3023,
+      "git_blob": "8d365dff95216f200e0ff903cb52b2c247e431b2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/panel.py",
+      "sha256": "9680be73a1652baf06ca51193dfda43a131f9c85f693facf5ed7ba568534db1f",
+      "bytes": 8247,
+      "git_blob": "b5dea9115e5d4c0ec4132045864081e0a3e248b0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/sectors.py",
+      "sha256": "413a1b69bdca885b12343ca1de5ca02d6fdd0ae7fb124a1b8d8f5262bc95dd70",
+      "bytes": 4539,
+      "git_blob": "03e093d96e85c1c1ce70557bfef2a5793748838b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/lib/store.py",
+      "sha256": "3070e81f90ec14878fdc0f59083f3ba3aae7f9a3ce7ef1b0afed8406e423cb9d",
+      "bytes": 3705,
+      "git_blob": "0419533328d8b947e8d4ab8454ae90e4771b54e5"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/locked.py",
+      "sha256": "20e61fe29337823e29a5cdd20972af1cb0844a518870a48fbf422e7e83ad9870",
+      "bytes": 6387,
+      "git_blob": "bd1b1ff65b48069259010acf1bc56d1dc3c92cd3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/pipeline/ws0_contingency.py",
+      "sha256": "0a8c52944b264a24ef5b1ce6640bc2330578d86353d2ba0e98ff04226622a573",
+      "bytes": 20511,
+      "git_blob": "e3a8367654509b76b84145669a93310a211d3eed"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/01_build_dcads_manifest.py",
+      "sha256": "d414b275d0beb06e275c2994393f0e7533fbe06b3caec83674e6796894cf99f9",
+      "bytes": 3452,
+      "git_blob": "8074f21bbd47fd0ba8974ffaff9b706deb1362c0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/02_download_dcads.py",
+      "sha256": "f72824a750bddddc5181faf1367197bf32f21e3a652f4e6fad3d5156e9235c26",
+      "bytes": 6102,
+      "git_blob": "93a76450129889cd4baf65969fb0a61463a4a915"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/03_verify_dcads.py",
+      "sha256": "a915f0a29ae6c353152619dd455e82c3d69aa75ec7f16031385993812c151154",
+      "bytes": 6242,
+      "git_blob": "6c96794fd8ca41de1ffeed18537e7980a12042d2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/04_parse_dcads.py",
+      "sha256": "2a6d04d04d0ef93485981cfdf029089bb742a26bf34ad8a6f7bb4786418dd102",
+      "bytes": 8079,
+      "git_blob": "7bdf0674c193e28d791146ad1c032be8505237b9"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/05_parse_dcads_delimited.py",
+      "sha256": "c47dd8704a5cc26eeb9fa71ba89b9d738e1fa99f71021c4330ee2907ff7e8207",
+      "bytes": 18818,
+      "git_blob": "10190977c68a90cc25667f09fc4ace65d2f96988"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/06_verify_dcads_parse.py",
+      "sha256": "2ef3a88d98b3391b666b42ef93f2b488ec8c1586afd02796876b17611a492f21",
+      "bytes": 47086,
+      "git_blob": "feeec3b299ce36aa8cc0a2c53fab5e947b3059bc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/07_add_county_fips.py",
+      "sha256": "a4ed9b9f895b162f96bea23fab2500f87ceaa8e1c5b9e49f89f0e0b9b1c2e4d0",
+      "bytes": 24576,
+      "git_blob": "d18836c277366914873e07e5add876346e87e9ef"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/08_verify_county_fips.py",
+      "sha256": "57e87a27b5b4a56ee9082d6be44a7e2afffe23ae388e2ca09a9f0a001949b032",
+      "bytes": 19561,
+      "git_blob": "3c993490f77adcd0c92dc55bc0ce3ef9f0484114"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/09_pallante_test.py",
+      "sha256": "1e40ffc18b56150047bc756d3213a7130477fcdb1f098def7ac18be3eddaf227",
+      "bytes": 52327,
+      "git_blob": "17b54f928ad68259a22951954ebfc4ad59a051f6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/10_build_county_universe.py",
+      "sha256": "1b78c90d165300a65216d6a01aef78eac559d5d2011e4f2420fd478b161591b7",
+      "bytes": 45792,
+      "git_blob": "ed7ee362341cbba8546af1e05908df4d0225a816"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/11_build_employment_cells.py",
+      "sha256": "d5ca09f18d0fe76f301c2f044494440cbfac32ecd216eda1b1e8b53a20d385da",
+      "bytes": 51552,
+      "git_blob": "b5363c7964c6d5bd6ce5d4fa8ef77cba0bcd70d4"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/12_build_county_income.py",
+      "sha256": "10603714f93d829f4c87a08173235a1558de10ef0155cc949e1a3639ea20f023",
+      "bytes": 34206,
+      "git_blob": "79f7e2928ccce855712f8b83c3085167b86332ef"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/13_build_county_panel.py",
+      "sha256": "25f83885cd57a17791d62a87eb6ce749c04f99363d188d8b83d7767017c86729",
+      "bytes": 25738,
+      "git_blob": "a4002ab484462d9f3a99d98bc91cdbe3897b2792"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/14_build_instrument.py",
+      "sha256": "c1d5e2281d4e0e547cdb11ba62fc24eca989159c6e0230c758e37a4c53b6f362",
+      "bytes": 55880,
+      "git_blob": "252b1ec4ca72b8dda3c662c377c4502eb5a90998"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/15_ns14_f_comparison.py",
+      "sha256": "305065fbde025a9b27241c010ddba32391e7dd07180577b8b314f4dc85160b7c",
+      "bytes": 18332,
+      "git_blob": "f074bfd62ba5be093954e48909485df50bd41564"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/16_floor_comparison.py",
+      "sha256": "fdd2c357d90ff4e940e0263423b9005735983eaa79bc957a3e2e6f64089bd95a",
+      "bytes": 9291,
+      "git_blob": "63d41feb4f22739900c71cde9b71c8f1056503ea"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/17_ar_ols_ladder.py",
+      "sha256": "b0252b45cab36c1762e5053be70f808b76b11656d2e0314fabfe0247d968cac7",
+      "bytes": 11513,
+      "git_blob": "50021e600880d832bd33ba7359770b7867eb81c0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/18_ingest_muratori.py",
+      "sha256": "0b57919c0d1954db7dad986c1949f514d9cf286698b02ed3008b3ca9381c08ac",
+      "bytes": 19908,
+      "git_blob": "aaf49dd900d02dfe542223cef5cbe752f11deca7"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/19_first_stage_table.py",
+      "sha256": "f593faff392c51ea2c8359124c48cdde023f454042d807f69a3a8c441bccf634",
+      "bytes": 36245,
+      "git_blob": "36065027545ffe16a7a54a4ceb49128ce89a7922"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/20_first_stage_grid.py",
+      "sha256": "924805eaf897dfab7a367c9db8633a3c04e302c8f9fd7c80f903b45ce6ea3691",
+      "bytes": 44784,
+      "git_blob": "147434fdf679652472b8641bfaa04c0a72ab3b5f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/21_ingest_cbsa.py",
+      "sha256": "b88c28917ab412e5d70c6751494ccf39fdab2f7afc31667907c559338d046bd6",
+      "bytes": 12736,
+      "git_blob": "25fe58c31c4b14be3b75436fac2cb4aa7034f3f4"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/22_ingest_bea_areas.py",
+      "sha256": "0d446883592ff5817331d2e7dc9bd389c6d948982a6be8728b3b00e2fa69d79e",
+      "bytes": 9989,
+      "git_blob": "a9ad4ffa2417a980497cbabb368a7e7b8d73a97f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/23_sample_screen_grid.py",
+      "sha256": "55d3994ffc868eb5989bc41cdb34096498d50c9499ac39a5af4c51b655d1175c",
+      "bytes": 40497,
+      "git_blob": "6a3c4436c10bab6ab4f56fc97499413adc20717c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/24_exposure_screen_grid.py",
+      "sha256": "a287382886428d6533a9e8f5e1282b1bac5687decc06f82fcae374822952d06b",
+      "bytes": 44825,
+      "git_blob": "8672c9b61d22e808b752f25695ee8a1bb5fa68d8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/25_ingest_bea_employment.py",
+      "sha256": "75413f56198fc73054eafa3802f9e5aacf4aa3722edeaeb1c3fd778e958b5976",
+      "bytes": 16765,
+      "git_blob": "ce563fbf17255c214c1bcbf554b7136e77487f5f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/26_winsor_screen_grid.py",
+      "sha256": "0deaad2f4b2418263be00509a9febe395907672f80720c645f93f67ed75a4c3b",
+      "bytes": 42818,
+      "git_blob": "1ed5c2b8234c858042cbdc22f9ed5c1ccbfe92e8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/27_build_cz_state_assignment.py",
+      "sha256": "e44b8e7e3c2ef1c726fad64fafa410c9a0ac93b8aa63e5717326ab826ebe25de",
+      "bytes": 12654,
+      "git_blob": "1afd8c1c508ea1bbab6735d80d94e9c4d59f4ce8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/28_post_first_stage_alignment_grid.py",
+      "sha256": "7350950a58ec8a218604e595d06d1089ffb0c36fc41415740c169943698bb641",
+      "bytes": 21502,
+      "git_blob": "617e392edd7918813192d61133f27a4f5f492640"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/29_build_usaspending_manifest.py",
+      "sha256": "0e2fdfe1d9618d69d1c8f1392b134bdec6c5794f94cd23382a0d9ec65af2d99f",
+      "bytes": 4525,
+      "git_blob": "8ba7776a5942e65310912a9e07b3ffda88d81032"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/30_download_usaspending.py",
+      "sha256": "a8a108ff23207a27bb7313cfa5b4f8da393402a74a24afb6d3b17d446cde4120",
+      "bytes": 6833,
+      "git_blob": "9be66282e5b1e846edc4c9ee01273826f69bd80d"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/31_parse_usaspending.py",
+      "sha256": "35b1ce973c5865c6e57a3e1380cdc986120a87675725cca46c4a7b5ca1035d3c",
+      "bytes": 21122,
+      "git_blob": "877555fb355502c0cf3138ff002b4ccd4838de1a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/32_verify_usaspending.py",
+      "sha256": "57b471ff8f915767a0f7959576cc8e4e1404c717e7e7b07a848aee750b8362b5",
+      "bytes": 10648,
+      "git_blob": "d86fbb59071421a2c76d1919df07945323b0f96a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/33_harmonize_contract_sources.py",
+      "sha256": "948732883936f0803f05bad558e406df0aee1dc115eb4b280c86765f0dc7f512",
+      "bytes": 7081,
+      "git_blob": "0395f5dae71124bd20e4994edfab1ef3d91345f0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/34_download_usaspending_overlap.py",
+      "sha256": "e3296168807a1248aeec104e1dda0c06b5e9582acd9f3d7c8ed130018dc56d6b",
+      "bytes": 8190,
+      "git_blob": "5fa11a3634d71d6901fef36e6ee1c21444187f2f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/35_build_post_first_stage_full_grid.py",
+      "sha256": "dc75ded795b667b75f4371398569bcd4794f6eef075c843b957ef80eb26d095c",
+      "bytes": 26470,
+      "git_blob": "8bc6aa3f6c2bd9e9afb38649c6924bc3983b0b89"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/38_verify_post_first_stage_full_grid.py",
+      "sha256": "a5780981f8dbb68906a64579bea420fe05ede95c74fecac446484a7901f530a1",
+      "bytes": 13765,
+      "git_blob": "59beb36bcd63e01b4b68a2466e560108f08d527e"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/39_export_award_first_stages_above9.py",
+      "sha256": "53691d2c7c3111c88d82ab2b5b5bdf065a8b8d89715c46eb82ad0967e86e4eae",
+      "bytes": 2320,
+      "git_blob": "f9e6497973780b18f2b409016bc077777f953ccc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/40_pre_first_stage_nonoverlap.py",
+      "sha256": "a13e3fa8de6db73215b156a0cdc1914f0d3c109b52d29de69d9e4a5a56677752",
+      "bytes": 13072,
+      "git_blob": "52a5b9e3caee598d3fa7a6cabf0ec0666893e0ff"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/41_build_symmetric_nonoverlap_panel.py",
+      "sha256": "586bc0d964b29721a49a8f7143503cb96f99b2e79fe43febaebe52dff45fb5b1",
+      "bytes": 15998,
+      "git_blob": "a03004c9f4d96005d99eb7927077c9bc8e3ef07f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/43_verify_symmetric_nonoverlap_pipeline.py",
+      "sha256": "d02df621d7ddfd443122926426fdeac466acbece2ec269dfe2b440123b03ba3d",
+      "bytes": 21997,
+      "git_blob": "d18840271ac1225ac6838e6624f9f6b125c3e2b3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/44_run_symmetric_nonoverlap_pipeline.py",
+      "sha256": "c18676710d9e0989038f50b8bb390f74f2d9e85061570f4158e765a329fcc872",
+      "bytes": 8001,
+      "git_blob": "9a2d80d461bc8384e920749e26b0713b9c30cf85"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/45_export_symmetric_first_stages.py",
+      "sha256": "7c6cf8f2f7b96df5dcc236175a8aa8dc99cbd9ab83e0981764c036d142a85af9",
+      "bytes": 10195,
+      "git_blob": "569157d3145e08a15f1beaf8a2ed7a973b33baa0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/46_build_post_anchor_sweep_panel.py",
+      "sha256": "fd19ef9ec431d6dd0fb6d68d2dbbe2c8493c9b668f0a269c2d0c46986a525184",
+      "bytes": 31172,
+      "git_blob": "35508885e4bd89f56fe962555638c66c5e57a1d3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/46_compile_first_stages_above9.py",
+      "sha256": "ebb4e9631d49b587c5999bea9835a64a3a70cc079cb10d30fe589724953e9e2b",
+      "bytes": 4868,
+      "git_blob": "4a3aa398ce23303bdcf6fba1f49e2c5d20656c00"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/47_build_symmetric_growth_grid_panel.py",
+      "sha256": "b16545d4afea161d6287f05d0490776fbd440ce08dedbc6a3323a74e673f076d",
+      "bytes": 13241,
+      "git_blob": "2ee1082bb51a1aff3f25c63b668e7d5b7d78fdb8"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/48_symmetric_growth_first_stage_grid.py",
+      "sha256": "b92c1701461455bd5ddb49daa386617eac7e371b54ef2018902bac2ceb502460",
+      "bytes": 9569,
+      "git_blob": "333e9cec8b4fa5cf38ec08fdbcd79202a1c6a7bf"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/48_verify_post_anchor_sweep.py",
+      "sha256": "466a990228c9ebf829de533fed72dd4b6b241c75718edde2870d2f9b1d2a434b",
+      "bytes": 31343,
+      "git_blob": "a60e36b778856e61265d21492461e25a3c8fb7ec"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/49_export_post_anchor_sweep.py",
+      "sha256": "cb970761adade3ea74a40da034637f9452d3b4a723bf3b3ecf21940cb98c44d1",
+      "bytes": 18142,
+      "git_blob": "13bc0f8cc3dc30ff172d92829c9ec90d572597d3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/49_symmetric_second_stage_grid.py",
+      "sha256": "a44e5c33f121396a29f0e99dd882239ed95d7b691b2ddbbe1f41115f7031d839",
+      "bytes": 10973,
+      "git_blob": "8474913f7e3dfb85ebd662da16d667258d874c40"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/50_ns14_state_replication.py",
+      "sha256": "668f53831339768e495a55e9b13cb5fce80e70efee50d1f387c4146fc1b58025",
+      "bytes": 13370,
+      "git_blob": "e3bbe182aa4af14a51d827eaa587932885be7dd5"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/50_run_post_anchor_sweep.py",
+      "sha256": "36cb0071bce7a2f24a81ecedbd5daa312c55bd684a7470520c9471d00db2e3d5",
+      "bytes": 5140,
+      "git_blob": "388a1f85ad1a39a3851f4b52880a2b6b2543dc8c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/51_build_ladder_first_stage_panel.py",
+      "sha256": "457899f686895466646c32cc6c3158b6e479a9749286e922061b2d6b3c78dbe4",
+      "bytes": 29693,
+      "git_blob": "e828e04b85bda1b2979866675e5aa29ea871b981"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/51_county_multiplier_grid.py",
+      "sha256": "9d1b2d2e814478b68254e59f6c4e61ece2342aac81c6e9c01a099b973066620c",
+      "bytes": 25118,
+      "git_blob": "a4d2eaf46934b51196837d22c755f6a6b6cd39bc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/52_journey_ladder.py",
+      "sha256": "4e18bd221907c4aafc1717dea859cc2ddaeea5cb97c2fd670cf8afa9045e6083",
+      "bytes": 46875,
+      "git_blob": "79c4289fe03b7d6b24d588a0b3d5f52761a9beab"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/53_ns14_exact_replication.py",
+      "sha256": "8094811f3732ca141df6827bc38365b2f7b11241fff49e21b6770c7339fcfe0a",
+      "bytes": 14786,
+      "git_blob": "f943c919bcbfb10fb207ff19bc480ce07b68bb26"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/53_verify_ladder_first_stage.py",
+      "sha256": "dee605f3d4fdcee4490f01a7f05d94cac842d8a7a48f30b11afea42f3bebd858",
+      "bytes": 34931,
+      "git_blob": "c286075f7d763f0d38d04c61d3aa430084ae53f1"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/54_composition_instrument_grid.py",
+      "sha256": "e7223df9875c29f135444aba699099a7d014163da0a72ff967d519319eb93470",
+      "bytes": 40919,
+      "git_blob": "0614a9228621a497488dd9472c20b8087697c17f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/54_export_ladder_first_stage.py",
+      "sha256": "72805fac1fd5b06e4b44a7dd20fcdcee8db9fe6ea72772138fbccddb6c169299",
+      "bytes": 14715,
+      "git_blob": "b87636789495a5928050645b7b13ea5fbf2afff3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/55_many_shifters_diagnostics.py",
+      "sha256": "e5f53f8817433a6f1d7cfc1219db24fa3744ffb8ccc27ad88cd7a5d9e55eab13",
+      "bytes": 15828,
+      "git_blob": "5d983bafa9d969f5775ab7886b1d191978827e82"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/55_run_ladder_first_stage.py",
+      "sha256": "e8433532f08118cea03d38f812c3ca1a98b2fdb134c7ebaf3076021ffcd3925b",
+      "bytes": 6253,
+      "git_blob": "a0cf3d1a1054219c2e805909c365dfe5acaa4a55"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/56_bhj_shock_level.py",
+      "sha256": "b0e263dc1c7b166acc01028957df6caca729ec31863f1760eb202002c35fdfcc",
+      "bytes": 18357,
+      "git_blob": "dddc0ff1e399e105170a1c44444718c5a86ea8f3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/57_aggregation_invariance.py",
+      "sha256": "77691d02790c6873067315aa3ca31973c558326cbf7bf4c3bf2c57e7068c50e2",
+      "bytes": 63659,
+      "git_blob": "dde10f20e900aed977774c1984f8d3f1bf5d79e4"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/58_fsc_industry_concordance.py",
+      "sha256": "6545ff3970c0ae8f1c81319f7c9edb83aeabeb5beb7b2ab8ec72a69025b4ca17",
+      "bytes": 18047,
+      "git_blob": "b338569b8c101aeaa5c4faf3f13025e3b2266574"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/58_ingest_nets_fed2025.py",
+      "sha256": "ef17701eea7f8cf28b6fd56625f8359b143b38a8cfdc73bc8fa82f645ef8aff5",
+      "bytes": 13159,
+      "git_blob": "f4d765359cbe978d8296f574588d42c2b97b3e40"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/59_ingest_psc2011_crosswalk.py",
+      "sha256": "dc5fa2061426ebf29e29e46fae916c3577eb3190f29198fabe005d50df89935e",
+      "bytes": 5013,
+      "git_blob": "ce9de86491d8bc1364b1978fa69b04fa43e97114"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/60_bridge_1979_service_codes.py",
+      "sha256": "5cac2168dbe9f100a31e7c83c40aa8aef339b83a686b670d511a8956f12b339c",
+      "bytes": 31512,
+      "git_blob": "d8c543c7f6eca0ae93e13f9caa3c4a8b8609ab4c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/61_seam_robustness_ladder.py",
+      "sha256": "749691023f13af4325bd458c569139e70305362ad7ebea5566297e6a3bd8ba23",
+      "bytes": 10222,
+      "git_blob": "81e3e3d487617fafe4903be238c15edebe6b26ed"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/62_flow_construction_audit.py",
+      "sha256": "d74282d2ec32de412fdffd08ab01266881829edd6be191ff012c5979ec3fb44e",
+      "bytes": 10732,
+      "git_blob": "bfa264202be775acdc9d92baece14536dd811a34"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/63_nets_long.py",
+      "sha256": "ea50ab571fc813afb915e54caa1c38c78dbea20a977b843ec29db74843787b8e",
+      "bytes": 12368,
+      "git_blob": "7db207858fc3c4bc03e0d0120be798dfd89e9ee3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/64_nets_ultimate_parent.py",
+      "sha256": "5a906dc6279e7ef812baa66306553aae2b5d380cad3baf4564265031656f49e1",
+      "bytes": 12320,
+      "git_blob": "60ac4e262bc2a0bae6ca59c3332019816c413399"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/65_nets_address_history.py",
+      "sha256": "6303c7ea226ab1564937c3c5bae171772551e72bad6e5304ba96c3c9b0773db0",
+      "bytes": 18418,
+      "git_blob": "758dbdbecad204edf344b34865d208ec4401bd2b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/66_nets_establishments.py",
+      "sha256": "d5f56c5164e225f8052414dc6c6c6e72a88f119252b796ff2101c6a476445f93",
+      "bytes": 24429,
+      "git_blob": "b6781dc05c262e0856e92df037e4f97d1197d192"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/67_journey_ladder_slide.py",
+      "sha256": "caa53cf1557c00a9d9cc049de90625e4b1c6f0e90a5c7701e50018ce475ae7b3",
+      "bytes": 2907,
+      "git_blob": "bdf99dd9f6ec0789e082da1937f2c6917e431fa6"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/68_aggregation_battery.py",
+      "sha256": "237378d1bf9aa00756be7e8748963ba212b1c0d3461ddccbe64c3f24beb5ed3f",
+      "bytes": 48846,
+      "git_blob": "a92748701c1667c3b460bf20c2723cc390226251"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/69_ingest_miansufi_classification.py",
+      "sha256": "1be8f8a9b483ec986d779aba12713a2aaeb95762f5602ffaca9d1b4e025efd36",
+      "bytes": 14186,
+      "git_blob": "9ad2a2e156d4007ab2f8404d8741cb3a0f97b0b9"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/70_ingest_rajan_zingales.py",
+      "sha256": "376c9a6cf0a8da910ff9025ac341514a13c3e95b4f476310acd662af1b22329f",
+      "bytes": 21039,
+      "git_blob": "77bd7bc1dd2e055533878898296af6300cf3f986"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/71_concord_rz_to_naics4.py",
+      "sha256": "10174e4ea9be9d320ba73ad634f7e21683cd3f47ecee087e88e322337abed22b",
+      "bytes": 19830,
+      "git_blob": "ca1bb27ce43ae24efd7dd20b89b71403e1a4c2a4"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/72_nets_ccg_bridge.py",
+      "sha256": "b9e9933d5ec00cffe920f80495c6b9cd2b4e011ea567b4ade6ace26451c8fe07",
+      "bytes": 15586,
+      "git_blob": "69ffeb993019dfde093456204aabab8ad9e357ad"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/73_nets_cell_collapse.py",
+      "sha256": "d2c81cc8eed48d0fb42c6d6414c605b3f10eaed11d6258a2c3899b6c660fffe6",
+      "bytes": 29853,
+      "git_blob": "af03b32c1a533baa18d4545bcb36b21bed42d319"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/74_ingest_bds.py",
+      "sha256": "5351cbbfa69d39061a9084830e8cd3e2bab33f01cc00e926debda61d70f65e77",
+      "bytes": 36769,
+      "git_blob": "d18b7c8cd45dd191b4a0f7f25786a0f58902fcf9"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/75_nets_births.py",
+      "sha256": "3b9cfa006c70d19952a1d2966a9be82f69322ddbcd6cde98794b64a9c6113e3b",
+      "bytes": 15119,
+      "git_blob": "d23ab3ad59cf0edefec6038deab1c588d1d18426"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/76_nets_rung_loader.py",
+      "sha256": "88cac01358c6d19459267ce204c150c0b95c907d514edcb76f459d34ebe47b38",
+      "bytes": 11020,
+      "git_blob": "1675dc2c80b6c903ce3dc298be18153577340e85"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/77_nets_births_empc.py",
+      "sha256": "20317c09f06c0aeefbb07c95a1e9e8091fcba7105b884a723fa40393fa9bee6b",
+      "bytes": 7855,
+      "git_blob": "a97eaf50827ed8c005c27f7a1bc28c746bd34e52"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/dcads_common.py",
+      "sha256": "2244d364afc768a9c040fa48a74ff9236746b6f0576e2db727cad50b7457d9c3",
+      "bytes": 70719,
+      "git_blob": "2b35c0b14c652b9b28f5c6ba45c16554f8a71fcb"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/md2tex.py",
+      "sha256": "ed40c8e7ac4aab7b90e4e88cb69687f88c99b6afa99627ade595699d1d8e07ea",
+      "bytes": 8362,
+      "git_blob": "e17cc32ef256aa1660259a1e00c62299efa7f0e2"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/nets_common.py",
+      "sha256": "3661d1bb40d1a3fa9c2b9d82c4d560bf4f0f660156d0cec5e152d681d5209fd4",
+      "bytes": 7619,
+      "git_blob": "5755b04f8ae6c1c66faa7991638b1769acecf253"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/py/report_corrections.py",
+      "sha256": "8b5b918cec26a02f12a3bc952a07aeaaa8d1a38b49953688eac3bf57d3b4525d",
+      "bytes": 5382,
+      "git_blob": "b410cf6fd864ed9ea004dd224fee68bf79f9658e"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/r/00_efsy_granularity_check.R",
+      "sha256": "95b64c075a9cbc3ad808abd599ae42a08ed0dbbd778e23a6a1ce7bf34410efc9",
+      "bytes": 3302,
+      "git_blob": "34cdef265c22dfc9f7a0bfc76883191a79b8cc0f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/county_bea_area_2004.csv",
+      "sha256": "6b27c28fbe24a85f4f6ee4450a6a2ddeb7e9e82957a84810f3f2878cd14fc601",
+      "bytes": 219486,
+      "git_blob": "da91075eac54560b1975476db6d020bbbfeb0240"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/county_cbsa_2003.csv",
+      "sha256": "ab554f0e41e2eb1de35e4e7afd7e02536f734662186b2d513d5cc153b82d2347",
+      "bytes": 139170,
+      "git_blob": "f95f782d7776b30b478085dba71e0589db748ef4"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/county_ccg_crosswalk.csv",
+      "sha256": "fecef2c188211e615c896dda6c06c371e1438c7cc1deb9c6aa0109523ba656c1",
+      "bytes": 190169,
+      "git_blob": "b18817616b2daa14ef8bdb103a43e74bfa2c8221"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/county_changes_census.csv",
+      "sha256": "195f9aedf5f72cf5a846576a012bcc379ecadda6f4260bdcd4e844d22c1ec5f0",
+      "bytes": 22097,
+      "git_blob": "c913516e1432919744ec6bc0b1df6655c7665335"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/cs_dblm_efd_sic2.csv",
+      "sha256": "d19e17adfc20501b8b197cddefe399b08e2d196789ce7a5e05ff08b42128e5fb",
+      "bytes": 3582,
+      "git_blob": "64695d6dc563b21e85eab293fd3d8c8e36d95571"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/cs_dblm_sic2_naics3_map.csv",
+      "sha256": "8eb4b9c177905dca07704a8993a9045aacdc18a36ec121bbde08bc748196cc72",
+      "bytes": 1366,
+      "git_blob": "2ad12d87cec89ee46a93e13112baffed9190faed"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/cz_state_1969_population.csv",
+      "sha256": "e3aa8ec145e68332197ace8f2e5637abc277394c9a257ac3ff582147c55e4c42",
+      "bytes": 75008,
+      "git_blob": "be0f68aefb6f042747f839b5f743ce23fc295415"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/dcads_city_county_overrides.csv",
+      "sha256": "5b6becaeacc5f6dda1f2c8476e38cdb2247f41ca08b53b3b09b501ed3c3d22c1",
+      "bytes": 4204,
+      "git_blob": "82b16c022aa74d3630c9cf099eb6667f7bc44b2b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/dcads_report_cancellations.csv",
+      "sha256": "9a7c9cddf35ec0259de4b32da3bc7f38ee0f523dad77da9ec7a1c2b3d7772752",
+      "bytes": 3089718,
+      "git_blob": "9bd696a20fea8f48465d9ad51cd07e797d4d9509"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/dcads_report_cancellations.json",
+      "sha256": "4ecb1d8c85bf23609929754eb979ee214d8468c8ae65cca827b705c86a43699b",
+      "bytes": 257,
+      "git_blob": "fa71a286d930fb17694435ad24377bf7540ed158"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/dcads_tss.json",
+      "sha256": "908b83465c655552dadcc3073ae418169f1b3a3f3bcddd731dd245befaef19b8",
+      "bytes": 2273,
+      "git_blob": "7287b377776e0e0a9dcb29e26e3f0c6dc58a7b08"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/dcads_verified_city_county_overrides.csv",
+      "sha256": "07d37a843187a87420971c895bf6b06c9167f160e4b2af61bcd0734c2718d8b5",
+      "bytes": 25138,
+      "git_blob": "c1c705663725d30096ffcd542c276d8e70c8b7cf"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/efsy_axis_support.csv",
+      "sha256": "632312651ad5d91b6bc18fbde879ec5fa8991324515eae0caa29c8d372d6b810",
+      "bytes": 10559,
+      "git_blob": "4d24bcd44336a48fa8a7fb088cbe3c3bf6e93bee"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/efsy_naics4_axis.csv",
+      "sha256": "bdf5ffd99826ccfc2b2e12d6343ac41603cd7dc77e5ec59ebb3b7a4c7e3215f3",
+      "bytes": 9889,
+      "git_blob": "79ec25ad3c3203b82326150ed16789f2a73eb4ba"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/fsc_efsy_axis_concordance.csv",
+      "sha256": "0ccf8e5df744eb72dc2cfdb0c9c8dd2e651151f9fb665ad845b5108a5dbf9599",
+      "bytes": 3888010,
+      "git_blob": "25710c2e3d075f3def291228306de664e86fa11a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/fsc_naics_concordance.csv",
+      "sha256": "efea61d25f4ea35b546ec840384ad2b83b74ba71de8f0eec63e2bdaff1cc3b6d",
+      "bytes": 10007285,
+      "git_blob": "2f0e29bfb44978e884f34a06ef9a572c6774da2d"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/fsc_sic_concordance.csv",
+      "sha256": "d719ae710691fcd0a761b36a4b3f63f3797231a43a225c952d3c6ff381806aac",
+      "bytes": 4782909,
+      "git_blob": "ade4181ef47cc1fc5c011ab663aa7e730f45709d"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/ladder_first_stage_sxy_v1.csv",
+      "sha256": "673f73765e51edf74ffb39aae2b0a2c75fc6b6c7f8a5d029d8fdff7506cbcf02",
+      "bytes": 6273,
+      "git_blob": "931c7261ec8fe310683e63471b03ee62b4bff953"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/miansufi_naics4_classification.csv",
+      "sha256": "172c8c6cc6d1addf2167690efb22c2518aa469837c088200467d3cadd6647733",
+      "bytes": 32227,
+      "git_blob": "a66d7d4733e100fcde979ee1967ddd0e6eba4660"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/naics_1997_2002_census.csv",
+      "sha256": "91f2069c3f0e7d255c6b3e35b68743e4d2e4870b164246599083049d07332c0a",
+      "bytes": 24867,
+      "git_blob": "5bf9ce722c6fc6c096b1031232cfc00b6200a855"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/naics_2002_2007_census.csv",
+      "sha256": "259df0aad7f8f5cba31aeee0a6d551770195316f7fe20a88fa75ff4e79e9fd1c",
+      "bytes": 19815,
+      "git_blob": "853b52572e25ed1a54cea3a9c146a30b89a0d648"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/naics_2007_2012_census.csv",
+      "sha256": "266438009cec969b7fe7da3c622d8330ce166006518ed2d4758d29f4454bccd5",
+      "bytes": 19458,
+      "git_blob": "08440861e4c7a9c811a1785f0f70d991b4fd2277"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/naics_2012_2017_census.csv",
+      "sha256": "ba22b572e21f2aa5635046513acc352c46785f4fd0f9bd33d312a21631f10986",
+      "bytes": 17604,
+      "git_blob": "4629c36a144324a35517d40679c0e1dec548221c"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/naics_to_efsy_axis.csv",
+      "sha256": "3964d4e87b77667fac19115b18530abf5ee8fbbdec6d644cea0d12439a029468",
+      "bytes": 112483,
+      "git_blob": "ac59600b7d41757d89d53526be76a98e070e499a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/psc2011_crosswalk.csv",
+      "sha256": "6097a64385a3b6b7f85cbf913e629fc78000db58597715a4a375e77b5a49ce0b",
+      "bytes": 29595,
+      "git_blob": "7e68ff3c9135426cbdf364f0696af5f21447ca68"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/rz1998_extfin_isic.csv",
+      "sha256": "e9763a1bd642a0cb6d5c161c875ed3e9af689bb47a18cee095ac2f8a6f3382ba",
+      "bytes": 3093,
+      "git_blob": "37659213b714fb705ee41988770490453c1c9490"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/rz_naics4_coverage.csv",
+      "sha256": "42b76b3dd00fb06c71dd6e2ab011c3c6c0e5f6db30010e979411299dc7582066",
+      "bytes": 3215,
+      "git_blob": "f9ad33bd5bd8609d3522700984c77900be978138"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/rz_naics4_extfin.csv",
+      "sha256": "71c50dbc494661906f9eb12d371ca09b494acd620c7f82450b8e38bffd2ac765",
+      "bytes": 6640,
+      "git_blob": "daf18939b25ca3f456bdb8928f8367cfb051d546"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/service_bridge_1979_curated_draft.csv",
+      "sha256": "01cc153d089cab211944a0141e544c8877d56a0d93449a557cbf4328756d8663",
+      "bytes": 11096,
+      "git_blob": "80294e678971c9f505b8d27bd64ca28b9c8295b3"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/service_code_bridge_1979.csv",
+      "sha256": "0c6754052fbc0ce00affd73321f88535fa024150081a73f1257152383b445253",
+      "bytes": 21960615,
+      "git_blob": "1328ae481fe4a67c712580d52a6c7adccea5368b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/sic87_naics97_census.csv",
+      "sha256": "d2a932e49beeaf6b3a3b81cf8cee183a983a528294b61e4e0d49236a69ad1da8",
+      "bytes": 36596,
+      "git_blob": "34ad29a4158c6f996c81a55dd4db6a62fbf044fc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/symmetric_nonoverlap_first_stage_v1.csv",
+      "sha256": "ea5c1b2ea9cc5b9ca8535002420dfe37cdfcff26a5dee5fd0b26292595640a41",
+      "bytes": 3752,
+      "git_blob": "78d27da5b0645e1c74deaa0a8bc09fa2027e6f51"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/usaspending_city_county_overrides.csv",
+      "sha256": "fa932ba262cb0082f99ebfaad5e7b278216da0f348cb602186892b9f17e017c8",
+      "bytes": 255,
+      "git_blob": "11c7aee55557e11e0829cb601a377d8e8b0c8118"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/va_bea_combinations.csv",
+      "sha256": "34073a268b371bc8444f5572479fbe33079b0c10d8f057fc9a1565473cab0a42",
+      "bytes": 7042,
+      "git_blob": "7a2df98c10701a583f36078843dc0c4a93448329"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/reference/zark_fips_supplement.csv",
+      "sha256": "fce962e9e7df4bcea429b4ecaefe9f246bffe495ff80d004c794c5084ae238bc",
+      "bytes": 10881,
+      "git_blob": "a28612c3f64ee58d9773ab8570c1382a7e8239b0"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/36_post_first_stage_full_grid.do",
+      "sha256": "3f630ddf7540f5e9ca39d6118ef2851855773cfd17b57ebe9a997e6127654d66",
+      "bytes": 14605,
+      "git_blob": "ea4adb1345adc898794b71fd5dc5bdf90a88312b"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/37_verify_post_first_stage_estimator.do",
+      "sha256": "ada5bb20f22c635407206db27ace61bd38847b7fbb833ca2f683dba46e437cd2",
+      "bytes": 2355,
+      "git_blob": "357a687407d2d0ee29465a5d64d181124597cad9"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/42_symmetric_nonoverlap_first_stages.do",
+      "sha256": "cc6682826e920ebef76dddaedb8b6726d075163c07d814003708ccff7a58f2f8",
+      "bytes": 7676,
+      "git_blob": "19ddfceb3ed833843c70ea328687bf67e5592158"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/45_endpoint_growth_first_stage_grid.do",
+      "sha256": "0965a8ea8ba7f4c6fe475340309623c38e974a5010dda85f816da80801000ced",
+      "bytes": 7420,
+      "git_blob": "1c8570b41c157c80ad209e15a50ac6702da4d437"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/47_post_anchor_sweep_first_stages.do",
+      "sha256": "4e93035284050796da0aa3140ad5c66f1f2618d172314ad5b4534baadca9e9d0",
+      "bytes": 12711,
+      "git_blob": "1dbf0e850a7cea2b21bd452e436bc68146703d7f"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/51_ns14_exposure_diagnostics.do",
+      "sha256": "1f15e6899118adba21bc9f3574679bb2bc3ab30f4fd4d57cbb5acdf5c227df5f",
+      "bytes": 13120,
+      "git_blob": "9b4849028b5820a4892cde842a2efbeb1cab33bc"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/52_ladder_first_stages.do",
+      "sha256": "b0865770b302afb0695dbf087120b6c1b2176bde141b0ae180b3120c566f0df0",
+      "bytes": 17565,
+      "git_blob": "3ca5d4c75e1eaf1248b6820aad0ab997db4b126a"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/stata/52_ns14_diagnostic_tables.do",
+      "sha256": "4122f2199d5b4d0030bd5ea5b62963f8c54f4be834989567dadbfa62d10695b8",
+      "bytes": 13843,
+      "git_blob": "97ed822c48f9d440a0be73fedb41c5da0471ea89"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/tests/test_contract_report_corrections.py",
+      "sha256": "cba1fc75c2d046d4d8dea2ad216541bb917e1e7cc77787c6bdfdc9b67c74f6f7",
+      "bytes": 3743,
+      "git_blob": "d6ab487b09a846a69eaf638fbed56d29d7e6e411"
+    },
+    {
+      "path": "4_Macro_version/step_1/code/tests/test_report_correction_application.py",
+      "sha256": "445cde2d60dcf8c0eaf3fca64e30166da7f34e45e33ba775e560b84b1d43ef62",
+      "bytes": 2692,
+      "git_blob": "d961575df2a05f8160a1168699c211867643a137"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/22_winsor_construction_error.py",
+      "sha256": "cb5dc6d1fe518be62beca53c056046a61404de830c8d7665fbf17c55ca55b723",
+      "bytes": 88394,
+      "git_blob": "da158b652b2fcf40df658ce782094607f4dc21d5"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/27_cell_construction_checks.py",
+      "sha256": "cc378624843402525a1d8a8afef3158267df8ac4e29ed0aada40922f38afaf8a",
+      "bytes": 40121,
+      "git_blob": "42e5096456aa2af0b1161a864db0e45dd18d5045"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "bytes": 96959,
+      "git_blob": "f99dc1f815b856f9cfe028670f0ef987a5160582"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/29_candidate_iv_mpgr_check.py",
+      "sha256": "ab08cff6cdf1c9a886b4cbf5786a07d65add72514cbf0cf7fc97f62e5f15d89a",
+      "bytes": 20917,
+      "git_blob": "1e24124150394bf6c873d01f4229f5af428788e4"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/30_candidate_log_vs_mpgr_table.py",
+      "sha256": "1747373594562fd0e8dc521a1e9272fc637784f565d6a82e655eaf17687a88b0",
+      "bytes": 11273,
+      "git_blob": "87b82e9e6f91a6e7c968a1a5a5a8f7427c272e65"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/31_margin_decomposition.py",
+      "sha256": "5f30bb385ee5ca9d5792f1ded0bcb91b2243f6674506d492a629b66bc61faef9",
+      "bytes": 9569,
+      "git_blob": "a3a30d01b48b48071f00cc85e54f7c55d9fa287a"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/32_disagg_channels.py",
+      "sha256": "94a8dfe28eee9f72db1c4df7e1a7ed4f205657b0dbb2d71943f354a6eaa80da2",
+      "bytes": 18481,
+      "git_blob": "8b1c77cf65d135335ec50bed295fcb80a92b5a49"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/33_log_gap_grid.py",
+      "sha256": "c75a54b319ed861b3dc532ab98ef97694204aa65bcd08e92144264560b74c4fb",
+      "bytes": 9216,
+      "git_blob": "ba3258b9242a7b79f2b47d7bdd004f7d69d509a0"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/34_tables_payoff.py",
+      "sha256": "790f1b23cfef4339ad8769b48cc68f62fb0a4b7532923b18ae0785294f080d93",
+      "bytes": 14798,
+      "git_blob": "3d74389effc32f070db20329d05a60659eb7a9bd"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/35_table_decomposition.py",
+      "sha256": "c324984878afe74649fdd17b4456c916511c67f1a24b066c8f58cee7dc5a5f04",
+      "bytes": 10041,
+      "git_blob": "51d1be7f63c30663aa51a1044b0036726834c976"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/36_table_standard.py",
+      "sha256": "94d98909482c14860b880e0349794e15094141f2e7eca48d73f70e357f348117",
+      "bytes": 4078,
+      "git_blob": "10046cb8f19d03a0fa55925086bada3c7f77017d"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/37_disagg_baseline.py",
+      "sha256": "38889bf042a391a8843e19c2c442c7b9b8fa0535c321c4a600dff1a4c91a98c9",
+      "bytes": 11115,
+      "git_blob": "08cb09e69f302e5ab73b54576dd27ae6adb7451b"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/37_table_poisson.py",
+      "sha256": "b2fca1cdda3ed7231dec283f48f775ba054405a9b6728f8bd6032608e424d907",
+      "bytes": 22571,
+      "git_blob": "cb9d9913c8f1f61d8714d0ac3e21fc102748de84"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/40_build_cells_cache.py",
+      "sha256": "08720fd0045fbcaadb3b80c22e70407fa91ee7184e5578d5d335f2cc0df4a549",
+      "bytes": 3248,
+      "git_blob": "a319524247e7fc7def9720cdbbe72df02ee1effc"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/41_export_cells_stata.py",
+      "sha256": "65acd670be0dc24bc316b58a0924e665521b2318c74a8bc380f3f16808bc8282",
+      "bytes": 6163,
+      "git_blob": "dacee7c1596f1b32cb71a3b24184b92a1b45acf4"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/42_compare_stata.py",
+      "sha256": "6d011a2a2b64d8b8cedd46cb6cf253c18ac5c1ca6e3f6b82dc54c74d75a606a3",
+      "bytes": 4782,
+      "git_blob": "15f6dc8af526bfaef642f8b0699f6fb05c4f1468"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/43_tables_tex.py",
+      "sha256": "6999b57addb23dd3cbdc3f4a7a87d132291f7da02127a576199e5dcbbbda764a",
+      "bytes": 24576,
+      "git_blob": "578e831022a8cc7a5bae7f557628d6dc503b4ad2"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/44_table5_tex.py",
+      "sha256": "3c7f96c46d9e51d9fe58c831ad086c6a3b1d6f57cfb8cbc91cbc914627f9642e",
+      "bytes": 12218,
+      "git_blob": "8f1a03ab78932ebdd57015f67afd05ca2201019d"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/45_table_poisson_tex.py",
+      "sha256": "8930edb15cc2c6a42edf5bdb17d6e13f62c03379ffe41cf3eb077afbdd0a49d0",
+      "bytes": 12141,
+      "git_blob": "8e627cc120ceebd9216f7baaa5b004ef7a38bda3"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/46_table_rung0prime.py",
+      "sha256": "d659a59a4a060edc80dc3897ed2c615aa526dd533dd1596477b2e1ab1efe020e",
+      "bytes": 10009,
+      "git_blob": "e44bfd8213972422162dd3122318a6b71acb74c7"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/47_loggap_pieces_tex.py",
+      "sha256": "e561af5f3a1bd5296544fc6aec2f231ef819ca4305a7a2b9d4b04bf208e59852",
+      "bytes": 7859,
+      "git_blob": "56f37e0500a48ea8c82696f6ea773547428b8ff2"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/mpgr_disagg.py",
+      "sha256": "66cfbc22edd8b09015398fd4e2109850b14d3a55c2cc19b497abed6b4ffccefd",
+      "bytes": 34134,
+      "git_blob": "ef3c5a70d185859c01645a411e7f1ae91c5687be"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/out_paths.py",
+      "sha256": "69181db4f36d5f2d69dcdab3ee01cc6bac8d0f3e85e9f5343be308a4bbe5599c",
+      "bytes": 4502,
+      "git_blob": "f9f11cbe5d53f359a9b058f9401e098d63f2683a"
+    },
+    {
+      "path": "4_Macro_version/step_2/code/py/sync_from_dropbox.py",
+      "sha256": "485d60eaafe01516b4ed25842742b797166feebd811edbae31b0b5d94914d76e",
+      "bytes": 3154,
+      "git_blob": "3ee8d663f0cced3b5e7bec60b95e68374727271e"
+    }
+  ],
+  "independent_snapshot_anchors": {
+    "step_1/code/py/53_ns14_exact_replication.py": "8094811f3732ca141df6827bc38365b2f7b11241fff49e21b6770c7339fcfe0a",
+    "step_1/code/py/52_journey_ladder.py": "4e18bd221907c4aafc1717dea859cc2ddaeea5cb97c2fd670cf8afa9045e6083",
+    "step_1/code/py/51_county_multiplier_grid.py": "9d1b2d2e814478b68254e59f6c4e61ece2342aac81c6e9c01a099b973066620c",
+    "step_1/code/py/14_build_instrument.py": "c1d5e2281d4e0e547cdb11ba62fc24eca989159c6e0230c758e37a4c53b6f362",
+    "step_1/code/py/11_build_employment_cells.py": "d5ca09f18d0fe76f301c2f044494440cbfac32ecd216eda1b1e8b53a20d385da",
+    "step_1/code/py/dcads_common.py": "2244d364afc768a9c040fa48a74ff9236746b6f0576e2db727cad50b7457d9c3",
+    "step_1/code/pipeline/lib/contracts.py": "ab244dcbfd0435f64fd559421af90293017bb6a5177b2e29216a779f2b3abe75",
+    "step_2/code/py/mpgr_disagg.py": "66cfbc22edd8b09015398fd4e2109850b14d3a55c2cc19b497abed6b4ffccefd"
+  },
+  "status": "PINNED_CODE_RECOVERED_HASH_VERIFIED_NOT_FULL_RAW_REPLICATION"
+}

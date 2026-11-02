@@ -1,0 +1,18 @@
+statistic,value
+"Shock-level observations $(k,t)$","25,600"
+"Effective shocks, each $(k,t)$",1407.1
+"Effective shocks, each category once",50.9
+County-level 2SLS coefficient,4.1612
+Shock-level IV coefficient,4.1612
+Equivalence gap,5.4e-15
+"Coefficient, no share-sum control",4.161
+\hspace{1.5em}$t$,6.86
+"Coefficient, share sum controlled",3.397
+\hspace{1.5em}$t$,5.42
+Share sum's share of instrument variance,0.056
+Balance: income per head,-0.0074 (0.0163)
+Balance: employment rate,-0.0017 (0.0140)
+Balance: log population,0.0012 (0.0093)
+Balance: pre-period growth,0.0097 (0.0183)
+Balance: joint $F$,0.56
+"Observations, county level","97,856"

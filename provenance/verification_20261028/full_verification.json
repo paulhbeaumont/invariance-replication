@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "raw_to_results_certified": true,
+  "initial_derived_tree_empty": true,
+  "raw_boundary": "Exact checksum-verified external source archives; published harmonized EFSY panel is an external source, not a rerun of its Census imputation",
+  "sources_and_application_rebuilt_inside_this_run": true,
+  "prepared_analysis_cache_construction_reads": 0,
+  "numerical_summary": {
+    "status": "PASS",
+    "disaggregation_columns": 10,
+    "aggregation_specs": 6,
+    "heterogeneity_specs": 4,
+    "balance_tests": 12,
+    "references": "pre-existing independent outputs; not regenerated",
+    "population_multiplier": false,
+    "code_sha256": "cdb2649e28b4f55636e9ef8d258e95524ba2fbaf7d97b0151358fcb2da8c60cd"
+  },
+  "input_comparisons": 96,
+  "original_population_audit_status": "FAILED",
+  "application_exception": "Approved excluded Kalawao warning only",
+  "independent_references_unchanged": true,
+  "pdf": "data\\raw_rebuild\\runs\\20261028_clean_01\\application_attempt9\\output\\pdf\\NS_results_recap.pdf",
+  "pdf_sha256": "f2e995c9331f8cd70d238a0166fa1ea1731bb9358409e201d04d7844f40999b6",
+  "public_upload_performed": false
+}

@@ -1,0 +1,43 @@
+\begin{table}[!htbp]
+\caption{How Many Shifters Each County Instrument Has}
+\label{tab:many_shifters}
+{\centering
+\adjustbox{max width=\linewidth}{%
+\begin{tabular}{lrr}
+\toprule
+ & Intensity & Composition \\\\
+ & (one national series) & (300 categories) \\\\
+\midrule
+Number of shifters $K$ & 1 & 300 \\\\
+Shock observations ($K \times T$) & 32 & 9,600 \\\\
+Effective number of shifters (1/HHI) & 1.0 & 54.4 \\\\
+Variance in first component & 0.840 & 0.282 \\\\
+Components for 90\% of variance & 2 & 9 \\\\
+Median $R^2$ of shifter on common cycle & 1.000 & 0.148 \\\\
+Shifters with $R^2>0.5$ on common cycle & 1 of 1 & 22 of 298 \\\\
+Largest component's first-stage share & 1.000 & 0.332 \\\\
+Five largest components' share & 1.000 & 0.523 \\\\
+Effective components, first stage (1/HHI) & 1.0 & 8.1 \\\\
+\midrule
+Second-stage coefficient & 3.35 & 4.09 \\\\
+\hspace{1.5em}$t$ & 6.05 & 6.77 \\\\
+\hspace{1.5em}First-stage $F$ & 46.0 & 48.4 \\\\
+\addlinespace Observations & 97,856 & 97,856 \\\\
+\bottomrule
+\end{tabular}}
+\par}
+\medskip
+{\scriptsize \noindent\textit{Notes:} Both instruments are estimated on the same county-year
+sample at a four-year horizon, with division-by-year fixed effects, division-equal weights and
+the treatment winsorized within year. The intensity instrument multiplies a county's contract
+exposure over a predetermined ten-year window by one national procurement series, so $K=1$; it
+is the county analogue of the Nakamura-Steinsson alternative instrument. The composition
+instrument meets the county's contract mix across 300 four-digit Federal Supply Classification
+categories with the national change in demand for each, so $K=300$. The effective number of
+shifters is the inverse Herfindahl of national dollars by category. Variance in the first
+component is the share of the two-way demeaned instrument matrix's variance in its leading
+singular direction; a single-factor instrument is rank one in the cross section and sits at
+one. The common cycle is the equal-weighted mean of the category series. First-stage shares
+follow Goldsmith-Pinkham, Sorkin and Swift, measuring each component's contribution to the
+first-stage covariance.\par}
+\end{table}

@@ -1,0 +1,10 @@
+# Separate raw-source build environment; tested with CPython 3.9.13 on Windows.
+# The prepared-data launcher retains its existing requirements.txt environment.
+duckdb==1.4.1
+numpy==1.26.4
+pandas==2.3.3
+pyarrow==19.0.1
+python-dateutil==3.0.0
+pytz==2026.5
+six==1.17.0
+tzdata==2026.5

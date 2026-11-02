@@ -1,0 +1,62 @@
+{
+  "boundary": "frozen_constructed_inputs_not_raw_to_result",
+  "snapshot_directory": "data/intermediate/baseline_roll5_gap5",
+  "inputs": {
+    "source51_contracts_net.parquet": "212258ca316215ceccb567e4bbe8dfbfcec5443785e00e099bfd10186d69b678",
+    "source51_county_panel.parquet": "2cea0645682623b0d7c355411c8dadd806db81e6563e8ec30eff9152cfe93c21"
+  },
+  "reference_sha256": "0a059c16eca437369fe1b39df78a9c2012854b78b01881ca38f71a4261e1338f",
+  "reference_source_sha256": "cb1197e7024ac02946e0fe8f169e7040519c2c360757204797e4f55d0c087aba",
+  "math_sha256": "f05efa4a7dc444c94cc9f3fd575394a163237d97aec0d49d59bec604db907aab",
+  "extracted_functions": [
+    {
+      "source": "4_Macro_version/step_1/code/py/51_county_multiplier_grid.py",
+      "function": "lam_weights",
+      "source_file_sha256": "9d1b2d2e814478b68254e59f6c4e61ece2342aac81c6e9c01a099b973066620c",
+      "source_function_sha256": "501431fde085b88cbd2213c57d9d49d3aadc00c3c1f7ab6b89824518dbb1975e"
+    },
+    {
+      "source": "4_Macro_version/step_1/code/py/51_county_multiplier_grid.py",
+      "function": "wins",
+      "source_file_sha256": "9d1b2d2e814478b68254e59f6c4e61ece2342aac81c6e9c01a099b973066620c",
+      "source_function_sha256": "3f1d720c66c126edf3f0b89555093749af8302db18a90c9578b2474b2855e29c"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/22_winsor_construction_error.py",
+      "function": "demean",
+      "source_file_sha256": "cb5dc6d1fe518be62beca53c056046a61404de830c8d7665fbf17c55ca55b723",
+      "source_function_sha256": "9238d45687d5ba2deb413bd53a1c4c3acc733c715ff4bb8c073fa242ac53b139"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "function": "drop_singletons",
+      "source_file_sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "source_function_sha256": "7df5cd6ff5e1d8190ffde8f3fd9e1542899375e6997ddcb1d5ed624e827df329"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "function": "is_nested",
+      "source_file_sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "source_function_sha256": "0a8fbd4fc03f20a7d16c1b75376748e53fb271eaa12ed49034b50eead33c8cdd"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "function": "ssc_k",
+      "source_file_sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "source_function_sha256": "ef2f42ce9185d48dd45ef07a57d00bfe842eb3f9b2bb29a2052c4be25e21ce85"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "function": "crv1",
+      "source_file_sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "source_function_sha256": "8c80e96782e0c0449694eab4a29988c0ca02c962ebe8225c0313e5a2ab3735f9"
+    },
+    {
+      "source": "4_Macro_version/step_2/code/py/28_table_d1.py",
+      "function": "fit2sls",
+      "source_file_sha256": "9016d1a0736886f2ab44a769a9913e2941d4752d14bdc52f33854d21dc19558c",
+      "source_function_sha256": "4a15fa02680547e85dc455fadfe88a0afb623a89288977ce487762e069d5df80"
+    }
+  ],
+  "county_screen": "producer51 whole-history screen through 2018; frozen 3058 counties"
+}

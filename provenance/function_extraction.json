@@ -1,0 +1,20 @@
+[
+  {
+    "function": "fit",
+    "source": "4_Macro_version/sandbox_Paul/code/h3_analysis.py",
+    "source_sha256": "494cf4b71871fc49ddb40d04afbf250e85e0c7c2fa89d50bda0aa98a9d05631c",
+    "function_sha256": "d4a4352b398d13e8efb4fd84b72a1a48e205049014463904e11ea10f96827a83"
+  },
+  {
+    "function": "iv",
+    "source": "4_Macro_version/sandbox_Paul/code/heterogeneity_levels.py",
+    "source_sha256": "4bdb830ad51563db1aca8ebe4295a122e1268bef5c3239dc3ea38607ac91a05a",
+    "function_sha256": "093f337f15cb88e4e936741b7e35385f8dfe550795dde64e9f9ad4c99fd0e07f"
+  },
+  {
+    "function": "county_frame",
+    "source": "4_Macro_version/4a_PaperApplication/code/lib/disaggregation_math.py",
+    "source_sha256": "c3c75883d32c715ef0d09b7ae561f59cefe01b24c0790ea93e30b61b63f0ca98",
+    "function_sha256": "e38a9e44c6bf4ee37be16a2fa598a2304d57df0d5a1cb91a364536acae9ae0ab"
+  }
+]

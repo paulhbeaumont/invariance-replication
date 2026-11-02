@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.venv/
+.venv_raw/
+.analysis_extra/
+output/
+source/results_recap_v3/
+batch_logs/
+*.log
+*.aux
+*.synctex.gz
+.DS_Store
+Thumbs.db
+data/raw_rebuild/
+.downloads/
+# Prepared data are distributed as a checksummed release attachment, not Git blobs.
+data/aggregation/
+data/cells/
+data/disaggregation/
+data/heterogeneity/
+data/upstream/
+# Exact raw ZIPs are present locally; publish them as a separate research-data
+# deposit, not ordinary Git blobs. Receipts, manifest and instructions stay tracked.
+data/raw/USAspending/**/*.zip
+data/raw/USAspending/**/*.partial

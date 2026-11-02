@@ -1,0 +1,61 @@
+{
+  "payload": {
+    "file_format": "csv",
+    "filters": {
+      "agencies": [
+        {
+          "name": "Department of Defense",
+          "tier": "toptier",
+          "type": "awarding"
+        }
+      ],
+      "date_range": {
+        "end_date": "2002-09-30",
+        "start_date": "2001-10-01"
+      },
+      "date_type": "action_date",
+      "prime_award_types": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  },
+  "response": {
+    "download_request": {
+      "download_types": [
+        "prime_awards"
+      ],
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "prime_and_sub_award_types": {
+          "prime_awards": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        "time_period": [
+          {
+            "date_type": "action_date",
+            "end_date": "2002-09-30",
+            "start_date": "2001-10-01"
+          }
+        ]
+      },
+      "request_type": "award"
+    },
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+    "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+    "status_url": "https://api.usaspending.gov/api/v2/download/status?file_name=All_PrimeTransactions_2026-08-14_H12M51S07028762.zip"
+  }
+}

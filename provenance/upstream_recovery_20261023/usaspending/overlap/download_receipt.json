@@ -1,0 +1,235 @@
+[
+  {
+    "bytes": 107519543,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M12S44925658.zip",
+    "fiscal_year": 2001,
+    "generation_status": {
+      "status": "local_file_present"
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2001-09-30",
+          "start_date": "2000-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "fe8e23482d1ea32d0ab218a4dddfab2bf4c54f9d1b4e0d28a38326c7fc0bfec1",
+    "zip_members": 1
+  },
+  {
+    "bytes": 158759404,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+    "fiscal_year": 2002,
+    "generation_status": {
+      "file_name": "All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+      "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+      "message": null,
+      "seconds_elapsed": "776.182696",
+      "status": "finished",
+      "total_columns": 297,
+      "total_rows": 484390,
+      "total_size": 158759.404
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2002-09-30",
+          "start_date": "2001-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "7336efdd04f4345a2f84a1befa5c7c458997b3b6061c8f9474eaaa4ca8bee8f7",
+    "zip_members": 1
+  },
+  {
+    "bytes": 203326757,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+    "fiscal_year": 2003,
+    "generation_status": {
+      "file_name": "All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+      "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+      "message": null,
+      "seconds_elapsed": "1215.677696",
+      "status": "finished",
+      "total_columns": 297,
+      "total_rows": 603588,
+      "total_size": 203326.757
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2003-09-30",
+          "start_date": "2002-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "e555e3df510057b4e4c4c9215a022d7e6530f6d3f439a03acda97ffecc689802",
+    "zip_members": 1
+  },
+  {
+    "bytes": 253288709,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+    "fiscal_year": 2004,
+    "generation_status": {
+      "file_name": "All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+      "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+      "message": null,
+      "seconds_elapsed": "1453.938905",
+      "status": "finished",
+      "total_columns": 297,
+      "total_rows": 718672,
+      "total_size": 253288.709
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2004-09-30",
+          "start_date": "2003-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "96e4cd41a386d4b8f7fecaf4b133803bbd03c71e06f22f69a0671bd2839fd9b8",
+    "zip_members": 1
+  },
+  {
+    "bytes": 452525420,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+    "fiscal_year": 2005,
+    "generation_status": {
+      "file_name": "All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+      "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+      "message": null,
+      "seconds_elapsed": "2101.402997",
+      "status": "finished",
+      "total_columns": 297,
+      "total_rows": 1383484,
+      "total_size": 452525.42
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2005-09-30",
+          "start_date": "2004-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "5b70428c10f50c0b96b55383dfd2bd6ddb149ea0dcbab9547aa404e2c0cda508",
+    "zip_members": 2
+  },
+  {
+    "bytes": 442588523,
+    "file_name": "All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+    "fiscal_year": 2006,
+    "generation_status": {
+      "file_name": "All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+      "file_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+      "message": null,
+      "seconds_elapsed": "2094.359306",
+      "status": "finished",
+      "total_columns": 297,
+      "total_rows": 1334399,
+      "total_size": 442588.523
+    },
+    "request": {
+      "file_format": "csv",
+      "filters": {
+        "agencies": [
+          {
+            "name": "Department of Defense",
+            "tier": "toptier",
+            "type": "awarding"
+          }
+        ],
+        "date_range": {
+          "end_date": "2006-09-30",
+          "start_date": "2005-10-01"
+        },
+        "date_type": "action_date",
+        "prime_award_types": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "sha256": "523ef9b8a63ffe9514107140a5284974eef16665c5ad0b85fe84f2d4110bd37e",
+    "zip_members": 2
+  }
+]

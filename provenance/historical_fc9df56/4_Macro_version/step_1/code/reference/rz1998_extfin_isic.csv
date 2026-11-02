@@ -1,0 +1,49 @@
+# Rajan and Zingales (1998) external dependence on finance, 36 ISIC industries, US manufacturing, 1980s.
+# Built by 70_ingest_rajan_zingales.py, whose docstring carries the caveats. TRANSCRIBED - there is no RZ replication package.
+# extfin_all: Fisman and Love (2003) NBER WP 9582 Table 2 USEXTFIN, 3 decimals, all 36 rows. This is the reported value.
+# extfin_all_aer, capex_all: Rajan and Zingales (1998) Table 1 columns 1-2, read from the scanned article, 2 decimals.
+# The two agree on all 33 rows the scan yields. Blank where the scan yields nothing: 323 Leather, 3211 Spinning, 3522 Drugs.
+# capex_all is scan-derived only and is NOT cross-checked against a second source.
+# Table 1's mature-company and young-company columns are not transcribed: the scan garbles them.
+# net_of_isic: RZ net a broader sector of any subsector reported separately (footnote 10), so these parent rows do NOT cover their whole group. Assigning a parent and its child to one cell double counts.
+# parent_isic: the group this row sits inside, where that group is finer than the row's own code.
+# MANUFACTURING ONLY: 15.8% of EFSY employment in 1998, 9.1% by 2016.
+# Source: Rajan and Zingales (1998), AER 88(3), 559-586. Course copy: https://www.isid.ac.in/~tridip/Teaching/DevEco/Readings/07Finance/07Rajan&Zingales-AER1998.pdf sha256 5e10ca8fc1242f0333fb87d09d5f1749cb348fda2b0f48845b2d6d3709ea2d71
+# Source: Fisman and Love (2003), NBER WP 9582. https://www.nber.org/system/files/working_papers/w9582/w9582.pdf sha256 5b833eef1f2f4889e0c88443d4fff7c1d30aee94a31898b91f21928626b2c428
+isic_code,industry_name,extfin_all,extfin_all_aer,capex_all,net_of_isic,parent_isic
+314,"Tobacco",-0.451,-0.45,0.23,,
+361,"Pottery",-0.146,-0.15,0.20,,
+323,"Leather",-0.140,,,,
+3211,"Spinning",-0.088,,,,321
+324,"Footwear",-0.078,-0.08,0.25,,
+372,"Non-ferrous metal",0.005,0.01,0.22,,
+322,"Apparel",0.029,0.03,0.31,,
+353,"Petroleum refineries",0.042,0.04,0.22,,
+369,"Non metal products",0.062,0.06,0.21,,
+313,"Beverages",0.077,0.08,0.26,,
+371,"Iron and steel",0.087,0.09,0.18,,
+311,"Food products",0.137,0.14,0.26,,
+3411,"Pulp, paper",0.151,0.15,0.20,,341
+3513,"Synthetic resins",0.159,0.16,0.30,,351
+341,"Paper and products",0.176,0.18,0.24,3411,
+342,"Printing and publishing",0.204,0.20,0.39,,
+352,"Other chemicals",0.219,0.22,0.31,3522,
+355,"Rubber products",0.226,0.23,0.28,,
+332,"Furniture",0.236,0.24,0.25,,
+381,"Metal products",0.237,0.24,0.29,,
+3511,"Basic chemicals excl. fertilizers",0.253,0.25,0.30,,351
+331,"Wood products",0.284,0.28,0.26,,
+384,"Transportation equipment",0.307,0.31,0.31,3841;3843,
+354,"Petroleum and coal products",0.334,0.33,0.23,,
+3843,"Motor vehicle",0.389,0.39,0.32,,384
+321,"Textile",0.400,0.40,0.25,3211,
+382,"Machinery",0.445,0.45,0.29,3825,
+3841,"Ship",0.458,0.46,0.43,,384
+390,"Other industries",0.470,0.47,0.37,,
+362,"Glass",0.528,0.53,0.28,,
+383,"Electric machinery",0.767,0.77,0.38,3832,
+385,"Professional goods",0.961,0.96,0.45,,
+3832,"Radio",1.039,1.04,0.42,,383
+3825,"Office and computing",1.060,1.06,0.60,,382
+356,"Plastic products",1.140,1.14,0.44,,
+3522,"Drugs",1.492,,,,352

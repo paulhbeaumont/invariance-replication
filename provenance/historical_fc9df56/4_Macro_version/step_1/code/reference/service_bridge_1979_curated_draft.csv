@@ -1,0 +1,108 @@
+# DRAFT hand-curated mapping for the top disappeared 1976-78 service codes (for review, not yet consumed by any producer).
+# Built from reference/service_code_bridge_1979.csv candidates + description candidates + the RDTE code grammar:
+# in new A-codes the second character is the technology area (C1x aircraft, C2x missile/space, C3x ships, C4x tank-auto,
+# C5x weapons, C6x electronics, C9x hard goods, R space, D defense agencies, Z general R&D/FFRDC) and the final digit is
+# the RDTE stage (1 basic research ... 5 operational systems dev, 6 management support), mirroring old A991-A996.
+# proposed = new_code:weight pairs separated by ";". confidence: high = description/identity is decisive;
+# medium = semantic decode with matcher support; low = judgment call, review needed. "keep_matcher" = no override proposed.
+old_code,old_desc,dollars_m,proposed,confidence,reason
+J501,MAINT REPAIR AIRCRAFT,2262,J015:0.75;J016:0.25,high,exact description match J015; components share to J016
+Y986,RIVERS HARBORS FLOOD CONTROL CIVIL,2244,Y211:0.40;Y212:0.30;Y219:0.30,medium,Corps civil works split across dams/canals/conservation structures
+J504,VESSELS,1923,J019:0.85;J020:0.15,high,ship maintenance; matcher 0.70 J019 confirms
+M605,AMMUNITION FACILITY,1665,M151:1.00,high,exact facility-type match; matcher 0.92
+A2R4,(blank),1582,AR22:0.31;AP22:0.20;AR95:0.18;AR92:0.15,keep_matcher,no description; footprints only
+S703,TELEPHONE AND COMMUNICATION,1323,S113:1.00,high,exact description; matcher 1.00
+R659,OTHER THAN R641-R658 (engineering catch-all),1318,R219:0.30;R214:0.25;R599:0.25;R215:0.20,low,catch-all spread over engineering services; review split
+R699,OTHER THAN R641-R698 (services catch-all),1289,R219:0.30;R414:0.30;R599:0.20;R499:0.20,low,catch-all spread; review split
+Z992,BLDG MAINTENANCE ALTERATION REPAIR,1204,Z199:0.60;Z119:0.15;Z163:0.15;Z161:0.10,medium,Z199 is the generic buildings maintenance successor
+K531,AIRCRAFT (modification),1094,K015:0.85;K016:0.15,high,exact; matcher 0.63 K015
+A304,UNDERSEA MISSILE ULMS,1092,AC24:0.70;AC26:0.30,medium,Navy strategic missile -> missile+space eng dev; override matcher AR9x space
+W871,ADP AND EAM EQUIPMENT,1072,W070:1.00,high,ADP lease; matcher 0.62
+V844,CARGO SPACE VESSEL,1060,V115:0.70;V124:0.30,high,vessel freight + charter; matcher agrees
+A284,FIGHTER PROTO HORNET,1038,AC14:1.00,high,aircraft program at engineering-dev stage; matcher 0.50 AC14
+A994,ENGINEERING DEV (stage aggregate),899,AC26:0.60;AC22:0.22;AC24:0.08,keep_matcher,stage aggregate; area allocation from footprints is the best signal
+S702,ELECTRICITY,800,S112:1.00,high,exact; matcher 0.87
+Y961,FAMILY HOUSING,688,Y161:1.00,high,exact description Y161; overrides matcher Y141 hospitals
+Z999,MAINT AND REPAIR OTHER THAN Z991-Z998,676,Z299:0.40;Z249:0.30;Z199:0.30,low,catch-all spread over non-building/utilities/buildings maintenance
+A214,DEVELOPMENT,669,AR96:0.31;AC91:0.22;AC31:0.19;AC54:0.18,keep_matcher,generic label; footprints only
+J507,ELECTRONIC AND COMMUNICATIONS EQUIPMENT,659,J058:0.50;J059:0.50,high,comm + electrical equipment maintenance; matcher agrees
+R646,MANAGEMENT ENGINEERING,633,R214:1.00,high,exact description match
+A993,ADVANCED DEVEL,587,AC63:0.25;AC65:0.25;AC64:0.25;AC62:0.25,keep_matcher,stage aggregate; footprint allocation
+K533,MISSILES (modification),582,K014:0.85;K010:0.15,high,guided missiles; matcher 0.55
+J519,EQUIPMENT OTHER THAN J501-J518,580,J099:0.50;J016:0.20;J028:0.15;J059:0.15,medium,catch-all; J099 is the generic equipment successor
+R653,MANAGEMENT IMPROVEMENT,575,R499:0.70;R408:0.30,medium,generic management + program support
+A3H4,PATRIOT SAM,569,AC24:1.00,medium,Army SAM at eng dev -> missile+space; overrides nonsense matcher AQ11
+A5C3,REACTOR PROPULSION PLANTS,568,AC33:0.50;AC31:0.25;AC36:0.25,medium,naval nuclear propulsion -> ships RDTE; matcher agrees on ships
+A6X4,TANK SYSTEMS,565,AC44:0.60;AC46:0.40,high,tank-automotive RDTE; overrides matcher AG44 footprint artifact
+V841,AIR PASSENGER TRANSPORTATION,559,V211:1.00,high,exact; matcher 0.62
+A3O4,TRIDENT MISSILE SYSTEM,557,AC24:0.70;AC26:0.30,medium,Navy strategic missile eng dev; overrides AR9x
+K537,ELECTRONIC AND COMMUNICATIONS EQUIPMENT,545,K058:0.60;K059:0.40,high,comm equipment modification; matcher 0.56
+A762,ELECTRONIC DEVICE TECHNOLOGY,526,AC62:0.50;AC63:0.50,medium,electronics exploratory/advanced tech; overrides energy codes
+L543,MISSILES (tech rep),501,L014:1.00,high,guided missiles; matcher 0.53
+M603,ELECTRONIC AND COMMUNICATION SYSTEM FACILITY,456,M128:1.00,high,exact facility type; matcher 0.52 sim 0.91
+R649,PRODUCTION ENGINEERING,429,R215:1.00,high,exact description match
+Y962,TROOP HOUSING,425,Y163:1.00,high,exact description Y163
+A996,MANAGEMENT AND SUPPORT,415,AG92:0.26;AC25:0.21;AR13:0.20;AG96:0.16,keep_matcher,stage aggregate; footprint allocation
+K534,VESSELS (modification),394,K019:1.00,high,ships modification; matcher 0.66
+R660,ARCHITECT ENGINEER FOR REAL PROPERTY,392,R211:1.00,medium,architect-engineer general
+W879,LEASE RENTAL OTHER THAN W871-W878,369,W099:0.40;W058:0.40;W074:0.20,medium,catch-all; generic lease + comm equipment (matcher)
+A2H4,ADVANCED ATTACK HELICOPTER,365,AC14:1.00,medium,Army helicopter eng dev -> aircraft RDTE; overrides weak matcher
+S713,FOOD,359,S203:1.00,high,exact; matcher 0.66
+A314,TOMAHAWK MISSILE SYSTEM,348,AC24:0.60;AC14:0.40,medium,cruise missile; air-launched component to aircraft
+A991,RESEARCH (stage aggregate),341,AZ11:0.60;AZ01:0.40,low,stage-1 research -> general R&D codes; review
+AGI4,AWACS,337,AC14:0.60;AC64:0.40,medium,aircraft + electronics eng dev; overrides energy/space matcher
+Y921,RESEARCH DEVELOPMENT TEST BUILDINGS,316,Y192:0.70;Y199:0.30,high,testing/measurement buildings; matcher 0.63
+S709,CUSTODIAL JANITORIAL,304,S201:1.00,high,exact description
+V842,AIR CARGO TRANSPORTATION,302,V111:1.00,high,air freight; matcher 0.63
+L547,ELECTRONIC AND COMMUNICATIONS EQUIPMENT,296,L058:0.50;L059:0.50,medium,description wins over matcher L018 space vehicles
+Y941,HOSPITAL INFIRMARY BUILDINGS,296,Y141:0.60;Y149:0.40,medium,both hospital construction codes exist; split
+V843,VESSEL CHARTER,288,V124:0.90;V125:0.10,high,vessel charter for things
+A7C6,LINCOLN LABORATORY,285,AZ03:0.50;AZ02:0.30;AZ14:0.20,medium,FFRDC -> general R&D codes; matcher concentrated there
+M609,GOVERNMENT FACILITY OTHER THAN M601-M608,283,M199:0.40;M126:0.30;M129:0.30,low,catch-all; generic + missile/airfield facilities
+L541,AIRCRAFT (tech rep),278,L015:0.85;L016:0.15,high,exact; matcher 0.67
+L544,VESSELS (tech rep),275,L019:0.60;L020:0.40,high,ships + marine equipment
+A3G3,BALL MSL DEF SYS TECH,273,AC23:0.80;AC63:0.20,medium,missile-defense advanced dev; electronics share
+A995,OPERATIONAL SYS DEVEL (stage aggregate),266,AC24:0.30;AC64:0.20;AC65:0.19;AD14:0.16,keep_matcher,stage aggregate; footprint allocation
+S701,GAS,265,S111:1.00,high,exact; matcher 0.80
+A992,EXPLORATORY DEVEL (stage aggregate),263,AZ05:0.28;AZ15:0.24;AC61:0.19;AE93:0.15,keep_matcher,stage aggregate
+A3D3,ADV ICBM TECHNOLOGY,255,AC23:0.70;AC24:0.30,medium,missile advanced dev; overrides AD63 construction
+A3L3,ADV BALL ENTRY SYSTEM,248,AC23:1.00,medium,ballistic reentry advanced dev
+A3I5,MINUTEMAN SQUADRONS,238,AC25:1.00,medium,operational missile system (stage 5); overrides matcher
+Y975,ROADS AND STREETS,234,Y222:1.00,high,highways/roads/streets/bridges; matcher 0.51
+A8B6,AEDC BASE COSTS,229,AZ06:0.50;AZ16:0.50,high,matcher sim 1.00 on both; FFRDC-like support
+A4R3,SPACE SHUTTLE,227,AR35:0.70;AR33:0.30,high,space transportation systems; matcher 0.45
+A2G4,UTTAS UTIL TACT TNSP ACFT SYS,221,AC14:0.60;AC13:0.40,medium,Blackhawk program eng dev -> aircraft RDTE
+A433,NAVSTAR GPS,219,AR95:0.60;AR46:0.40,high,space + space tracking; matcher agrees
+A3C3,ADV BALLISTIC MISSILE DEF,218,AC23:1.00,medium,missile-defense advanced dev; matcher 0.50
+J503,MISSILES (maint),212,J014:1.00,high,guided missiles; matcher 0.74
+J502,AIRCRAFT ENGINES,184,J028:0.85;J029:0.15,high,engines/turbines + accessories; matcher 0.68
+Y904,LAND OPERATIONAL FACILITIES,182,Y129:0.40;Y199:0.30;Y123:0.30,low,operational facilities -> airfield/radar/general; review
+R654,MANAGEMENT ASSISTANCE,181,R499:0.40;R408:0.30;R413:0.30,medium,management family spread
+A775,AWACS,179,AC14:0.60;AC64:0.40,medium,same call as AGI4
+A3J4,ROLAND,176,AC24:1.00,medium,Army SAM eng dev; overrides nonsense matcher
+Y907,TRAINING FACILITIES,173,Y139:0.70;Y131:0.30,medium,educational buildings + schools
+A7D6,MITRE,171,AZ14:0.50;AZ04:0.50,high,FFRDC; matcher sims 0.97-0.98
+R651,PROGRAMMING FOR ADP EAM EQUIPMENT,171,R302:0.70;R399:0.30,high,ADP systems development; matcher 0.54
+ABA4,LAMPS MARK III,169,AC14:0.60;AC64:0.40,low,Navy helicopter system; review
+M606,LAYAWAY STANDBY FACILITY,169,M155:0.50;M151:0.30;M199:0.20,low,standby industrial facilities; footprint-led
+A972,EXPLOR DEV DNA,168,AD92:0.60;AD94:0.20;AD95:0.20,medium,Defense Nuclear Agency -> defense-agency RDTE; matcher agrees
+Y905,WATERFRONT OPERATIONAL FACILITIES MILITARY,165,Y154:0.80;Y123:0.20,medium,ship construction/repair facilities; matcher 0.49
+Y911,MAINTENANCE FACILITIES,165,Y152:1.00,high,maintenance buildings; exact description
+R642,ARCHITECT ENGINEER,164,R211:1.00,high,exact description
+A7Y4,(blank),161,AG41:0.24;AR35:0.23;AC15:0.21;AC63:0.17,keep_matcher,no description; footprints only
+A9A2,STRATEGIC TECHNOLOGY DARPA,160,AR22:0.45;AR41:0.21;AR93:0.12;AG93:0.11,keep_matcher,DARPA strategic tech; footprint allocation plausible
+A744,PROTECTIVE SYSTEMS,157,AE25:0.60;AC63:0.14;AC11:0.09;AC32:0.09,keep_matcher,ambiguous label; review
+A594,TRIDENT SUBMARINE SYSTEM,149,AC33:0.50;AC31:0.50,medium,submarine -> ships RDTE; overrides mining/tracking matcher
+A3N4,AIR LAUNCHED CRUISE MISSILE,148,AC24:0.60;AC14:0.40,medium,cruise missile + aircraft carriage
+A8H6,TEST EVALUATION SUPPORT,147,AZ16:0.50;AZ06:0.50,low,stage-6 support -> general R&D support; no candidates surfaced
+U829,TRAINING OTHER THAN U821-U828,146,U009:0.80;U006:0.20,high,generic training; matcher 0.81
+Y979,MISCELLANEOUS UTILITIES FACILITIES,143,Y249:1.00,medium,construction utilities
+ABB5,SQUADRONS,142,AC15:1.00,medium,operational aircraft systems (stage 5); overrides AC14
+Y973,SEWAGE AND WASTE FACILITIES,138,Y244:1.00,high,sewerage/waste; exact description
+A3Y4,CMBT SYS ENG DEV CSEDS,132,AC33:0.50;AC26:0.25;AC55:0.25,low,Aegis combat-system eng dev; ships/missile/weapons split; review
+A1Q1,DEFENSE RESEARCH SCIENCES,131,AZ01:0.50;AZ11:0.30;AD91:0.20,high,basic research; matcher 0.39/0.34 on AZ01/AZ11
+Z994,ROADS MAINTENANCE AND REPAIR,130,Z222:0.80;Z221:0.20,high,highways/roads maintenance
+Y912,PRODUCTION FACILITIES,129,Y153:0.80;Y151:0.20,medium,production buildings + ammunition facilities
+J512,ADP EAM EQUIPMENT,127,J070:1.00,high,ADP maintenance; matcher 0.70
+R655,MILITARY PERSONNEL RECRUITING,126,V240:0.70;R401:0.30,medium,CROSS-LETTER: true successor V240 military personnel recruiting exists in V; advertising share to R401
+Y989,CONSTRUCTION OTHER THAN Y891-Y988,2397,LETTER:Y,low,construction residual catch-all; spread over 1979 Y-code dollar shares; review

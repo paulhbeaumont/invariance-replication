@@ -1,0 +1,11 @@
+{
+  "id": "population1975",
+  "status": "approved",
+  "population_year": 1975,
+  "population_sha256": "3c85555b2340f50be70311ebb49a5efee73a312c9e56298e9b05da2854690e05",
+  "county": "fixed county population",
+  "industry": "existing industry weight multiplied by fixed county population",
+  "coefficient_directory": "results/coefficients/population1975",
+  "input_reference": "config/baseline_lock.json remains the frozen equal-weight input fixture",
+  "aggregation_specification": "config/paper_aggregation.json"
+}

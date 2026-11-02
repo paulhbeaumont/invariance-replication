@@ -1,0 +1,2 @@
+first_year,last_year,state_code,city_name,reported_county_fips,corrected_county_fips,evidence
+2001,2018,TX,SEALY,48089,48015,"DCADS places Sealy in Austin County through FY2006; USAspending recipient records identify Austin County for Sealy transactions"

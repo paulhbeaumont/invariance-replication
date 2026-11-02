@@ -1,0 +1,63 @@
+{
+  "id": "standard_employment_share_aggregate_population1975",
+  "status": "approved",
+  "outcome": "standard",
+  "winsorized": false,
+  "horizons": [
+    2,
+    4
+  ],
+  "rungs": [
+    "czone",
+    "cea",
+    "ea",
+    "state"
+  ],
+  "last_year": 2016,
+  "n_counties": 3058,
+  "county_weight": "lagged_employment_share * aggregate_population1975",
+  "aggregate_weight": "aggregate_population1975",
+  "construction_share": "E_b / aggregate_E_b",
+  "population_year": 1975,
+  "population_sha256": "3c85555b2340f50be70311ebb49a5efee73a312c9e56298e9b05da2854690e05",
+  "county_fe": [
+    "ccg",
+    "year"
+  ],
+  "aggregate_fe": [
+    "unit",
+    "year"
+  ],
+  "cluster": "unit",
+  "county_equation": {
+    "endogenous": [
+      "x"
+    ],
+    "instruments": [
+      "z"
+    ]
+  },
+  "augmented_equation": {
+    "endogenous": [
+      "x",
+      "x_agg"
+    ],
+    "instruments": [
+      "z",
+      "z_agg"
+    ]
+  },
+  "aggregate_equation": {
+    "endogenous": [
+      "x_agg"
+    ],
+    "instruments": [
+      "z_agg"
+    ]
+  },
+  "cache": "analysis/aggregation_mpgr_iv_h24",
+  "fixture_sha256": "483b111cb705eb13d2eab969f5c11b03e514ce7e2529b4041c5ccb379223c02d",
+  "aggregate_reference": "results/coefficients/aggregation_standard_population_h24.csv",
+  "aggregate_reference_sha256": "6fa7e7b016e2bf04e4fc55a5f17f48dc403acb751571f003d3704de7afa469f4",
+  "coefficients": "results/coefficients/aggregation_standard_aligned_h24.csv"
+}

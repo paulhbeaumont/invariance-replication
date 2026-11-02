@@ -1,0 +1,1839 @@
+county_fips5,cbsa_code,cbsa_title,cbsa_type
+01001,33860,"Montgomery, AL Metropolitan Statistical Area",Metropolitan
+01003,19300,"Daphne-Fairhope, AL Micropolitan Statistical Area",Micropolitan
+01007,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01009,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01015,11500,"Anniston-Oxford, AL Metropolitan Statistical Area",Metropolitan
+01017,46740,"Valley, AL Micropolitan Statistical Area",Micropolitan
+01021,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01031,21460,"Enterprise-Ozark, AL Micropolitan Statistical Area",Micropolitan
+01033,22460,"Florence, AL Metropolitan Statistical Area",Metropolitan
+01043,18980,"Cullman, AL Micropolitan Statistical Area",Micropolitan
+01045,21460,"Enterprise-Ozark, AL Micropolitan Statistical Area",Micropolitan
+01047,42820,"Selma, AL Micropolitan Statistical Area",Micropolitan
+01051,33860,"Montgomery, AL Metropolitan Statistical Area",Metropolitan
+01055,23460,"Gadsden, AL Metropolitan Statistical Area",Metropolitan
+01061,20020,"Dothan, AL Metropolitan Statistical Area",Metropolitan
+01063,46220,"Tuscaloosa, AL Metropolitan Statistical Area",Metropolitan
+01065,46220,"Tuscaloosa, AL Metropolitan Statistical Area",Metropolitan
+01067,20020,"Dothan, AL Metropolitan Statistical Area",Metropolitan
+01069,20020,"Dothan, AL Metropolitan Statistical Area",Metropolitan
+01071,42460,"Scottsboro, AL Micropolitan Statistical Area",Micropolitan
+01073,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01077,22460,"Florence, AL Metropolitan Statistical Area",Metropolitan
+01079,19460,"Decatur, AL Metropolitan Statistical Area",Metropolitan
+01081,12220,"Auburn-Opelika, AL Metropolitan Statistical Area",Metropolitan
+01083,26620,"Huntsville, AL Metropolitan Statistical Area",Metropolitan
+01085,33860,"Montgomery, AL Metropolitan Statistical Area",Metropolitan
+01087,46260,"Tuskegee, AL Micropolitan Statistical Area",Micropolitan
+01089,26620,"Huntsville, AL Metropolitan Statistical Area",Metropolitan
+01095,10700,"Albertville, AL Micropolitan Statistical Area",Micropolitan
+01097,33660,"Mobile, AL Metropolitan Statistical Area",Metropolitan
+01101,33860,"Montgomery, AL Metropolitan Statistical Area",Metropolitan
+01103,19460,"Decatur, AL Metropolitan Statistical Area",Metropolitan
+01109,45980,"Troy, AL Micropolitan Statistical Area",Micropolitan
+01113,17980,"Columbus, GA-AL Metropolitan Statistical Area",Metropolitan
+01115,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01117,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+01121,45180,"Talladega-Sylacauga, AL Micropolitan Statistical Area",Micropolitan
+01125,46220,"Tuscaloosa, AL Metropolitan Statistical Area",Metropolitan
+01127,13820,"Birmingham-Hoover, AL Metropolitan Statistical Area",Metropolitan
+02020,11260,"Anchorage, AK Metropolitan Statistical Area",Metropolitan
+02090,21820,"Fairbanks, AK Metropolitan Statistical Area",Metropolitan
+02110,27940,"Juneau, AK Micropolitan Statistical Area",Micropolitan
+02130,28540,"Ketchikan, AK Micropolitan Statistical Area",Micropolitan
+02150,28980,"Kodiak, AK Micropolitan Statistical Area",Micropolitan
+02170,11260,"Anchorage, AK Metropolitan Statistical Area",Metropolitan
+04003,43420,"Sierra Vista-Douglas, AZ Micropolitan Statistical Area",Micropolitan
+04005,22380,"Flagstaff, AZ Metropolitan Statistical Area",Metropolitan
+04007,37740,"Payson, AZ Micropolitan Statistical Area",Micropolitan
+04009,40940,"Safford, AZ Micropolitan Statistical Area",Micropolitan
+04011,40940,"Safford, AZ Micropolitan Statistical Area",Micropolitan
+04013,38060,"Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area",Metropolitan
+04015,29420,"Lake Havasu City-Kingman, AZ Micropolitan Statistical Area",Micropolitan
+04019,46060,"Tucson, AZ Metropolitan Statistical Area",Metropolitan
+04021,38060,"Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area",Metropolitan
+04023,35700,"Nogales, AZ Micropolitan Statistical Area",Micropolitan
+04025,39140,"Prescott, AZ Metropolitan Statistical Area",Metropolitan
+04027,49740,"Yuma, AZ Metropolitan Statistical Area",Metropolitan
+05005,34260,"Mountain Home, AR Micropolitan Statistical Area",Micropolitan
+05007,22220,"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",Metropolitan
+05009,25460,"Harrison, AR Micropolitan Statistical Area",Micropolitan
+05013,15780,"Camden, AR Micropolitan Statistical Area",Micropolitan
+05019,11660,"Arkadelphia, AR Micropolitan Statistical Area",Micropolitan
+05025,38220,"Pine Bluff, AR Metropolitan Statistical Area",Metropolitan
+05027,31620,"Magnolia, AR Micropolitan Statistical Area",Micropolitan
+05031,27860,"Jonesboro, AR Metropolitan Statistical Area",Metropolitan
+05033,22900,"Fort Smith, AR-OK Metropolitan Statistical Area",Metropolitan
+05035,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+05045,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05047,22900,"Fort Smith, AR-OK Metropolitan Statistical Area",Metropolitan
+05051,26300,"Hot Springs, AR Metropolitan Statistical Area",Metropolitan
+05053,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05055,37500,"Paragould, AR Micropolitan Statistical Area",Micropolitan
+05057,26260,"Hope, AR Micropolitan Statistical Area",Micropolitan
+05063,12900,"Batesville, AR Micropolitan Statistical Area",Micropolitan
+05069,38220,"Pine Bluff, AR Metropolitan Statistical Area",Metropolitan
+05079,38220,"Pine Bluff, AR Metropolitan Statistical Area",Metropolitan
+05085,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05087,22220,"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",Metropolitan
+05091,45500,"Texarkana, TX-Texarkana, AR Metropolitan Statistical Area",Metropolitan
+05093,14180,"Blytheville, AR Micropolitan Statistical Area",Micropolitan
+05099,26260,"Hope, AR Micropolitan Statistical Area",Micropolitan
+05101,25460,"Harrison, AR Micropolitan Statistical Area",Micropolitan
+05103,15780,"Camden, AR Micropolitan Statistical Area",Micropolitan
+05105,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05107,48340,"West Helena, AR Micropolitan Statistical Area",Micropolitan
+05111,27860,"Jonesboro, AR Metropolitan Statistical Area",Metropolitan
+05115,40780,"Russellville, AR Micropolitan Statistical Area",Micropolitan
+05119,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05123,22620,"Forrest City, AR Micropolitan Statistical Area",Micropolitan
+05125,30780,"Little Rock-North Little Rock, AR Metropolitan Statistical Area",Metropolitan
+05131,22900,"Fort Smith, AR-OK Metropolitan Statistical Area",Metropolitan
+05139,20980,"El Dorado, AR Micropolitan Statistical Area",Micropolitan
+05143,22220,"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",Metropolitan
+05145,42620,"Searcy, AR Micropolitan Statistical Area",Micropolitan
+05149,40780,"Russellville, AR Micropolitan Statistical Area",Micropolitan
+06001,41860,"Oakland-Fremont-Hayward, CA Metropolitan Division",Metropolitan
+06007,17020,"Chico, CA Metropolitan Statistical Area",Metropolitan
+06013,41860,"Oakland-Fremont-Hayward, CA Metropolitan Division",Metropolitan
+06015,18860,"Crescent City North, CA Micropolitan Statistical Area",Micropolitan
+06017,40900,"Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",Metropolitan
+06019,23420,"Fresno, CA Metropolitan Statistical Area",Metropolitan
+06023,21700,"Eureka-Arcata-Fortuna, CA Micropolitan Statistical Area",Micropolitan
+06025,20940,"El Centro, CA Metropolitan Statistical Area",Metropolitan
+06027,13860,"Bishop, CA Micropolitan Statistical Area",Micropolitan
+06029,12540,"Bakersfield, CA Metropolitan Statistical Area",Metropolitan
+06031,25260,"Hanford-Corcoran, CA Metropolitan Statistical Area",Metropolitan
+06033,17340,"Clearlake, CA Micropolitan Statistical Area",Micropolitan
+06037,31100,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",Metropolitan
+06039,31460,"Madera, CA Metropolitan Statistical Area",Metropolitan
+06041,41860,"San Francisco-San Mateo-Redwood City, CA Metropolitan Division",Metropolitan
+06045,46380,"Ukiah, CA Micropolitan Statistical Area",Micropolitan
+06047,32900,"Merced, CA Metropolitan Statistical Area",Metropolitan
+06053,41500,"Salinas, CA Metropolitan Statistical Area",Metropolitan
+06055,34900,"Napa, CA Metropolitan Statistical Area",Metropolitan
+06057,46020,"Truckee-Grass Valley, CA Micropolitan Statistical Area",Micropolitan
+06059,31100,"Santa Ana-Anaheim-Irvine, CA Metropolitan Division",Metropolitan
+06061,40900,"Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",Metropolitan
+06065,40140,"Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",Metropolitan
+06067,40900,"Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",Metropolitan
+06069,41940,"San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",Metropolitan
+06071,40140,"Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",Metropolitan
+06073,41740,"San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area",Metropolitan
+06075,41860,"San Francisco-San Mateo-Redwood City, CA Metropolitan Division",Metropolitan
+06077,44700,"Stockton, CA Metropolitan Statistical Area",Metropolitan
+06079,42020,"San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area",Metropolitan
+06081,41860,"San Francisco-San Mateo-Redwood City, CA Metropolitan Division",Metropolitan
+06083,42060,"Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area",Metropolitan
+06085,41940,"San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",Metropolitan
+06087,42100,"Santa Cruz-Watsonville, CA Metropolitan Statistical Area",Metropolitan
+06089,39820,"Redding, CA Metropolitan Statistical Area",Metropolitan
+06095,46700,"Vallejo-Fairfield, CA Metropolitan Statistical Area",Metropolitan
+06097,42220,"Santa Rosa-Petaluma, CA Metropolitan Statistical Area",Metropolitan
+06099,33700,"Modesto, CA Metropolitan Statistical Area",Metropolitan
+06101,49700,"Yuba City-Marysville, CA Metropolitan Statistical Area",Metropolitan
+06103,39780,"Red Bluff, CA Micropolitan Statistical Area",Micropolitan
+06107,47300,"Visalia-Porterville, CA Metropolitan Statistical Area",Metropolitan
+06109,38020,"Phoenix Lake-Cedar Ridge, CA Micropolitan Statistical Area",Micropolitan
+06111,37100,"Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",Metropolitan
+06113,40900,"Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",Metropolitan
+06115,49700,"Yuba City-Marysville, CA Metropolitan Statistical Area",Metropolitan
+08001,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08005,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08013,14500,"Boulder, CO Metropolitan Statistical Area",Metropolitan
+08014,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08019,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08031,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08035,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08037,20780,"Edwards, CO Micropolitan Statistical Area",Micropolitan
+08039,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08041,17820,"Colorado Springs, CO Metropolitan Statistical Area",Metropolitan
+08043,15860,"Canon City, CO Micropolitan Statistical Area",Micropolitan
+08047,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08059,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08065,20780,"Edwards, CO Micropolitan Statistical Area",Micropolitan
+08067,20420,"Durango, CO Micropolitan Statistical Area",Micropolitan
+08069,22660,"Fort Collins-Loveland, CO Metropolitan Statistical Area",Metropolitan
+08075,44540,"Sterling, CO Micropolitan Statistical Area",Micropolitan
+08077,24300,"Grand Junction, CO Metropolitan Statistical Area",Metropolitan
+08085,33940,"Montrose, CO Micropolitan Statistical Area",Micropolitan
+08087,22820,"Fort Morgan, CO Micropolitan Statistical Area",Micropolitan
+08093,19740,"Denver-Aurora, CO Metropolitan Statistical Area",Metropolitan
+08101,39380,"Pueblo, CO Metropolitan Statistical Area",Metropolitan
+08117,43540,"Silverthorne, CO Micropolitan Statistical Area",Micropolitan
+08119,17820,"Colorado Springs, CO Metropolitan Statistical Area",Metropolitan
+08123,24540,"Greeley, CO Metropolitan Statistical Area",Metropolitan
+09001,14860,"Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area",Metropolitan
+09003,25540,"Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",Metropolitan
+09005,45860,"Torrington, CT Micropolitan Statistical Area",Micropolitan
+09007,25540,"Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",Metropolitan
+09009,35300,"New Haven-Milford, CT Metropolitan Statistical Area",Metropolitan
+09011,35980,"Norwich-New London, CT Metropolitan Statistical Area",Metropolitan
+09013,25540,"Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",Metropolitan
+09015,48740,"Willimantic, CT Micropolitan Statistical Area",Micropolitan
+10001,20100,"Dover, DE Metropolitan Statistical Area",Metropolitan
+10003,37980,"Wilmington, DE-MD-NJ Metropolitan Division",Metropolitan
+10005,42580,"Seaford, DE Micropolitan Statistical Area",Micropolitan
+11001,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+12001,23540,"Gainesville, FL Metropolitan Statistical Area",Metropolitan
+12003,27260,"Jacksonville, FL Metropolitan Statistical Area",Metropolitan
+12005,37460,"Panama City-Lynn Haven, FL Metropolitan Statistical Area",Metropolitan
+12009,37340,"Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",Metropolitan
+12011,33100,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division",Metropolitan
+12015,39460,"Punta Gorda, FL Metropolitan Statistical Area",Metropolitan
+12017,26140,"Homosassa Springs, FL Micropolitan Statistical Area",Micropolitan
+12019,27260,"Jacksonville, FL Metropolitan Statistical Area",Metropolitan
+12021,34940,"Naples-Marco Island, FL Metropolitan Statistical Area",Metropolitan
+12023,29380,"Lake City, FL Micropolitan Statistical Area",Micropolitan
+12027,11580,"Arcadia, FL Micropolitan Statistical Area",Micropolitan
+12031,27260,"Jacksonville, FL Metropolitan Statistical Area",Metropolitan
+12033,37860,"Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",Metropolitan
+12035,37380,"Palm Coast, FL Micropolitan Statistical Area",Micropolitan
+12039,45220,"Tallahassee, FL Metropolitan Statistical Area",Metropolitan
+12041,23540,"Gainesville, FL Metropolitan Statistical Area",Metropolitan
+12049,48100,"Wauchula, FL Micropolitan Statistical Area",Micropolitan
+12051,17500,"Clewiston, FL Micropolitan Statistical Area",Micropolitan
+12053,45300,"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",Metropolitan
+12055,42700,"Sebring, FL Micropolitan Statistical Area",Micropolitan
+12057,45300,"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",Metropolitan
+12061,46940,"Vero Beach, FL Metropolitan Statistical Area",Metropolitan
+12065,45220,"Tallahassee, FL Metropolitan Statistical Area",Metropolitan
+12069,36740,"Orlando, FL Metropolitan Statistical Area",Metropolitan
+12071,15980,"Cape Coral-Fort Myers, FL Metropolitan Statistical Area",Metropolitan
+12073,45220,"Tallahassee, FL Metropolitan Statistical Area",Metropolitan
+12081,42260,"Sarasota-Bradenton-Venice, FL Metropolitan Statistical Area",Metropolitan
+12083,36100,"Ocala, FL Metropolitan Statistical Area",Metropolitan
+12085,38940,"Port St. Lucie-Fort Pierce, FL Metropolitan Statistical Area",Metropolitan
+12086,33100,"Miami-Miami Beach-Kendall, FL Metropolitan Division",Metropolitan
+12087,28580,"Key West-Marathon, FL Micropolitan Statistical Area",Micropolitan
+12089,27260,"Jacksonville, FL Metropolitan Statistical Area",Metropolitan
+12091,23020,"Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area",Metropolitan
+12093,36380,"Okeechobee, FL Micropolitan Statistical Area",Micropolitan
+12095,36740,"Orlando, FL Metropolitan Statistical Area",Metropolitan
+12097,36740,"Orlando, FL Metropolitan Statistical Area",Metropolitan
+12099,33100,"West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division",Metropolitan
+12101,45300,"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",Metropolitan
+12103,45300,"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",Metropolitan
+12105,29460,"Lakeland-Winter Haven, FL Metropolitan Statistical Area",Metropolitan
+12107,37260,"Palatka, FL Micropolitan Statistical Area",Micropolitan
+12109,27260,"Jacksonville, FL Metropolitan Statistical Area",Metropolitan
+12111,38940,"Port St. Lucie-Fort Pierce, FL Metropolitan Statistical Area",Metropolitan
+12113,37860,"Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",Metropolitan
+12115,42260,"Sarasota-Bradenton-Venice, FL Metropolitan Statistical Area",Metropolitan
+12117,36740,"Orlando, FL Metropolitan Statistical Area",Metropolitan
+12119,45540,"The Villages, FL Micropolitan Statistical Area",Micropolitan
+12127,19660,"Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",Metropolitan
+12129,45220,"Tallahassee, FL Metropolitan Statistical Area",Metropolitan
+13003,20060,"Douglas, GA Micropolitan Statistical Area",Micropolitan
+13007,10500,"Albany, GA Metropolitan Statistical Area",Metropolitan
+13009,33300,"Milledgeville, GA Micropolitan Statistical Area",Micropolitan
+13013,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13015,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13017,22340,"Fitzgerald, GA Micropolitan Statistical Area",Micropolitan
+13021,31420,"Macon, GA Metropolitan Statistical Area",Metropolitan
+13025,15260,"Brunswick, GA Metropolitan Statistical Area",Metropolitan
+13027,46660,"Valdosta, GA Metropolitan Statistical Area",Metropolitan
+13029,42340,"Savannah, GA Metropolitan Statistical Area",Metropolitan
+13031,44340,"Statesboro, GA Micropolitan Statistical Area",Micropolitan
+13033,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+13035,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13039,41220,"St. Marys, GA Micropolitan Statistical Area",Micropolitan
+13045,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13047,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+13051,42340,"Savannah, GA Metropolitan Statistical Area",Metropolitan
+13053,17980,"Columbus, GA-AL Metropolitan Statistical Area",Metropolitan
+13055,44900,"Summerville, GA Micropolitan Statistical Area",Micropolitan
+13057,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13059,12020,"Athens-Clarke County, GA Metropolitan Statistical Area",Metropolitan
+13063,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13067,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13069,20060,"Douglas, GA Micropolitan Statistical Area",Micropolitan
+13071,34220,"Moultrie, GA Micropolitan Statistical Area",Micropolitan
+13073,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+13077,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13079,31420,"Macon, GA Metropolitan Statistical Area",Metropolitan
+13081,18380,"Cordele, GA Micropolitan Statistical Area",Micropolitan
+13083,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+13085,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13087,12460,"Bainbridge, GA Micropolitan Statistical Area",Micropolitan
+13089,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13095,10500,"Albany, GA Metropolitan Statistical Area",Metropolitan
+13097,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13101,46660,"Valdosta, GA Metropolitan Statistical Area",Metropolitan
+13103,42340,"Savannah, GA Metropolitan Statistical Area",Metropolitan
+13113,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13115,40660,"Rome, GA Metropolitan Statistical Area",Metropolitan
+13117,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13121,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13127,15260,"Brunswick, GA Metropolitan Statistical Area",Metropolitan
+13129,15660,"Calhoun, GA Micropolitan Statistical Area",Micropolitan
+13135,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13137,18460,"Cornelia, GA Micropolitan Statistical Area",Micropolitan
+13139,23580,"Gainesville, GA Metropolitan Statistical Area",Metropolitan
+13141,33300,"Milledgeville, GA Micropolitan Statistical Area",Micropolitan
+13143,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13145,17980,"Columbus, GA-AL Metropolitan Statistical Area",Metropolitan
+13149,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13151,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13153,47580,"Warner Robins, GA Metropolitan Statistical Area",Metropolitan
+13155,22340,"Fitzgerald, GA Micropolitan Statistical Area",Micropolitan
+13159,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13167,20140,"Dublin, GA Micropolitan Statistical Area",Micropolitan
+13169,31420,"Macon, GA Metropolitan Statistical Area",Metropolitan
+13171,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13173,46660,"Valdosta, GA Metropolitan Statistical Area",Metropolitan
+13175,20140,"Dublin, GA Micropolitan Statistical Area",Micropolitan
+13177,10500,"Albany, GA Metropolitan Statistical Area",Metropolitan
+13179,25980,"Hinesville-Fort Stewart, GA Metropolitan Statistical Area",Metropolitan
+13183,25980,"Hinesville-Fort Stewart, GA Metropolitan Statistical Area",Metropolitan
+13185,46660,"Valdosta, GA Metropolitan Statistical Area",Metropolitan
+13189,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+13191,15260,"Brunswick, GA Metropolitan Statistical Area",Metropolitan
+13195,12020,"Athens-Clarke County, GA Metropolitan Statistical Area",Metropolitan
+13197,17980,"Columbus, GA-AL Metropolitan Statistical Area",Metropolitan
+13199,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13207,31420,"Macon, GA Metropolitan Statistical Area",Metropolitan
+13213,19140,"Dalton, GA Metropolitan Statistical Area",Metropolitan
+13215,17980,"Columbus, GA-AL Metropolitan Statistical Area",Metropolitan
+13217,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13219,12020,"Athens-Clarke County, GA Metropolitan Statistical Area",Metropolitan
+13221,12020,"Athens-Clarke County, GA Metropolitan Statistical Area",Metropolitan
+13223,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13225,22980,"Fort Valley, GA Micropolitan Statistical Area",Micropolitan
+13227,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13229,48180,"Waycross, GA Micropolitan Statistical Area",Micropolitan
+13231,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13233,16340,"Cedartown, GA Micropolitan Statistical Area",Micropolitan
+13245,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+13247,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13249,11140,"Americus, GA Micropolitan Statistical Area",Micropolitan
+13255,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13257,45740,"Toccoa, GA Micropolitan Statistical Area",Micropolitan
+13261,11140,"Americus, GA Micropolitan Statistical Area",Micropolitan
+13273,10500,"Albany, GA Metropolitan Statistical Area",Metropolitan
+13275,45620,"Thomasville, GA Micropolitan Statistical Area",Micropolitan
+13277,45700,"Tifton, GA Micropolitan Statistical Area",Micropolitan
+13285,29300,"LaGrange, GA Micropolitan Statistical Area",Micropolitan
+13289,31420,"Macon, GA Metropolitan Statistical Area",Metropolitan
+13293,45580,"Thomaston, GA Micropolitan Statistical Area",Micropolitan
+13295,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+13297,12060,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",Metropolitan
+13299,48180,"Waycross, GA Micropolitan Statistical Area",Micropolitan
+13305,27700,"Jesup, GA Micropolitan Statistical Area",Micropolitan
+13313,19140,"Dalton, GA Metropolitan Statistical Area",Metropolitan
+13321,10500,"Albany, GA Metropolitan Statistical Area",Metropolitan
+15001,25900,"Hilo, HI Micropolitan Statistical Area",Micropolitan
+15003,26180,"Honolulu, HI Metropolitan Statistical Area",Metropolitan
+15007,28180,"Kapaa, HI Micropolitan Statistical Area",Micropolitan
+15009,27980,"Kahului-Wailuku, HI Micropolitan Statistical Area",Micropolitan
+16001,14260,"Boise City-Nampa, ID Metropolitan Statistical Area",Metropolitan
+16005,38540,"Pocatello, ID Metropolitan Statistical Area",Metropolitan
+16011,13940,"Blackfoot, ID Micropolitan Statistical Area",Micropolitan
+16015,14260,"Boise City-Nampa, ID Metropolitan Statistical Area",Metropolitan
+16019,26820,"Idaho Falls, ID Metropolitan Statistical Area",Metropolitan
+16027,14260,"Boise City-Nampa, ID Metropolitan Statistical Area",Metropolitan
+16031,15420,"Burley, ID Micropolitan Statistical Area",Micropolitan
+16039,34300,"Mountain Home, ID Micropolitan Statistical Area",Micropolitan
+16041,30860,"Logan, UT-ID Metropolitan Statistical Area",Metropolitan
+16043,39940,"Rexburg, ID Micropolitan Statistical Area",Micropolitan
+16045,14260,"Boise City-Nampa, ID Metropolitan Statistical Area",Metropolitan
+16051,26820,"Idaho Falls, ID Metropolitan Statistical Area",Metropolitan
+16053,46300,"Twin Falls, ID Micropolitan Statistical Area",Micropolitan
+16055,17660,"Coeur d'Alene, ID Metropolitan Statistical Area",Metropolitan
+16057,34140,"Moscow, ID Micropolitan Statistical Area",Micropolitan
+16065,39940,"Rexburg, ID Micropolitan Statistical Area",Micropolitan
+16067,15420,"Burley, ID Micropolitan Statistical Area",Micropolitan
+16069,30300,"Lewiston, ID-WA Metropolitan Statistical Area",Metropolitan
+16073,14260,"Boise City-Nampa, ID Metropolitan Statistical Area",Metropolitan
+16075,36620,"Ontario, OR-ID Micropolitan Statistical Area",Micropolitan
+16077,38540,"Pocatello, ID Metropolitan Statistical Area",Metropolitan
+16081,27220,"Jackson, WY-ID Micropolitan Statistical Area",Micropolitan
+16083,46300,"Twin Falls, ID Micropolitan Statistical Area",Micropolitan
+17001,39500,"Quincy, IL-MO Micropolitan Statistical Area",Micropolitan
+17003,16020,"Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area",Micropolitan
+17005,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17007,40420,"Rockford, IL Metropolitan Statistical Area",Metropolitan
+17011,36860,"Ottawa-Streator, IL Micropolitan Statistical Area",Micropolitan
+17013,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17019,16580,"Champaign-Urbana, IL Metropolitan Statistical Area",Metropolitan
+17021,45380,"Taylorville, IL Micropolitan Statistical Area",Micropolitan
+17027,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17029,16660,"Charleston-Mattoon, IL Micropolitan Statistical Area",Micropolitan
+17031,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17035,16660,"Charleston-Mattoon, IL Micropolitan Statistical Area",Micropolitan
+17037,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17043,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17049,20820,"Effingham, IL Micropolitan Statistical Area",Micropolitan
+17053,16580,"Champaign-Urbana, IL Metropolitan Statistical Area",Metropolitan
+17057,15900,"Canton, IL Micropolitan Statistical Area",Micropolitan
+17063,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17065,34500,"Mount Vernon, IL Micropolitan Statistical Area",Micropolitan
+17071,15460,"Burlington, IA-IL Micropolitan Statistical Area",Micropolitan
+17073,19340,"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",Metropolitan
+17077,16060,"Carbondale, IL Micropolitan Statistical Area",Micropolitan
+17081,34500,"Mount Vernon, IL Micropolitan Statistical Area",Micropolitan
+17083,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17089,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17091,28100,"Kankakee-Bradley, IL Metropolitan Statistical Area",Metropolitan
+17093,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17095,23660,"Galesburg, IL Micropolitan Statistical Area",Micropolitan
+17097,16980,"Lake County-Kenosha County, IL-WI Metropolitan Division",Metropolitan
+17099,36860,"Ottawa-Streator, IL Micropolitan Statistical Area",Micropolitan
+17103,19940,"Dixon, IL Micropolitan Statistical Area",Micropolitan
+17105,38700,"Pontiac, IL Micropolitan Statistical Area",Micropolitan
+17107,30660,"Lincoln, IL Micropolitan Statistical Area",Micropolitan
+17109,31380,"Macomb, IL Micropolitan Statistical Area",Micropolitan
+17111,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17113,14060,"Bloomington-Normal, IL Metropolitan Statistical Area",Metropolitan
+17115,19500,"Decatur, IL Metropolitan Statistical Area",Metropolitan
+17117,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17119,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17121,16460,"Centralia, IL Micropolitan Statistical Area",Micropolitan
+17123,37900,"Peoria, IL Metropolitan Statistical Area",Metropolitan
+17127,37140,"Paducah, KY-IL Micropolitan Statistical Area",Micropolitan
+17129,44100,"Springfield, IL Metropolitan Statistical Area",Metropolitan
+17131,19340,"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",Metropolitan
+17133,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17137,27300,"Jacksonville, IL Micropolitan Statistical Area",Micropolitan
+17141,40300,"Rochelle, IL Micropolitan Statistical Area",Micropolitan
+17143,37900,"Peoria, IL Metropolitan Statistical Area",Metropolitan
+17147,16580,"Champaign-Urbana, IL Metropolitan Statistical Area",Metropolitan
+17155,36860,"Ottawa-Streator, IL Micropolitan Statistical Area",Micropolitan
+17161,19340,"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",Metropolitan
+17163,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+17165,25380,"Harrisburg, IL Micropolitan Statistical Area",Micropolitan
+17167,44100,"Springfield, IL Metropolitan Statistical Area",Metropolitan
+17171,27300,"Jacksonville, IL Micropolitan Statistical Area",Micropolitan
+17175,37900,"Peoria, IL Metropolitan Statistical Area",Metropolitan
+17177,23300,"Freeport, IL Micropolitan Statistical Area",Micropolitan
+17179,37900,"Peoria, IL Metropolitan Statistical Area",Metropolitan
+17183,19180,"Danville, IL Metropolitan Statistical Area",Metropolitan
+17187,23660,"Galesburg, IL Micropolitan Statistical Area",Micropolitan
+17195,44580,"Sterling, IL Micropolitan Statistical Area",Micropolitan
+17197,16980,"Chicago-Naperville-Joliet, IL Metropolitan Division",Metropolitan
+17199,32060,"Marion-Herrin, IL Micropolitan Statistical Area",Micropolitan
+17201,40420,"Rockford, IL Metropolitan Statistical Area",Metropolitan
+17203,37900,"Peoria, IL Metropolitan Statistical Area",Metropolitan
+18001,19540,"Decatur, IN Micropolitan Statistical Area",Micropolitan
+18003,23060,"Fort Wayne, IN Metropolitan Statistical Area",Metropolitan
+18005,18020,"Columbus, IN Metropolitan Statistical Area",Metropolitan
+18007,29140,"Lafayette, IN Metropolitan Statistical Area",Metropolitan
+18011,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18013,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18015,29140,"Lafayette, IN Metropolitan Statistical Area",Metropolitan
+18017,30900,"Logansport, IN Micropolitan Statistical Area",Micropolitan
+18019,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+18021,45460,"Terre Haute, IN Metropolitan Statistical Area",Metropolitan
+18023,23140,"Frankfort, IN Micropolitan Statistical Area",Micropolitan
+18027,47780,"Washington, IN Micropolitan Statistical Area",Micropolitan
+18029,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+18031,24700,"Greensburg, IN Micropolitan Statistical Area",Micropolitan
+18033,12140,"Auburn, IN Micropolitan Statistical Area",Micropolitan
+18035,34620,"Muncie, IN Metropolitan Statistical Area",Metropolitan
+18037,27540,"Jasper, IN Micropolitan Statistical Area",Micropolitan
+18039,21140,"Elkhart-Goshen, IN Metropolitan Statistical Area",Metropolitan
+18041,18220,"Connersville, IN Micropolitan Statistical Area",Micropolitan
+18043,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+18047,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+18051,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+18053,31980,"Marion, IN Micropolitan Statistical Area",Micropolitan
+18055,14020,"Bloomington, IN Metropolitan Statistical Area",Metropolitan
+18057,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18059,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18061,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+18063,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18065,35220,"New Castle, IN Micropolitan Statistical Area",Micropolitan
+18067,29020,"Kokomo, IN Metropolitan Statistical Area",Metropolitan
+18069,26540,"Huntington, IN Micropolitan Statistical Area",Micropolitan
+18071,42980,"Seymour, IN Micropolitan Statistical Area",Micropolitan
+18073,16980,"Gary, IN Metropolitan Division",Metropolitan
+18077,31500,"Madison, IN Micropolitan Statistical Area",Micropolitan
+18079,35860,"North Vernon, IN Micropolitan Statistical Area",Micropolitan
+18081,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18083,47180,"Vincennes, IN Micropolitan Statistical Area",Micropolitan
+18085,47700,"Warsaw, IN Micropolitan Statistical Area",Micropolitan
+18089,16980,"Gary, IN Metropolitan Division",Metropolitan
+18091,33140,"Michigan City-La Porte, IN Metropolitan Statistical Area",Metropolitan
+18093,13260,"Bedford, IN Micropolitan Statistical Area",Micropolitan
+18095,11300,"Anderson, IN Metropolitan Statistical Area",Metropolitan
+18097,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18099,38500,"Plymouth, IN Micropolitan Statistical Area",Micropolitan
+18103,37940,"Peru, IN Micropolitan Statistical Area",Micropolitan
+18105,14020,"Bloomington, IN Metropolitan Statistical Area",Metropolitan
+18107,18820,"Crawfordsville, IN Micropolitan Statistical Area",Micropolitan
+18109,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18111,16980,"Gary, IN Metropolitan Division",Metropolitan
+18113,28340,"Kendallville, IN Micropolitan Statistical Area",Micropolitan
+18115,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+18119,14020,"Bloomington, IN Metropolitan Statistical Area",Metropolitan
+18125,27540,"Jasper, IN Micropolitan Statistical Area",Micropolitan
+18127,16980,"Gary, IN Metropolitan Division",Metropolitan
+18129,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+18133,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18141,43780,"South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",Metropolitan
+18143,42500,"Scottsburg, IN Micropolitan Statistical Area",Micropolitan
+18145,26900,"Indianapolis, IN Metropolitan Statistical Area",Metropolitan
+18151,11420,"Angola, IN Micropolitan Statistical Area",Micropolitan
+18153,45460,"Terre Haute, IN Metropolitan Statistical Area",Metropolitan
+18157,29140,"Lafayette, IN Metropolitan Statistical Area",Metropolitan
+18159,29020,"Kokomo, IN Metropolitan Statistical Area",Metropolitan
+18163,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+18165,45460,"Terre Haute, IN Metropolitan Statistical Area",Metropolitan
+18167,45460,"Terre Haute, IN Metropolitan Statistical Area",Metropolitan
+18169,47340,"Wabash, IN Micropolitan Statistical Area",Micropolitan
+18173,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+18175,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+18177,39980,"Richmond, IN Micropolitan Statistical Area",Micropolitan
+18179,23060,"Fort Wayne, IN Metropolitan Statistical Area",Metropolitan
+18183,23060,"Fort Wayne, IN Metropolitan Statistical Area",Metropolitan
+19011,16300,"Cedar Rapids, IA Metropolitan Statistical Area",Metropolitan
+19013,47940,"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",Metropolitan
+19015,14340,"Boone, IA Micropolitan Statistical Area",Micropolitan
+19017,47940,"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",Metropolitan
+19021,44740,"Storm Lake, IA Micropolitan Statistical Area",Micropolitan
+19033,32380,"Mason City, IA Micropolitan Statistical Area",Micropolitan
+19041,43980,"Spencer, IA Micropolitan Statistical Area",Micropolitan
+19045,17540,"Clinton, IA Micropolitan Statistical Area",Micropolitan
+19049,19780,"Des Moines, IA Metropolitan Statistical Area",Metropolitan
+19057,15460,"Burlington, IA-IL Micropolitan Statistical Area",Micropolitan
+19059,44020,"Spirit Lake, IA Micropolitan Statistical Area",Micropolitan
+19061,20220,"Dubuque, IA Metropolitan Statistical Area",Metropolitan
+19075,47940,"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",Metropolitan
+19077,19780,"Des Moines, IA Metropolitan Statistical Area",Metropolitan
+19085,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+19099,35500,"Newton, IA Micropolitan Statistical Area",Micropolitan
+19103,26980,"Iowa City, IA Metropolitan Statistical Area",Metropolitan
+19105,16300,"Cedar Rapids, IA Metropolitan Statistical Area",Metropolitan
+19111,28460,"Keokuk-Fort Madison, IA-MO Micropolitan Statistical Area",Micropolitan
+19113,16300,"Cedar Rapids, IA Metropolitan Statistical Area",Metropolitan
+19115,34700,"Muscatine, IA Micropolitan Statistical Area",Micropolitan
+19121,19780,"Des Moines, IA Metropolitan Statistical Area",Metropolitan
+19123,36820,"Oskaloosa, IA Micropolitan Statistical Area",Micropolitan
+19127,32260,"Marshalltown, IA Micropolitan Statistical Area",Micropolitan
+19129,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+19139,34700,"Muscatine, IA Micropolitan Statistical Area",Micropolitan
+19153,19780,"Des Moines, IA Metropolitan Statistical Area",Metropolitan
+19155,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+19163,19340,"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",Metropolitan
+19169,11180,"Ames, IA Metropolitan Statistical Area",Metropolitan
+19179,36900,"Ottumwa, IA Micropolitan Statistical Area",Micropolitan
+19181,19780,"Des Moines, IA Metropolitan Statistical Area",Metropolitan
+19183,26980,"Iowa City, IA Metropolitan Statistical Area",Metropolitan
+19187,22700,"Fort Dodge, IA Micropolitan Statistical Area",Micropolitan
+19193,43580,"Sioux City, IA-NE-SD Metropolitan Statistical Area",Metropolitan
+19195,32380,"Mason City, IA Micropolitan Statistical Area",Micropolitan
+20005,11860,"Atchison, KS Micropolitan Statistical Area",Micropolitan
+20009,24460,"Great Bend, KS Micropolitan Statistical Area",Micropolitan
+20015,48620,"Wichita, KS Metropolitan Statistical Area",Metropolitan
+20017,21380,"Emporia, KS Micropolitan Statistical Area",Micropolitan
+20035,49060,"Winfield, KS Micropolitan Statistical Area",Micropolitan
+20037,38260,"Pittsburg, KS Micropolitan Statistical Area",Micropolitan
+20043,41140,"St. Joseph, MO-KS Metropolitan Statistical Area",Metropolitan
+20045,29940,"Lawrence, KS Metropolitan Statistical Area",Metropolitan
+20051,25700,"Hays, KS Micropolitan Statistical Area",Micropolitan
+20055,23780,"Garden City, KS Micropolitan Statistical Area",Micropolitan
+20057,19980,"Dodge City, KS Micropolitan Statistical Area",Micropolitan
+20059,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+20061,31740,"Manhattan, KS Micropolitan Statistical Area",Micropolitan
+20079,48620,"Wichita, KS Metropolitan Statistical Area",Metropolitan
+20085,45820,"Topeka, KS Metropolitan Statistical Area",Metropolitan
+20087,45820,"Topeka, KS Metropolitan Statistical Area",Metropolitan
+20091,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+20099,37660,"Parsons, KS Micropolitan Statistical Area",Micropolitan
+20103,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+20107,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+20111,21380,"Emporia, KS Micropolitan Statistical Area",Micropolitan
+20113,32700,"McPherson, KS Micropolitan Statistical Area",Micropolitan
+20121,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+20125,17700,"Coffeyville, KS Micropolitan Statistical Area",Micropolitan
+20139,45820,"Topeka, KS Metropolitan Statistical Area",Metropolitan
+20143,41460,"Salina, KS Micropolitan Statistical Area",Micropolitan
+20149,31740,"Manhattan, KS Micropolitan Statistical Area",Micropolitan
+20155,26740,"Hutchinson, KS Micropolitan Statistical Area",Micropolitan
+20161,31740,"Manhattan, KS Micropolitan Statistical Area",Micropolitan
+20169,41460,"Salina, KS Micropolitan Statistical Area",Micropolitan
+20173,48620,"Wichita, KS Metropolitan Statistical Area",Metropolitan
+20175,30580,"Liberal, KS Micropolitan Statistical Area",Micropolitan
+20177,45820,"Topeka, KS Metropolitan Statistical Area",Metropolitan
+20191,48620,"Wichita, KS Metropolitan Statistical Area",Metropolitan
+20197,45820,"Topeka, KS Metropolitan Statistical Area",Metropolitan
+20209,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+21005,23180,"Frankfort, KY Micropolitan Statistical Area",Micropolitan
+21007,37140,"Paducah, KY-IL Micropolitan Statistical Area",Micropolitan
+21009,23980,"Glasgow, KY Micropolitan Statistical Area",Micropolitan
+21011,34460,"Mount Sterling, KY Micropolitan Statistical Area",Micropolitan
+21013,33180,"Middlesborough, KY Micropolitan Statistical Area",Micropolitan
+21015,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21017,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+21019,26580,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",Metropolitan
+21021,19220,"Danville, KY Micropolitan Statistical Area",Micropolitan
+21023,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21029,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21035,34660,"Murray, KY Micropolitan Statistical Area",Micropolitan
+21037,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21047,17300,"Clarksville, TN-KY Metropolitan Statistical Area",Metropolitan
+21049,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+21059,36980,"Owensboro, KY Metropolitan Statistical Area",Metropolitan
+21061,14540,"Bowling Green, KY Metropolitan Statistical Area",Metropolitan
+21067,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+21073,23180,"Frankfort, KY Micropolitan Statistical Area",Micropolitan
+21075,46460,"Union City, TN-KY Micropolitan Statistical Area",Micropolitan
+21077,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21081,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21083,32460,"Mayfield, KY Micropolitan Statistical Area",Micropolitan
+21089,26580,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",Metropolitan
+21091,36980,"Owensboro, KY Metropolitan Statistical Area",Metropolitan
+21093,21060,"Elizabethtown, KY Metropolitan Statistical Area",Metropolitan
+21101,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+21103,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21107,31580,"Madisonville, KY Micropolitan Statistical Area",Micropolitan
+21111,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21113,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+21117,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21123,21060,"Elizabethtown, KY Metropolitan Statistical Area",Metropolitan
+21125,30940,"London, KY Micropolitan Statistical Area",Micropolitan
+21135,32500,"Maysville, KY Micropolitan Statistical Area",Micropolitan
+21137,19220,"Danville, KY Micropolitan Statistical Area",Micropolitan
+21139,37140,"Paducah, KY-IL Micropolitan Statistical Area",Micropolitan
+21145,37140,"Paducah, KY-IL Micropolitan Statistical Area",Micropolitan
+21149,36980,"Owensboro, KY Metropolitan Statistical Area",Metropolitan
+21151,40020,"Richmond, KY Micropolitan Statistical Area",Micropolitan
+21161,32500,"Maysville, KY Micropolitan Statistical Area",Micropolitan
+21163,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21165,34460,"Mount Sterling, KY Micropolitan Statistical Area",Micropolitan
+21169,23980,"Glasgow, KY Micropolitan Statistical Area",Micropolitan
+21173,34460,"Mount Sterling, KY Micropolitan Statistical Area",Micropolitan
+21177,16420,"Central City, KY Micropolitan Statistical Area",Micropolitan
+21179,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21185,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21191,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+21199,43700,"Somerset, KY Micropolitan Statistical Area",Micropolitan
+21203,40020,"Richmond, KY Micropolitan Statistical Area",Micropolitan
+21209,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+21211,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21215,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21217,15820,"Campbellsville, KY Micropolitan Statistical Area",Micropolitan
+21221,17300,"Clarksville, TN-KY Metropolitan Statistical Area",Metropolitan
+21223,31140,"Louisville, KY-IN Metropolitan Statistical Area",Metropolitan
+21227,14540,"Bowling Green, KY Metropolitan Statistical Area",Metropolitan
+21233,21780,"Evansville, IN-KY Metropolitan Statistical Area",Metropolitan
+21235,18340,"Corbin, KY Micropolitan Statistical Area",Micropolitan
+21239,30460,"Lexington-Fayette, KY Metropolitan Statistical Area",Metropolitan
+22001,18940,"Crowley, LA Micropolitan Statistical Area",Micropolitan
+22005,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22007,38200,"Pierre Part, LA Micropolitan Statistical Area",Micropolitan
+22011,19760,"De Ridder, LA Micropolitan Statistical Area",Micropolitan
+22015,43340,"Shreveport-Bossier City, LA Metropolitan Statistical Area",Metropolitan
+22017,43340,"Shreveport-Bossier City, LA Metropolitan Statistical Area",Metropolitan
+22019,29340,"Lake Charles, LA Metropolitan Statistical Area",Metropolitan
+22023,29340,"Lake Charles, LA Metropolitan Statistical Area",Metropolitan
+22029,35020,"Natchez, MS-LA Micropolitan Statistical Area",Micropolitan
+22031,43340,"Shreveport-Bossier City, LA Metropolitan Statistical Area",Metropolitan
+22033,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22037,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22043,10780,"Alexandria, LA Metropolitan Statistical Area",Metropolitan
+22045,35340,"New Iberia, LA Micropolitan Statistical Area",Micropolitan
+22047,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22049,40820,"Ruston, LA Micropolitan Statistical Area",Micropolitan
+22051,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22053,27660,"Jennings, LA Micropolitan Statistical Area",Micropolitan
+22055,29180,"Lafayette, LA Metropolitan Statistical Area",Metropolitan
+22057,26380,"Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area",Metropolitan
+22061,40820,"Ruston, LA Micropolitan Statistical Area",Micropolitan
+22063,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22065,45260,"Tallulah, LA Micropolitan Statistical Area",Micropolitan
+22067,12820,"Bastrop, LA Micropolitan Statistical Area",Micropolitan
+22069,35060,"Natchitoches, LA Micropolitan Statistical Area",Micropolitan
+22071,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22073,33740,"Monroe, LA Metropolitan Statistical Area",Metropolitan
+22075,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22077,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22079,10780,"Alexandria, LA Metropolitan Statistical Area",Metropolitan
+22087,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22089,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22091,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22095,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22097,36660,"Opelousas-Eunice, LA Micropolitan Statistical Area",Micropolitan
+22099,29180,"Lafayette, LA Metropolitan Statistical Area",Metropolitan
+22101,34020,"Morgan City, LA Micropolitan Statistical Area",Micropolitan
+22103,35380,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",Metropolitan
+22105,25220,"Hammond, LA Micropolitan Statistical Area",Micropolitan
+22109,26380,"Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area",Metropolitan
+22111,33740,"Monroe, LA Metropolitan Statistical Area",Metropolitan
+22113,10020,"Abbeville, LA Micropolitan Statistical Area",Micropolitan
+22115,22860,"Fort Polk South, LA Micropolitan Statistical Area",Micropolitan
+22117,14220,"Bogalusa, LA Micropolitan Statistical Area",Micropolitan
+22119,33380,"Minden, LA Micropolitan Statistical Area",Micropolitan
+22121,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+22125,12940,"Baton Rouge, LA Metropolitan Statistical Area",Metropolitan
+23001,30340,"Lewiston-Auburn, ME Metropolitan Statistical Area",Metropolitan
+23005,38860,"Portland-South Portland, ME Metropolitan Statistical Area",Metropolitan
+23011,12300,"Augusta-Waterville, ME Micropolitan Statistical Area",Micropolitan
+23013,40500,"Rockland, ME Micropolitan Statistical Area",Micropolitan
+23019,12620,"Bangor, ME Metropolitan Statistical Area",Metropolitan
+23023,38860,"Portland-South Portland, ME Metropolitan Statistical Area",Metropolitan
+23031,38860,"Portland-South Portland, ME Metropolitan Statistical Area",Metropolitan
+24001,19060,"Cumberland, MD-WV Metropolitan Statistical Area",Metropolitan
+24003,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24005,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24009,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+24013,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24015,37980,"Wilmington, DE-MD-NJ Metropolitan Division",Metropolitan
+24017,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+24019,15700,"Cambridge, MD Micropolitan Statistical Area",Micropolitan
+24021,47900,"Bethesda-Frederick-Gaithersburg, MD Metropolitan Division",Metropolitan
+24025,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24027,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24031,47900,"Bethesda-Frederick-Gaithersburg, MD Metropolitan Division",Metropolitan
+24033,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+24035,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+24037,30500,"Lexington Park, MD Micropolitan Statistical Area",Micropolitan
+24039,41540,"Salisbury, MD Metropolitan Statistical Area",Metropolitan
+24041,20660,"Easton, MD Micropolitan Statistical Area",Micropolitan
+24043,25180,"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",Metropolitan
+24045,41540,"Salisbury, MD Metropolitan Statistical Area",Metropolitan
+24047,36180,"Ocean Pines, MD Micropolitan Statistical Area",Micropolitan
+24510,12580,"Baltimore-Towson, MD Metropolitan Statistical Area",Metropolitan
+25001,12700,"Barnstable Town, MA Metropolitan Statistical Area",Metropolitan
+25003,38340,"Pittsfield, MA Metropolitan Statistical Area",Metropolitan
+25005,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+25009,14460,"Essex County, MA Metropolitan Division",Metropolitan
+25011,44140,"Springfield, MA Metropolitan Statistical Area",Metropolitan
+25013,44140,"Springfield, MA Metropolitan Statistical Area",Metropolitan
+25015,44140,"Springfield, MA Metropolitan Statistical Area",Metropolitan
+25017,14460,"Cambridge-Newton-Framingham, MA Metropolitan Division",Metropolitan
+25021,14460,"Boston-Quincy, MA Metropolitan Division",Metropolitan
+25023,14460,"Boston-Quincy, MA Metropolitan Division",Metropolitan
+25025,14460,"Boston-Quincy, MA Metropolitan Division",Metropolitan
+25027,49340,"Worcester, MA Metropolitan Statistical Area",Metropolitan
+26005,10880,"Allegan, MI Micropolitan Statistical Area",Micropolitan
+26007,10980,"Alpena, MI Micropolitan Statistical Area",Micropolitan
+26015,24340,"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",Metropolitan
+26017,13020,"Bay City, MI Metropolitan Statistical Area",Metropolitan
+26019,45900,"Traverse City, MI Micropolitan Statistical Area",Micropolitan
+26021,35660,"Niles-Benton Harbor, MI Metropolitan Statistical Area",Metropolitan
+26023,17740,"Coldwater, MI Micropolitan Statistical Area",Micropolitan
+26025,12980,"Battle Creek, MI Metropolitan Statistical Area",Metropolitan
+26027,43780,"South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",Metropolitan
+26033,42300,"Sault Ste. Marie, MI Micropolitan Statistical Area",Micropolitan
+26037,29620,"Lansing-East Lansing, MI Metropolitan Statistical Area",Metropolitan
+26041,21540,"Escanaba, MI Micropolitan Statistical Area",Micropolitan
+26043,27020,"Iron Mountain, MI-WI Micropolitan Statistical Area",Micropolitan
+26045,29620,"Lansing-East Lansing, MI Metropolitan Statistical Area",Metropolitan
+26049,22420,"Flint, MI Metropolitan Statistical Area",Metropolitan
+26055,45900,"Traverse City, MI Micropolitan Statistical Area",Micropolitan
+26057,10940,"Alma, MI Micropolitan Statistical Area",Micropolitan
+26061,26340,"Houghton, MI Micropolitan Statistical Area",Micropolitan
+26065,29620,"Lansing-East Lansing, MI Metropolitan Statistical Area",Metropolitan
+26067,24340,"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",Metropolitan
+26073,34380,"Mount Pleasant, MI Micropolitan Statistical Area",Micropolitan
+26075,27100,"Jackson, MI Metropolitan Statistical Area",Metropolitan
+26077,28020,"Kalamazoo-Portage, MI Metropolitan Statistical Area",Metropolitan
+26079,45900,"Traverse City, MI Micropolitan Statistical Area",Micropolitan
+26081,24340,"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",Metropolitan
+26083,26340,"Houghton, MI Micropolitan Statistical Area",Micropolitan
+26087,19820,"Warren-Farmington Hills-Troy, MI Metropolitan Division",Metropolitan
+26089,45900,"Traverse City, MI Micropolitan Statistical Area",Micropolitan
+26091,10300,"Adrian, MI Micropolitan Statistical Area",Micropolitan
+26093,19820,"Warren-Farmington Hills-Troy, MI Metropolitan Division",Metropolitan
+26099,19820,"Warren-Farmington Hills-Troy, MI Metropolitan Division",Metropolitan
+26103,32100,"Marquette, MI Micropolitan Statistical Area",Micropolitan
+26107,13660,"Big Rapids, MI Micropolitan Statistical Area",Micropolitan
+26109,31940,"Marinette, WI-MI Micropolitan Statistical Area",Micropolitan
+26111,33220,"Midland, MI Micropolitan Statistical Area",Micropolitan
+26113,15620,"Cadillac, MI Micropolitan Statistical Area",Micropolitan
+26115,33780,"Monroe, MI Metropolitan Statistical Area",Metropolitan
+26121,34740,"Muskegon-Norton Shores, MI Metropolitan Statistical Area",Metropolitan
+26123,24340,"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",Metropolitan
+26125,19820,"Warren-Farmington Hills-Troy, MI Metropolitan Division",Metropolitan
+26139,26100,"Holland-Grand Haven, MI Metropolitan Statistical Area",Metropolitan
+26145,40980,"Saginaw-Saginaw Township North, MI Metropolitan Statistical Area",Metropolitan
+26147,19820,"Warren-Farmington Hills-Troy, MI Metropolitan Division",Metropolitan
+26149,44780,"Sturgis, MI Micropolitan Statistical Area",Micropolitan
+26155,37020,"Owosso, MI Micropolitan Statistical Area",Micropolitan
+26159,28020,"Kalamazoo-Portage, MI Metropolitan Statistical Area",Metropolitan
+26161,11460,"Ann Arbor, MI Metropolitan Statistical Area",Metropolitan
+26163,19820,"Detroit-Livonia-Dearborn, MI Metropolitan Division",Metropolitan
+26165,15620,"Cadillac, MI Micropolitan Statistical Area",Micropolitan
+27003,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27007,13420,"Bemidji, MN Micropolitan Statistical Area",Micropolitan
+27009,41060,"St. Cloud, MN Metropolitan Statistical Area",Metropolitan
+27013,31860,"Mankato-North Mankato, MN Micropolitan Statistical Area",Micropolitan
+27015,35580,"New Ulm, MN Micropolitan Statistical Area",Micropolitan
+27017,20260,"Duluth, MN-WI Metropolitan Statistical Area",Metropolitan
+27019,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27021,14660,"Brainerd, MN Micropolitan Statistical Area",Micropolitan
+27025,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27027,22020,"Fargo, ND-MN Metropolitan Statistical Area",Metropolitan
+27035,14660,"Brainerd, MN Micropolitan Statistical Area",Micropolitan
+27037,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27039,40340,"Rochester, MN Metropolitan Statistical Area",Metropolitan
+27041,10820,"Alexandria, MN Micropolitan Statistical Area",Micropolitan
+27047,10660,"Albert Lea, MN Micropolitan Statistical Area",Micropolitan
+27049,39860,"Red Wing, MN Micropolitan Statistical Area",Micropolitan
+27053,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27055,29100,"La Crosse, WI-MN Metropolitan Statistical Area",Metropolitan
+27059,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27067,48820,"Willmar, MN Micropolitan Statistical Area",Micropolitan
+27083,32140,"Marshall, MN Micropolitan Statistical Area",Micropolitan
+27085,26780,"Hutchinson, MN Micropolitan Statistical Area",Micropolitan
+27091,21860,"Fairmont, MN Micropolitan Statistical Area",Micropolitan
+27099,12380,"Austin, MN Micropolitan Statistical Area",Micropolitan
+27103,31860,"Mankato-North Mankato, MN Micropolitan Statistical Area",Micropolitan
+27105,49380,"Worthington, MN Micropolitan Statistical Area",Micropolitan
+27109,40340,"Rochester, MN Metropolitan Statistical Area",Metropolitan
+27111,22260,"Fergus Falls, MN Micropolitan Statistical Area",Micropolitan
+27119,24220,"Grand Forks, ND-MN Metropolitan Statistical Area",Metropolitan
+27123,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27131,22060,"Faribault-Northfield, MN Micropolitan Statistical Area",Micropolitan
+27137,20260,"Duluth, MN-WI Metropolitan Statistical Area",Metropolitan
+27139,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27141,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27145,41060,"St. Cloud, MN Metropolitan Statistical Area",Metropolitan
+27147,36940,"Owatonna, MN Micropolitan Statistical Area",Micropolitan
+27157,40340,"Rochester, MN Metropolitan Statistical Area",Metropolitan
+27163,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+27167,47420,"Wahpeton, ND-MN Micropolitan Statistical Area",Micropolitan
+27169,49100,"Winona, MN Micropolitan Statistical Area",Micropolitan
+27171,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+28001,35020,"Natchez, MS-LA Micropolitan Statistical Area",Micropolitan
+28003,18420,"Corinth, MS Micropolitan Statistical Area",Micropolitan
+28005,32620,"McComb, MS Micropolitan Statistical Area",Micropolitan
+28011,17380,"Cleveland, MS Micropolitan Statistical Area",Micropolitan
+28015,24900,"Greenwood, MS Micropolitan Statistical Area",Micropolitan
+28023,32940,"Meridian, MS Micropolitan Statistical Area",Micropolitan
+28027,17260,"Clarksdale, MS Micropolitan Statistical Area",Micropolitan
+28029,27140,"Jackson, MS Metropolitan Statistical Area",Metropolitan
+28033,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+28035,25620,"Hattiesburg, MS Metropolitan Statistical Area",Metropolitan
+28039,37700,"Pascagoula, MS Metropolitan Statistical Area",Metropolitan
+28043,24980,"Grenada, MS Micropolitan Statistical Area",Micropolitan
+28045,25060,"Gulfport-Biloxi, MS Metropolitan Statistical Area",Metropolitan
+28047,25060,"Gulfport-Biloxi, MS Metropolitan Statistical Area",Metropolitan
+28049,27140,"Jackson, MS Metropolitan Statistical Area",Metropolitan
+28057,46180,"Tupelo, MS Micropolitan Statistical Area",Micropolitan
+28059,37700,"Pascagoula, MS Metropolitan Statistical Area",Metropolitan
+28061,29860,"Laurel, MS Micropolitan Statistical Area",Micropolitan
+28067,29860,"Laurel, MS Micropolitan Statistical Area",Micropolitan
+28069,32940,"Meridian, MS Micropolitan Statistical Area",Micropolitan
+28071,37060,"Oxford, MS Micropolitan Statistical Area",Micropolitan
+28073,25620,"Hattiesburg, MS Metropolitan Statistical Area",Metropolitan
+28075,32940,"Meridian, MS Micropolitan Statistical Area",Micropolitan
+28081,46180,"Tupelo, MS Micropolitan Statistical Area",Micropolitan
+28083,24900,"Greenwood, MS Micropolitan Statistical Area",Micropolitan
+28085,15020,"Brookhaven, MS Micropolitan Statistical Area",Micropolitan
+28087,18060,"Columbus, MS Micropolitan Statistical Area",Micropolitan
+28089,27140,"Jackson, MS Metropolitan Statistical Area",Metropolitan
+28093,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+28105,44260,"Starkville, MS Micropolitan Statistical Area",Micropolitan
+28109,38100,"Picayune, MS Micropolitan Statistical Area",Micropolitan
+28111,25620,"Hattiesburg, MS Metropolitan Statistical Area",Metropolitan
+28113,32620,"McComb, MS Micropolitan Statistical Area",Micropolitan
+28115,46180,"Tupelo, MS Micropolitan Statistical Area",Micropolitan
+28121,27140,"Jackson, MS Metropolitan Statistical Area",Metropolitan
+28127,27140,"Jackson, MS Metropolitan Statistical Area",Metropolitan
+28131,25060,"Gulfport-Biloxi, MS Metropolitan Statistical Area",Metropolitan
+28133,26940,"Indianola, MS Micropolitan Statistical Area",Micropolitan
+28137,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+28143,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+28149,46980,"Vicksburg, MS Micropolitan Statistical Area",Micropolitan
+28151,24740,"Greenville, MS Micropolitan Statistical Area",Micropolitan
+28163,49540,"Yazoo City, MS Micropolitan Statistical Area",Micropolitan
+29001,28860,"Kirksville, MO Micropolitan Statistical Area",Micropolitan
+29003,41140,"St. Joseph, MO-KS Metropolitan Statistical Area",Metropolitan
+29007,33020,"Mexico, MO Micropolitan Statistical Area",Micropolitan
+29013,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29017,16020,"Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area",Micropolitan
+29019,17860,"Columbia, MO Metropolitan Statistical Area",Metropolitan
+29021,41140,"St. Joseph, MO-KS Metropolitan Statistical Area",Metropolitan
+29023,38740,"Poplar Bluff, MO Micropolitan Statistical Area",Micropolitan
+29025,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29027,27620,"Jefferson City, MO Metropolitan Statistical Area",Metropolitan
+29031,16020,"Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area",Micropolitan
+29037,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29043,44180,"Springfield, MO Metropolitan Statistical Area",Metropolitan
+29045,28460,"Keokuk-Fort Madison, IA-MO Micropolitan Statistical Area",Micropolitan
+29047,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29049,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29051,27620,"Jefferson City, MO Metropolitan Statistical Area",Metropolitan
+29055,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29059,44180,"Springfield, MO Metropolitan Statistical Area",Metropolitan
+29063,41140,"St. Joseph, MO-KS Metropolitan Statistical Area",Metropolitan
+29069,28380,"Kennett, MO Micropolitan Statistical Area",Micropolitan
+29071,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29077,44180,"Springfield, MO Metropolitan Statistical Area",Metropolitan
+29089,17860,"Columbia, MO Metropolitan Statistical Area",Metropolitan
+29091,48460,"West Plains, MO Micropolitan Statistical Area",Micropolitan
+29095,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29097,27900,"Joplin, MO Metropolitan Statistical Area",Metropolitan
+29099,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29101,47660,"Warrensburg, MO Micropolitan Statistical Area",Micropolitan
+29105,30060,"Lebanon, MO Micropolitan Statistical Area",Micropolitan
+29107,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29111,39500,"Quincy, IL-MO Micropolitan Statistical Area",Micropolitan
+29113,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29119,22220,"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",Metropolitan
+29127,25300,"Hannibal, MO Micropolitan Statistical Area",Micropolitan
+29135,27620,"Jefferson City, MO Metropolitan Statistical Area",Metropolitan
+29145,27900,"Joplin, MO Metropolitan Statistical Area",Metropolitan
+29147,32340,"Maryville, MO Micropolitan Statistical Area",Micropolitan
+29151,27620,"Jefferson City, MO Metropolitan Statistical Area",Metropolitan
+29159,42740,"Sedalia, MO Micropolitan Statistical Area",Micropolitan
+29161,40620,"Rolla, MO Micropolitan Statistical Area",Micropolitan
+29165,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29167,44180,"Springfield, MO Metropolitan Statistical Area",Metropolitan
+29169,22780,"Fort Leonard Wood, MO Micropolitan Statistical Area",Micropolitan
+29173,25300,"Hannibal, MO Micropolitan Statistical Area",Micropolitan
+29175,33620,"Moberly, MO Micropolitan Statistical Area",Micropolitan
+29177,28140,"Kansas City, MO-KS Metropolitan Statistical Area",Metropolitan
+29183,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29187,22100,"Farmington, MO Micropolitan Statistical Area",Micropolitan
+29189,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29195,32180,"Marshall, MO Micropolitan Statistical Area",Micropolitan
+29197,28860,"Kirksville, MO Micropolitan Statistical Area",Micropolitan
+29201,43460,"Sikeston, MO Micropolitan Statistical Area",Micropolitan
+29209,14700,"Branson, MO Micropolitan Statistical Area",Micropolitan
+29213,14700,"Branson, MO Micropolitan Statistical Area",Micropolitan
+29219,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29221,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+29225,44180,"Springfield, MO Metropolitan Statistical Area",Metropolitan
+29510,41180,"St. Louis, MO-IL Metropolitan Statistical Area",Metropolitan
+30009,13740,"Billings, MT Metropolitan Statistical Area",Metropolitan
+30013,24500,"Great Falls, MT Metropolitan Statistical Area",Metropolitan
+30029,28060,"Kalispell, MT Micropolitan Statistical Area",Micropolitan
+30031,14580,"Bozeman, MT Micropolitan Statistical Area",Micropolitan
+30041,25660,"Havre, MT Micropolitan Statistical Area",Micropolitan
+30043,25740,"Helena, MT Micropolitan Statistical Area",Micropolitan
+30049,25740,"Helena, MT Micropolitan Statistical Area",Micropolitan
+30063,33540,"Missoula, MT Metropolitan Statistical Area",Metropolitan
+30093,15580,"Butte-Silver Bow, MT Micropolitan Statistical Area",Micropolitan
+30111,13740,"Billings, MT Metropolitan Statistical Area",Metropolitan
+31001,25580,"Hastings, NE Micropolitan Statistical Area",Micropolitan
+31007,42420,"Scottsbluff, NE Micropolitan Statistical Area",Micropolitan
+31019,28260,"Kearney, NE Micropolitan Statistical Area",Micropolitan
+31025,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+31035,25580,"Hastings, NE Micropolitan Statistical Area",Micropolitan
+31043,43580,"Sioux City, IA-NE-SD Metropolitan Statistical Area",Metropolitan
+31047,30420,"Lexington, NE Micropolitan Statistical Area",Micropolitan
+31051,43580,"Sioux City, IA-NE-SD Metropolitan Statistical Area",Metropolitan
+31053,23340,"Fremont, NE Micropolitan Statistical Area",Micropolitan
+31055,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+31067,13100,"Beatrice, NE Micropolitan Statistical Area",Micropolitan
+31073,30420,"Lexington, NE Micropolitan Statistical Area",Micropolitan
+31079,24260,"Grand Island, NE Micropolitan Statistical Area",Micropolitan
+31093,24260,"Grand Island, NE Micropolitan Statistical Area",Micropolitan
+31099,28260,"Kearney, NE Micropolitan Statistical Area",Micropolitan
+31109,30700,"Lincoln, NE Metropolitan Statistical Area",Metropolitan
+31111,35820,"North Platte, NE Micropolitan Statistical Area",Micropolitan
+31113,35820,"North Platte, NE Micropolitan Statistical Area",Micropolitan
+31117,35820,"North Platte, NE Micropolitan Statistical Area",Micropolitan
+31119,35740,"Norfolk, NE Micropolitan Statistical Area",Micropolitan
+31121,24260,"Grand Island, NE Micropolitan Statistical Area",Micropolitan
+31139,35740,"Norfolk, NE Micropolitan Statistical Area",Micropolitan
+31141,18100,"Columbus, NE Micropolitan Statistical Area",Micropolitan
+31153,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+31155,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+31157,42420,"Scottsbluff, NE Micropolitan Statistical Area",Micropolitan
+31159,30700,"Lincoln, NE Metropolitan Statistical Area",Metropolitan
+31167,35740,"Norfolk, NE Micropolitan Statistical Area",Micropolitan
+31177,36540,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",Metropolitan
+32001,21980,"Fallon, NV Micropolitan Statistical Area",Micropolitan
+32003,29820,"Las Vegas-Paradise, NV Metropolitan Statistical Area",Metropolitan
+32005,23820,"Gardnerville Ranchos, NV Micropolitan Statistical Area",Micropolitan
+32007,21220,"Elko, NV Micropolitan Statistical Area",Micropolitan
+32011,21220,"Elko, NV Micropolitan Statistical Area",Micropolitan
+32023,37220,"Pahrump, NV Micropolitan Statistical Area",Micropolitan
+32029,39900,"Reno-Sparks, NV Metropolitan Statistical Area",Metropolitan
+32031,39900,"Reno-Sparks, NV Metropolitan Statistical Area",Metropolitan
+32510,16180,"Carson City, NV Metropolitan Statistical Area",Metropolitan
+33001,29060,"Laconia, NH Micropolitan Statistical Area",Micropolitan
+33005,28300,"Keene, NH Micropolitan Statistical Area",Micropolitan
+33007,13620,"Berlin, NH-VT Micropolitan Statistical Area",Micropolitan
+33009,30100,"Lebanon, NH-VT Micropolitan Statistical Area",Micropolitan
+33011,31700,"Manchester-Nashua, NH Metropolitan Statistical Area",Metropolitan
+33013,18180,"Concord, NH Micropolitan Statistical Area",Micropolitan
+33015,14460,"Rockingham County-Strafford County, NH Metropolitan Division",Metropolitan
+33017,14460,"Rockingham County-Strafford County, NH Metropolitan Division",Metropolitan
+34001,12100,"Atlantic City, NJ Metropolitan Statistical Area",Metropolitan
+34003,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+34005,37980,"Camden, NJ Metropolitan Division",Metropolitan
+34007,37980,"Camden, NJ Metropolitan Division",Metropolitan
+34009,36140,"Ocean City, NJ Metropolitan Statistical Area",Metropolitan
+34011,47220,"Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area",Metropolitan
+34013,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+34015,37980,"Camden, NJ Metropolitan Division",Metropolitan
+34017,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+34019,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+34021,45940,"Trenton-Ewing, NJ Metropolitan Statistical Area",Metropolitan
+34023,35620,"Edison, NJ Metropolitan Division",Metropolitan
+34025,35620,"Edison, NJ Metropolitan Division",Metropolitan
+34027,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+34029,35620,"Edison, NJ Metropolitan Division",Metropolitan
+34031,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+34033,37980,"Wilmington, DE-MD-NJ Metropolitan Division",Metropolitan
+34035,35620,"Edison, NJ Metropolitan Division",Metropolitan
+34037,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+34039,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+34041,10900,"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",Metropolitan
+35001,10740,"Albuquerque, NM Metropolitan Statistical Area",Metropolitan
+35005,40740,"Roswell, NM Micropolitan Statistical Area",Micropolitan
+35006,24380,"Grants, NM Micropolitan Statistical Area",Micropolitan
+35009,17580,"Clovis, NM Micropolitan Statistical Area",Micropolitan
+35013,29740,"Las Cruces, NM Metropolitan Statistical Area",Metropolitan
+35015,16100,"Carlsbad-Artesia, NM Micropolitan Statistical Area",Micropolitan
+35017,43500,"Silver City, NM Micropolitan Statistical Area",Micropolitan
+35025,26020,"Hobbs, NM Micropolitan Statistical Area",Micropolitan
+35028,31060,"Los Alamos, NM Micropolitan Statistical Area",Micropolitan
+35029,19700,"Deming, NM Micropolitan Statistical Area",Micropolitan
+35031,23700,"Gallup, NM Micropolitan Statistical Area",Micropolitan
+35035,10460,"Alamogordo, NM Micropolitan Statistical Area",Micropolitan
+35039,21580,"Espanola, NM Micropolitan Statistical Area",Micropolitan
+35041,38780,"Portales, NM Micropolitan Statistical Area",Micropolitan
+35043,10740,"Albuquerque, NM Metropolitan Statistical Area",Metropolitan
+35045,22140,"Farmington, NM Metropolitan Statistical Area",Metropolitan
+35047,29780,"Las Vegas, NM Micropolitan Statistical Area",Micropolitan
+35049,42140,"Santa Fe, NM Metropolitan Statistical Area",Metropolitan
+35055,45340,"Taos, NM Micropolitan Statistical Area",Micropolitan
+35057,10740,"Albuquerque, NM Metropolitan Statistical Area",Metropolitan
+35061,10740,"Albuquerque, NM Metropolitan Statistical Area",Metropolitan
+36001,10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Metropolitan
+36005,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36007,13780,"Binghamton, NY Metropolitan Statistical Area",Metropolitan
+36009,36460,"Olean, NY Micropolitan Statistical Area",Micropolitan
+36011,12180,"Auburn, NY Micropolitan Statistical Area",Micropolitan
+36013,27460,"Jamestown-Dunkirk-Fredonia, NY Micropolitan Statistical Area",Micropolitan
+36015,21300,"Elmira, NY Metropolitan Statistical Area",Metropolitan
+36019,38460,"Plattsburgh, NY Micropolitan Statistical Area",Micropolitan
+36021,26460,"Hudson, NY Micropolitan Statistical Area",Micropolitan
+36023,18660,"Cortland, NY Micropolitan Statistical Area",Micropolitan
+36027,39100,"Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area",Metropolitan
+36029,15380,"Buffalo-Cheektowaga-Tonawanda, NY Metropolitan Statistical Area",Metropolitan
+36033,31660,"Malone, NY Micropolitan Statistical Area",Micropolitan
+36035,24100,"Gloversville, NY Micropolitan Statistical Area",Micropolitan
+36037,12860,"Batavia, NY Micropolitan Statistical Area",Micropolitan
+36043,46540,"Utica-Rome, NY Metropolitan Statistical Area",Metropolitan
+36045,48060,"Watertown-Fort Drum, NY Micropolitan Statistical Area",Micropolitan
+36047,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36051,40380,"Rochester, NY Metropolitan Statistical Area",Metropolitan
+36053,45060,"Syracuse, NY Metropolitan Statistical Area",Metropolitan
+36055,40380,"Rochester, NY Metropolitan Statistical Area",Metropolitan
+36057,11220,"Amsterdam, NY Micropolitan Statistical Area",Micropolitan
+36059,35620,"Suffolk County-Nassau County, NY Metropolitan Division",Metropolitan
+36061,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36063,15380,"Buffalo-Cheektowaga-Tonawanda, NY Metropolitan Statistical Area",Metropolitan
+36065,46540,"Utica-Rome, NY Metropolitan Statistical Area",Metropolitan
+36067,45060,"Syracuse, NY Metropolitan Statistical Area",Metropolitan
+36069,40380,"Rochester, NY Metropolitan Statistical Area",Metropolitan
+36071,39100,"Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area",Metropolitan
+36073,40380,"Rochester, NY Metropolitan Statistical Area",Metropolitan
+36075,45060,"Syracuse, NY Metropolitan Statistical Area",Metropolitan
+36077,36580,"Oneonta, NY Micropolitan Statistical Area",Micropolitan
+36079,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36081,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36083,10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Metropolitan
+36085,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36087,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+36089,36300,"Ogdensburg-Massena, NY Micropolitan Statistical Area",Micropolitan
+36091,10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Metropolitan
+36093,10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Metropolitan
+36095,10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Metropolitan
+36099,42900,"Seneca Falls, NY Micropolitan Statistical Area",Micropolitan
+36101,18500,"Corning, NY Micropolitan Statistical Area",Micropolitan
+36103,35620,"Suffolk County-Nassau County, NY Metropolitan Division",Metropolitan
+36107,13780,"Binghamton, NY Metropolitan Statistical Area",Metropolitan
+36109,27060,"Ithaca, NY Metropolitan Statistical Area",Metropolitan
+36111,28740,"Kingston, NY Metropolitan Statistical Area",Metropolitan
+36113,24020,"Glens Falls, NY Metropolitan Statistical Area",Metropolitan
+36115,24020,"Glens Falls, NY Metropolitan Statistical Area",Metropolitan
+36117,40380,"Rochester, NY Metropolitan Statistical Area",Metropolitan
+36119,35620,"New York-Wayne-White Plains, NY-NJ Metropolitan Division",Metropolitan
+37001,15500,"Burlington, NC Metropolitan Statistical Area",Metropolitan
+37003,25860,"Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area",Metropolitan
+37007,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+37013,47820,"Washington, NC Micropolitan Statistical Area",Micropolitan
+37019,48900,"Wilmington, NC Metropolitan Statistical Area",Metropolitan
+37021,11700,"Asheville, NC Metropolitan Statistical Area",Metropolitan
+37023,25860,"Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area",Metropolitan
+37025,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+37027,25860,"Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area",Metropolitan
+37029,21020,"Elizabeth City, NC Micropolitan Statistical Area",Micropolitan
+37031,33980,"Morehead City, NC Micropolitan Statistical Area",Micropolitan
+37035,25860,"Hickory-Morganton-Lenoir, NC Metropolitan Statistical Area",Metropolitan
+37037,20500,"Durham, NC Metropolitan Statistical Area",Metropolitan
+37045,43140,"Shelby, NC Micropolitan Statistical Area",Micropolitan
+37049,35100,"New Bern, NC Micropolitan Statistical Area",Micropolitan
+37051,22180,"Fayetteville, NC Metropolitan Statistical Area",Metropolitan
+37053,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+37055,28620,"Kill Devil Hills, NC Micropolitan Statistical Area",Micropolitan
+37057,30540,"Lexington-Thomasville, NC Micropolitan Statistical Area",Micropolitan
+37059,49180,"Winston-Salem, NC Metropolitan Statistical Area",Metropolitan
+37063,20500,"Durham, NC Metropolitan Statistical Area",Metropolitan
+37065,40580,"Rocky Mount, NC Metropolitan Statistical Area",Metropolitan
+37067,49180,"Winston-Salem, NC Metropolitan Statistical Area",Metropolitan
+37069,39580,"Raleigh-Cary, NC Metropolitan Statistical Area",Metropolitan
+37071,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+37079,24780,"Greenville, NC Metropolitan Statistical Area",Metropolitan
+37081,24660,"Greensboro-High Point, NC Metropolitan Statistical Area",Metropolitan
+37083,40260,"Roanoke Rapids, NC Micropolitan Statistical Area",Micropolitan
+37085,20380,"Dunn, NC Micropolitan Statistical Area",Micropolitan
+37087,11700,"Asheville, NC Metropolitan Statistical Area",Metropolitan
+37089,11700,"Asheville, NC Metropolitan Statistical Area",Metropolitan
+37093,22180,"Fayetteville, NC Metropolitan Statistical Area",Metropolitan
+37097,44380,"Statesville-Mooresville, NC Micropolitan Statistical Area",Micropolitan
+37101,39580,"Raleigh-Cary, NC Metropolitan Statistical Area",Metropolitan
+37103,35100,"New Bern, NC Micropolitan Statistical Area",Micropolitan
+37105,41820,"Sanford, NC Micropolitan Statistical Area",Micropolitan
+37107,28820,"Kinston, NC Micropolitan Statistical Area",Micropolitan
+37109,30740,"Lincolnton, NC Micropolitan Statistical Area",Micropolitan
+37115,11700,"Asheville, NC Metropolitan Statistical Area",Metropolitan
+37119,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+37125,43860,"Southern Pines, NC Micropolitan Statistical Area",Micropolitan
+37127,40580,"Rocky Mount, NC Metropolitan Statistical Area",Metropolitan
+37129,48900,"Wilmington, NC Metropolitan Statistical Area",Metropolitan
+37131,40260,"Roanoke Rapids, NC Micropolitan Statistical Area",Micropolitan
+37133,27340,"Jacksonville, NC Metropolitan Statistical Area",Metropolitan
+37135,20500,"Durham, NC Metropolitan Statistical Area",Metropolitan
+37137,35100,"New Bern, NC Micropolitan Statistical Area",Micropolitan
+37139,21020,"Elizabeth City, NC Micropolitan Statistical Area",Micropolitan
+37141,48900,"Wilmington, NC Metropolitan Statistical Area",Metropolitan
+37143,21020,"Elizabeth City, NC Micropolitan Statistical Area",Micropolitan
+37145,20500,"Durham, NC Metropolitan Statistical Area",Metropolitan
+37147,24780,"Greenville, NC Metropolitan Statistical Area",Metropolitan
+37151,24660,"Greensboro-High Point, NC Metropolitan Statistical Area",Metropolitan
+37153,40460,"Rockingham, NC Micropolitan Statistical Area",Micropolitan
+37155,31300,"Lumberton, NC Micropolitan Statistical Area",Micropolitan
+37157,24660,"Greensboro-High Point, NC Metropolitan Statistical Area",Metropolitan
+37159,41580,"Salisbury, NC Micropolitan Statistical Area",Micropolitan
+37161,22580,"Forest City, NC Micropolitan Statistical Area",Micropolitan
+37165,29900,"Laurinburg, NC Micropolitan Statistical Area",Micropolitan
+37167,10620,"Albemarle, NC Micropolitan Statistical Area",Micropolitan
+37169,49180,"Winston-Salem, NC Metropolitan Statistical Area",Metropolitan
+37171,34340,"Mount Airy, NC Micropolitan Statistical Area",Micropolitan
+37175,14820,"Brevard, NC Micropolitan Statistical Area",Micropolitan
+37179,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+37181,25780,"Henderson, NC Micropolitan Statistical Area",Micropolitan
+37183,39580,"Raleigh-Cary, NC Metropolitan Statistical Area",Metropolitan
+37189,14380,"Boone, NC Micropolitan Statistical Area",Micropolitan
+37191,24140,"Goldsboro, NC Metropolitan Statistical Area",Metropolitan
+37193,35900,"North Wilkesboro, NC Micropolitan Statistical Area",Micropolitan
+37195,48980,"Wilson, NC Micropolitan Statistical Area",Micropolitan
+37197,49180,"Winston-Salem, NC Metropolitan Statistical Area",Metropolitan
+38007,19860,"Dickinson, ND Micropolitan Statistical Area",Micropolitan
+38015,13900,"Bismarck, ND Metropolitan Statistical Area",Metropolitan
+38017,22020,"Fargo, ND-MN Metropolitan Statistical Area",Metropolitan
+38035,24220,"Grand Forks, ND-MN Metropolitan Statistical Area",Metropolitan
+38049,33500,"Minot, ND Micropolitan Statistical Area",Micropolitan
+38059,13900,"Bismarck, ND Metropolitan Statistical Area",Metropolitan
+38075,33500,"Minot, ND Micropolitan Statistical Area",Micropolitan
+38077,47420,"Wahpeton, ND-MN Micropolitan Statistical Area",Micropolitan
+38089,19860,"Dickinson, ND Micropolitan Statistical Area",Micropolitan
+38093,27420,"Jamestown, ND Micropolitan Statistical Area",Micropolitan
+38101,33500,"Minot, ND Micropolitan Statistical Area",Micropolitan
+38105,48780,"Williston, ND Micropolitan Statistical Area",Micropolitan
+39003,30620,"Lima, OH Metropolitan Statistical Area",Metropolitan
+39005,11740,"Ashland, OH Micropolitan Statistical Area",Micropolitan
+39007,11780,"Ashtabula, OH Micropolitan Statistical Area",Micropolitan
+39009,11900,"Athens, OH Micropolitan Statistical Area",Micropolitan
+39011,47540,"Wapakoneta, OH Micropolitan Statistical Area",Micropolitan
+39013,48540,"Wheeling, WV-OH Metropolitan Statistical Area",Metropolitan
+39015,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+39017,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+39019,15940,"Canton-Massillon, OH Metropolitan Statistical Area",Metropolitan
+39021,46500,"Urbana, OH Micropolitan Statistical Area",Micropolitan
+39023,44220,"Springfield, OH Metropolitan Statistical Area",Metropolitan
+39025,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+39027,48940,"Wilmington, OH Micropolitan Statistical Area",Micropolitan
+39029,20620,"East Liverpool-Salem, OH Micropolitan Statistical Area",Micropolitan
+39031,18740,"Coshocton, OH Micropolitan Statistical Area",Micropolitan
+39033,15340,"Bucyrus, OH Micropolitan Statistical Area",Micropolitan
+39035,17460,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",Metropolitan
+39037,24820,"Greenville, OH Micropolitan Statistical Area",Micropolitan
+39039,19580,"Defiance, OH Micropolitan Statistical Area",Micropolitan
+39041,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39043,41780,"Sandusky, OH Metropolitan Statistical Area",Metropolitan
+39045,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39047,47860,"Washington, OH Micropolitan Statistical Area",Micropolitan
+39049,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39051,45780,"Toledo, OH Metropolitan Statistical Area",Metropolitan
+39053,38580,"Point Pleasant, WV-OH Micropolitan Statistical Area",Micropolitan
+39055,17460,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",Metropolitan
+39057,19380,"Dayton, OH Metropolitan Statistical Area",Metropolitan
+39059,15740,"Cambridge, OH Micropolitan Statistical Area",Micropolitan
+39061,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+39063,22300,"Findlay, OH Micropolitan Statistical Area",Micropolitan
+39077,35940,"Norwalk, OH Micropolitan Statistical Area",Micropolitan
+39081,48260,"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",Metropolitan
+39083,34540,"Mount Vernon, OH Micropolitan Statistical Area",Micropolitan
+39085,17460,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",Metropolitan
+39087,26580,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",Metropolitan
+39089,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39091,13340,"Bellefontaine, OH Micropolitan Statistical Area",Micropolitan
+39093,17460,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",Metropolitan
+39095,45780,"Toledo, OH Metropolitan Statistical Area",Metropolitan
+39097,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39099,49660,"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",Metropolitan
+39101,32020,"Marion, OH Micropolitan Statistical Area",Micropolitan
+39103,17460,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",Metropolitan
+39107,16380,"Celina, OH Micropolitan Statistical Area",Micropolitan
+39109,19380,"Dayton, OH Metropolitan Statistical Area",Metropolitan
+39113,19380,"Dayton, OH Metropolitan Statistical Area",Metropolitan
+39117,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39119,49780,"Zanesville, OH Micropolitan Statistical Area",Micropolitan
+39123,45780,"Toledo, OH Metropolitan Statistical Area",Metropolitan
+39129,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39133,10420,"Akron, OH Metropolitan Statistical Area",Metropolitan
+39135,19380,"Dayton, OH Metropolitan Statistical Area",Metropolitan
+39139,31900,"Mansfield, OH Metropolitan Statistical Area",Metropolitan
+39141,17060,"Chillicothe, OH Micropolitan Statistical Area",Micropolitan
+39143,23380,"Fremont, OH Micropolitan Statistical Area",Micropolitan
+39145,39020,"Portsmouth, OH Micropolitan Statistical Area",Micropolitan
+39147,45660,"Tiffin-Fostoria, OH Micropolitan Statistical Area",Micropolitan
+39149,43380,"Sidney, OH Micropolitan Statistical Area",Micropolitan
+39151,15940,"Canton-Massillon, OH Metropolitan Statistical Area",Metropolitan
+39153,10420,"Akron, OH Metropolitan Statistical Area",Metropolitan
+39155,49660,"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",Metropolitan
+39157,35420,"New Philadelphia-Dover, OH Micropolitan Statistical Area",Micropolitan
+39159,18140,"Columbus, OH Metropolitan Statistical Area",Metropolitan
+39161,46780,"Van Wert, OH Micropolitan Statistical Area",Micropolitan
+39165,17140,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",Metropolitan
+39167,37620,"Parkersburg-Marietta, WV-OH Metropolitan Statistical Area",Metropolitan
+39169,49300,"Wooster, OH Micropolitan Statistical Area",Micropolitan
+39173,45780,"Toledo, OH Metropolitan Statistical Area",Metropolitan
+40013,20460,"Durant, OK Micropolitan Statistical Area",Micropolitan
+40017,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40019,11620,"Ardmore, OK Micropolitan Statistical Area",Micropolitan
+40021,45140,"Tahlequah, OK Micropolitan Statistical Area",Micropolitan
+40027,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40031,30020,"Lawton, OK Metropolitan Statistical Area",Metropolitan
+40037,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40047,21420,"Enid, OK Micropolitan Statistical Area",Micropolitan
+40051,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40065,11060,"Altus, OK Micropolitan Statistical Area",Micropolitan
+40071,38620,"Ponca City, OK Micropolitan Statistical Area",Micropolitan
+40079,22900,"Fort Smith, AR-OK Metropolitan Statistical Area",Metropolitan
+40081,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40083,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40085,11620,"Ardmore, OK Micropolitan Statistical Area",Micropolitan
+40087,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40101,34780,"Muskogee, OK Micropolitan Statistical Area",Micropolitan
+40109,36420,"Oklahoma City, OK Metropolitan Statistical Area",Metropolitan
+40111,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40113,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40115,33060,"Miami, OK Micropolitan Statistical Area",Micropolitan
+40117,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40119,44660,"Stillwater, OK Micropolitan Statistical Area",Micropolitan
+40121,32540,"McAlester, OK Micropolitan Statistical Area",Micropolitan
+40123,10220,"Ada, OK Micropolitan Statistical Area",Micropolitan
+40125,43060,"Shawnee, OK Micropolitan Statistical Area",Micropolitan
+40131,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40135,22900,"Fort Smith, AR-OK Metropolitan Statistical Area",Metropolitan
+40137,20340,"Duncan, OK Micropolitan Statistical Area",Micropolitan
+40139,25100,"Guymon, OK Micropolitan Statistical Area",Micropolitan
+40143,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40145,46140,"Tulsa, OK Metropolitan Statistical Area",Metropolitan
+40147,12780,"Bartlesville, OK Micropolitan Statistical Area",Micropolitan
+40153,49260,"Woodward, OK Micropolitan Statistical Area",Micropolitan
+41003,18700,"Corvallis, OR Metropolitan Statistical Area",Metropolitan
+41005,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+41007,11820,"Astoria, OR Micropolitan Statistical Area",Micropolitan
+41009,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+41011,18300,"Coos Bay, OR Micropolitan Statistical Area",Micropolitan
+41013,39260,"Prineville, OR Micropolitan Statistical Area",Micropolitan
+41015,15060,"Brookings, OR Micropolitan Statistical Area",Micropolitan
+41017,13460,"Bend, OR Metropolitan Statistical Area",Metropolitan
+41019,40700,"Roseburg, OR Micropolitan Statistical Area",Micropolitan
+41027,26220,"Hood River, OR Micropolitan Statistical Area",Micropolitan
+41029,32780,"Medford, OR Metropolitan Statistical Area",Metropolitan
+41033,24420,"Grants Pass, OR Micropolitan Statistical Area",Micropolitan
+41035,28900,"Klamath Falls, OR Micropolitan Statistical Area",Micropolitan
+41039,21660,"Eugene-Springfield, OR Metropolitan Statistical Area",Metropolitan
+41043,10540,"Albany-Lebanon, OR Micropolitan Statistical Area",Micropolitan
+41045,36620,"Ontario, OR-ID Micropolitan Statistical Area",Micropolitan
+41047,41420,"Salem, OR Metropolitan Statistical Area",Metropolitan
+41049,37820,"Pendleton-Hermiston, OR Micropolitan Statistical Area",Micropolitan
+41051,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+41053,41420,"Salem, OR Metropolitan Statistical Area",Metropolitan
+41059,37820,"Pendleton-Hermiston, OR Micropolitan Statistical Area",Micropolitan
+41061,29260,"La Grande, OR Micropolitan Statistical Area",Micropolitan
+41065,17180,"City of The Dalles, OR Micropolitan Statistical Area",Micropolitan
+41067,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+41071,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+42001,23900,"Gettysburg, PA Micropolitan Statistical Area",Micropolitan
+42003,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42005,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42007,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42011,39740,"Reading, PA Metropolitan Statistical Area",Metropolitan
+42013,11020,"Altoona, PA Metropolitan Statistical Area",Metropolitan
+42015,42380,"Sayre, PA Micropolitan Statistical Area",Micropolitan
+42017,37980,"Philadelphia, PA Metropolitan Division",Metropolitan
+42019,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42021,27780,"Johnstown, PA Metropolitan Statistical Area",Metropolitan
+42025,10900,"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",Metropolitan
+42027,44300,"State College, PA Metropolitan Statistical Area",Metropolitan
+42029,37980,"Philadelphia, PA Metropolitan Division",Metropolitan
+42033,20180,"DuBois, PA Micropolitan Statistical Area",Micropolitan
+42035,30820,"Lock Haven, PA Micropolitan Statistical Area",Micropolitan
+42037,14100,"Bloomsburg-Berwick, PA Micropolitan Statistical Area",Micropolitan
+42039,32740,"Meadville, PA Micropolitan Statistical Area",Micropolitan
+42041,25420,"Harrisburg-Carlisle, PA Metropolitan Statistical Area",Metropolitan
+42043,25420,"Harrisburg-Carlisle, PA Metropolitan Statistical Area",Metropolitan
+42045,37980,"Philadelphia, PA Metropolitan Division",Metropolitan
+42047,41260,"St. Marys, PA Micropolitan Statistical Area",Micropolitan
+42049,21500,"Erie, PA Metropolitan Statistical Area",Metropolitan
+42051,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42055,16540,"Chambersburg, PA Micropolitan Statistical Area",Micropolitan
+42061,26500,"Huntingdon, PA Micropolitan Statistical Area",Micropolitan
+42063,26860,"Indiana, PA Micropolitan Statistical Area",Micropolitan
+42069,42540,"Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",Metropolitan
+42071,29540,"Lancaster, PA Metropolitan Statistical Area",Metropolitan
+42073,35260,"New Castle, PA Micropolitan Statistical Area",Micropolitan
+42075,30140,"Lebanon, PA Metropolitan Statistical Area",Metropolitan
+42077,10900,"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",Metropolitan
+42079,42540,"Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",Metropolitan
+42081,48700,"Williamsport, PA Metropolitan Statistical Area",Metropolitan
+42083,14620,"Bradford, PA Micropolitan Statistical Area",Micropolitan
+42085,49660,"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",Metropolitan
+42087,30380,"Lewistown, PA Micropolitan Statistical Area",Micropolitan
+42089,20700,"East Stroudsburg, PA Micropolitan Statistical Area",Micropolitan
+42091,37980,"Philadelphia, PA Metropolitan Division",Metropolitan
+42093,14100,"Bloomsburg-Berwick, PA Micropolitan Statistical Area",Micropolitan
+42095,10900,"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",Metropolitan
+42097,44980,"Sunbury, PA Micropolitan Statistical Area",Micropolitan
+42099,25420,"Harrisburg-Carlisle, PA Metropolitan Statistical Area",Metropolitan
+42101,37980,"Philadelphia, PA Metropolitan Division",Metropolitan
+42103,35620,"Newark-Union, NJ-PA Metropolitan Division",Metropolitan
+42107,39060,"Pottsville, PA Micropolitan Statistical Area",Micropolitan
+42109,42780,"Selinsgrove, PA Micropolitan Statistical Area",Micropolitan
+42111,43740,"Somerset, PA Micropolitan Statistical Area",Micropolitan
+42119,30260,"Lewisburg, PA Micropolitan Statistical Area",Micropolitan
+42121,36340,"Oil City, PA Micropolitan Statistical Area",Micropolitan
+42123,47620,"Warren, PA Micropolitan Statistical Area",Micropolitan
+42125,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42129,38300,"Pittsburgh, PA Metropolitan Statistical Area",Metropolitan
+42131,42540,"Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",Metropolitan
+42133,49620,"York-Hanover, PA Metropolitan Statistical Area",Metropolitan
+44001,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+44003,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+44005,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+44007,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+44009,39300,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",Metropolitan
+45003,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+45007,11340,"Anderson, SC Metropolitan Statistical Area",Metropolitan
+45013,25940,"Hilton Head Island-Beaufort, SC Micropolitan Statistical Area",Micropolitan
+45015,16700,"Charleston-North Charleston, SC Metropolitan Statistical Area",Metropolitan
+45017,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45019,16700,"Charleston-North Charleston, SC Metropolitan Statistical Area",Metropolitan
+45021,23500,"Gaffney, SC Micropolitan Statistical Area",Micropolitan
+45023,16900,"Chester, SC Micropolitan Statistical Area",Micropolitan
+45029,47500,"Walterboro, SC Micropolitan Statistical Area",Micropolitan
+45031,22500,"Florence, SC Metropolitan Statistical Area",Metropolitan
+45033,19900,"Dillon, SC Micropolitan Statistical Area",Micropolitan
+45035,16700,"Charleston-North Charleston, SC Metropolitan Statistical Area",Metropolitan
+45037,12260,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",Metropolitan
+45039,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45041,22500,"Florence, SC Metropolitan Statistical Area",Metropolitan
+45043,23860,"Georgetown, SC Micropolitan Statistical Area",Micropolitan
+45045,24860,"Greenville, SC Metropolitan Statistical Area",Metropolitan
+45047,24940,"Greenwood, SC Micropolitan Statistical Area",Micropolitan
+45051,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area",Metropolitan
+45053,25940,"Hilton Head Island-Beaufort, SC Micropolitan Statistical Area",Micropolitan
+45055,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45057,29580,"Lancaster, SC Micropolitan Statistical Area",Micropolitan
+45059,24860,"Greenville, SC Metropolitan Statistical Area",Metropolitan
+45063,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45069,13500,"Bennettsville, SC Micropolitan Statistical Area",Micropolitan
+45071,35140,"Newberry, SC Micropolitan Statistical Area",Micropolitan
+45073,42860,"Seneca, SC Micropolitan Statistical Area",Micropolitan
+45075,36700,"Orangeburg, SC Micropolitan Statistical Area",Micropolitan
+45077,24860,"Greenville, SC Metropolitan Statistical Area",Metropolitan
+45079,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45081,17900,"Columbia, SC Metropolitan Statistical Area",Metropolitan
+45083,43900,"Spartanburg, SC Metropolitan Statistical Area",Metropolitan
+45085,44940,"Sumter, SC Metropolitan Statistical Area",Metropolitan
+45087,46420,"Union, SC Micropolitan Statistical Area",Micropolitan
+45091,16740,"Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area",Metropolitan
+46005,26700,"Huron, SD Micropolitan Statistical Area",Micropolitan
+46011,15100,"Brookings, SD Micropolitan Statistical Area",Micropolitan
+46013,10100,"Aberdeen, SD Micropolitan Statistical Area",Micropolitan
+46027,46820,"Vermillion, SD Micropolitan Statistical Area",Micropolitan
+46029,47980,"Watertown, SD Micropolitan Statistical Area",Micropolitan
+46035,33580,"Mitchell, SD Micropolitan Statistical Area",Micropolitan
+46045,10100,"Aberdeen, SD Micropolitan Statistical Area",Micropolitan
+46057,47980,"Watertown, SD Micropolitan Statistical Area",Micropolitan
+46061,33580,"Mitchell, SD Micropolitan Statistical Area",Micropolitan
+46065,38180,"Pierre, SD Micropolitan Statistical Area",Micropolitan
+46081,43940,"Spearfish, SD Micropolitan Statistical Area",Micropolitan
+46083,43620,"Sioux Falls, SD Metropolitan Statistical Area",Metropolitan
+46087,43620,"Sioux Falls, SD Metropolitan Statistical Area",Metropolitan
+46093,39660,"Rapid City, SD Metropolitan Statistical Area",Metropolitan
+46099,43620,"Sioux Falls, SD Metropolitan Statistical Area",Metropolitan
+46103,39660,"Rapid City, SD Metropolitan Statistical Area",Metropolitan
+46117,38180,"Pierre, SD Micropolitan Statistical Area",Micropolitan
+46125,43620,"Sioux Falls, SD Metropolitan Statistical Area",Metropolitan
+46127,43580,"Sioux City, IA-NE-SD Metropolitan Statistical Area",Metropolitan
+46135,49460,"Yankton, SD Micropolitan Statistical Area",Micropolitan
+47001,28940,"Knoxville, TN Metropolitan Statistical Area",Metropolitan
+47003,43180,"Shelbyville, TN Micropolitan Statistical Area",Micropolitan
+47009,28940,"Knoxville, TN Metropolitan Statistical Area",Metropolitan
+47011,17420,"Cleveland, TN Metropolitan Statistical Area",Metropolitan
+47013,29220,"La Follette, TN Micropolitan Statistical Area",Micropolitan
+47015,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47019,27740,"Johnson City, TN Metropolitan Statistical Area",Metropolitan
+47021,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47023,27180,"Jackson, TN Metropolitan Statistical Area",Metropolitan
+47029,35460,"Newport, TN Micropolitan Statistical Area",Micropolitan
+47031,46100,"Tullahoma, TN Micropolitan Statistical Area",Micropolitan
+47035,18900,"Crossville, TN Micropolitan Statistical Area",Micropolitan
+47037,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47043,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47045,20540,"Dyersburg, TN Micropolitan Statistical Area",Micropolitan
+47047,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+47051,46100,"Tullahoma, TN Micropolitan Statistical Area",Micropolitan
+47057,34100,"Morristown, TN Metropolitan Statistical Area",Metropolitan
+47059,24620,"Greeneville, TN Micropolitan Statistical Area",Micropolitan
+47063,34100,"Morristown, TN Metropolitan Statistical Area",Metropolitan
+47065,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+47073,28700,"Kingsport-Bristol, TN-VA Metropolitan Statistical Area",Metropolitan
+47075,15140,"Brownsville, TN Micropolitan Statistical Area",Micropolitan
+47079,37540,"Paris, TN Micropolitan Statistical Area",Micropolitan
+47081,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47087,18260,"Cookeville, TN Micropolitan Statistical Area",Micropolitan
+47089,34100,"Morristown, TN Metropolitan Statistical Area",Metropolitan
+47093,28940,"Knoxville, TN Metropolitan Statistical Area",Metropolitan
+47099,29980,"Lawrenceburg, TN Micropolitan Statistical Area",Micropolitan
+47105,28940,"Knoxville, TN Metropolitan Statistical Area",Metropolitan
+47107,11940,"Athens, TN Micropolitan Statistical Area",Micropolitan
+47111,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47113,27180,"Jackson, TN Metropolitan Statistical Area",Metropolitan
+47115,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+47119,17940,"Columbia, TN Micropolitan Statistical Area",Micropolitan
+47125,17300,"Clarksville, TN-KY Metropolitan Statistical Area",Metropolitan
+47127,46100,"Tullahoma, TN Micropolitan Statistical Area",Micropolitan
+47131,46460,"Union City, TN-KY Micropolitan Statistical Area",Micropolitan
+47133,18260,"Cookeville, TN Micropolitan Statistical Area",Micropolitan
+47139,17420,"Cleveland, TN Metropolitan Statistical Area",Metropolitan
+47141,18260,"Cookeville, TN Micropolitan Statistical Area",Micropolitan
+47145,25340,"Harriman, TN Micropolitan Statistical Area",Micropolitan
+47147,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47149,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47153,16860,"Chattanooga, TN-GA Metropolitan Statistical Area",Metropolitan
+47155,42940,"Sevierville, TN Micropolitan Statistical Area",Micropolitan
+47157,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+47159,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47161,17300,"Clarksville, TN-KY Metropolitan Statistical Area",Metropolitan
+47163,28700,"Kingsport-Bristol, TN-VA Metropolitan Statistical Area",Metropolitan
+47165,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47167,32820,"Memphis, TN-MS-AR Metropolitan Statistical Area",Metropolitan
+47169,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47171,27740,"Johnson City, TN Metropolitan Statistical Area",Metropolitan
+47173,28940,"Knoxville, TN Metropolitan Statistical Area",Metropolitan
+47177,32660,"McMinnville, TN Micropolitan Statistical Area",Micropolitan
+47179,27740,"Johnson City, TN Metropolitan Statistical Area",Metropolitan
+47187,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+47189,34980,"Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area",Metropolitan
+48001,37300,"Palestine, TX Micropolitan Statistical Area",Micropolitan
+48003,11380,"Andrews, TX Micropolitan Statistical Area",Micropolitan
+48005,31260,"Lufkin, TX Micropolitan Statistical Area",Micropolitan
+48007,18580,"Corpus Christi, TX Metropolitan Statistical Area",Metropolitan
+48009,48660,"Wichita Falls, TX Metropolitan Statistical Area",Metropolitan
+48011,11100,"Amarillo, TX Metropolitan Statistical Area",Metropolitan
+48013,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48015,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48019,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48021,12420,"Austin-Round Rock, TX Metropolitan Statistical Area",Metropolitan
+48025,13300,"Beeville, TX Micropolitan Statistical Area",Micropolitan
+48027,28660,"Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area",Metropolitan
+48029,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48037,45500,"Texarkana, TX-Texarkana, AR Metropolitan Statistical Area",Metropolitan
+48039,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48041,17780,"College Station-Bryan, TX Metropolitan Statistical Area",Metropolitan
+48049,15220,"Brownwood, TX Micropolitan Statistical Area",Micropolitan
+48051,17780,"College Station-Bryan, TX Metropolitan Statistical Area",Metropolitan
+48055,12420,"Austin-Round Rock, TX Metropolitan Statistical Area",Metropolitan
+48057,47020,"Victoria, TX Metropolitan Statistical Area",Metropolitan
+48059,10180,"Abilene, TX Metropolitan Statistical Area",Metropolitan
+48061,15180,"Brownsville-Harlingen, TX Metropolitan Statistical Area",Metropolitan
+48065,11100,"Amarillo, TX Metropolitan Statistical Area",Metropolitan
+48071,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48073,27380,"Jacksonville, TX Micropolitan Statistical Area",Micropolitan
+48077,48660,"Wichita Falls, TX Metropolitan Statistical Area",Metropolitan
+48085,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48091,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48097,23620,"Gainesville, TX Micropolitan Statistical Area",Micropolitan
+48099,28660,"Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area",Metropolitan
+48107,31180,"Lubbock, TX Metropolitan Statistical Area",Metropolitan
+48113,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48115,29500,"Lamesa, TX Micropolitan Statistical Area",Micropolitan
+48117,25820,"Hereford, TX Micropolitan Statistical Area",Micropolitan
+48119,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48121,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48135,36220,"Odessa, TX Metropolitan Statistical Area",Metropolitan
+48139,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48141,21340,"El Paso, TX Metropolitan Statistical Area",Metropolitan
+48143,44500,"Stephenville, TX Micropolitan Statistical Area",Micropolitan
+48157,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48167,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48175,47020,"Victoria, TX Metropolitan Statistical Area",Metropolitan
+48179,37420,"Pampa, TX Micropolitan Statistical Area",Micropolitan
+48181,43300,"Sherman-Denison, TX Metropolitan Statistical Area",Metropolitan
+48183,30980,"Longview, TX Metropolitan Statistical Area",Metropolitan
+48187,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48189,38380,"Plainview, TX Micropolitan Statistical Area",Micropolitan
+48199,13140,"Beaumont-Port Arthur, TX Metropolitan Statistical Area",Metropolitan
+48201,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48203,32220,"Marshall, TX Micropolitan Statistical Area",Micropolitan
+48209,12420,"Austin-Round Rock, TX Metropolitan Statistical Area",Metropolitan
+48213,11980,"Athens, TX Micropolitan Statistical Area",Micropolitan
+48215,32580,"McAllen-Edinburg-Pharr, TX Metropolitan Statistical Area",Metropolitan
+48219,30220,"Levelland, TX Micropolitan Statistical Area",Micropolitan
+48221,24180,"Granbury, TX Micropolitan Statistical Area",Micropolitan
+48223,44860,"Sulphur Springs, TX Micropolitan Statistical Area",Micropolitan
+48227,13700,"Big Spring, TX Micropolitan Statistical Area",Micropolitan
+48231,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48233,14420,"Borger, TX Micropolitan Statistical Area",Micropolitan
+48235,41660,"San Angelo, TX Metropolitan Statistical Area",Metropolitan
+48245,13140,"Beaumont-Port Arthur, TX Metropolitan Statistical Area",Metropolitan
+48249,10860,"Alice, TX Micropolitan Statistical Area",Micropolitan
+48251,19100,"Fort Worth-Arlington, TX Metropolitan Division",Metropolitan
+48253,10180,"Abilene, TX Metropolitan Statistical Area",Metropolitan
+48257,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48259,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48261,28780,"Kingsville, TX Micropolitan Statistical Area",Micropolitan
+48265,28500,"Kerrville, TX Micropolitan Statistical Area",Micropolitan
+48273,28780,"Kingsville, TX Micropolitan Statistical Area",Micropolitan
+48277,37580,"Paris, TX Micropolitan Statistical Area",Micropolitan
+48281,28660,"Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area",Metropolitan
+48291,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48303,31180,"Lubbock, TX Metropolitan Statistical Area",Metropolitan
+48309,47380,"Waco, TX Metropolitan Statistical Area",Metropolitan
+48321,13060,"Bay City, TX Micropolitan Statistical Area",Micropolitan
+48323,20580,"Eagle Pass, TX Micropolitan Statistical Area",Micropolitan
+48325,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48329,33260,"Midland, TX Metropolitan Statistical Area",Metropolitan
+48339,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48341,20300,"Dumas, TX Micropolitan Statistical Area",Micropolitan
+48347,34860,"Nacogdoches, TX Micropolitan Statistical Area",Micropolitan
+48349,18620,"Corsicana, TX Micropolitan Statistical Area",Micropolitan
+48353,45020,"Sweetwater, TX Micropolitan Statistical Area",Micropolitan
+48355,18580,"Corpus Christi, TX Metropolitan Statistical Area",Metropolitan
+48361,13140,"Beaumont-Port Arthur, TX Metropolitan Statistical Area",Metropolitan
+48363,33420,"Mineral Wells, TX Micropolitan Statistical Area",Micropolitan
+48367,19100,"Fort Worth-Arlington, TX Metropolitan Division",Metropolitan
+48375,11100,"Amarillo, TX Metropolitan Statistical Area",Metropolitan
+48381,11100,"Amarillo, TX Metropolitan Statistical Area",Metropolitan
+48389,37780,"Pecos, TX Micropolitan Statistical Area",Micropolitan
+48393,37420,"Pampa, TX Micropolitan Statistical Area",Micropolitan
+48395,17780,"College Station-Bryan, TX Metropolitan Statistical Area",Metropolitan
+48397,19100,"Dallas-Plano-Irving, TX Metropolitan Division",Metropolitan
+48401,30980,"Longview, TX Metropolitan Statistical Area",Metropolitan
+48407,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48409,18580,"Corpus Christi, TX Metropolitan Statistical Area",Metropolitan
+48415,43660,"Snyder, TX Micropolitan Statistical Area",Micropolitan
+48423,46340,"Tyler, TX Metropolitan Statistical Area",Metropolitan
+48425,24180,"Granbury, TX Micropolitan Statistical Area",Micropolitan
+48427,40100,"Rio Grande City, TX Micropolitan Statistical Area",Micropolitan
+48439,19100,"Fort Worth-Arlington, TX Metropolitan Division",Metropolitan
+48441,10180,"Abilene, TX Metropolitan Statistical Area",Metropolitan
+48449,34420,"Mount Pleasant, TX Micropolitan Statistical Area",Micropolitan
+48451,41660,"San Angelo, TX Metropolitan Statistical Area",Metropolitan
+48453,12420,"Austin-Round Rock, TX Metropolitan Statistical Area",Metropolitan
+48459,30980,"Longview, TX Metropolitan Statistical Area",Metropolitan
+48463,46620,"Uvalde, TX Micropolitan Statistical Area",Micropolitan
+48465,19620,"Del Rio, TX Micropolitan Statistical Area",Micropolitan
+48469,47020,"Victoria, TX Metropolitan Statistical Area",Metropolitan
+48471,26660,"Huntsville, TX Micropolitan Statistical Area",Micropolitan
+48473,26420,"Houston-Baytown-Sugar Land, TX Metropolitan Statistical Area",Metropolitan
+48477,14780,"Brenham, TX Micropolitan Statistical Area",Micropolitan
+48479,29700,"Laredo, TX Metropolitan Statistical Area",Metropolitan
+48481,20900,"El Campo, TX Micropolitan Statistical Area",Micropolitan
+48485,48660,"Wichita Falls, TX Metropolitan Statistical Area",Metropolitan
+48487,46900,"Vernon, TX Micropolitan Statistical Area",Micropolitan
+48489,39700,"Raymondville, TX Micropolitan Statistical Area",Micropolitan
+48491,12420,"Austin-Round Rock, TX Metropolitan Statistical Area",Metropolitan
+48493,41700,"San Antonio, TX Metropolitan Statistical Area",Metropolitan
+48497,19100,"Fort Worth-Arlington, TX Metropolitan Division",Metropolitan
+49003,14940,"Brigham City, UT Micropolitan Statistical Area",Micropolitan
+49005,30860,"Logan, UT-ID Metropolitan Statistical Area",Metropolitan
+49007,39220,"Price, UT Micropolitan Statistical Area",Micropolitan
+49011,36260,"Ogden-Clearfield, UT Metropolitan Statistical Area",Metropolitan
+49021,16260,"Cedar City, UT Micropolitan Statistical Area",Micropolitan
+49023,39340,"Provo-Orem, UT Metropolitan Statistical Area",Metropolitan
+49029,36260,"Ogden-Clearfield, UT Metropolitan Statistical Area",Metropolitan
+49035,41620,"Salt Lake City, UT Metropolitan Statistical Area",Metropolitan
+49043,41620,"Salt Lake City, UT Metropolitan Statistical Area",Metropolitan
+49045,41620,"Salt Lake City, UT Metropolitan Statistical Area",Metropolitan
+49047,46860,"Vernal, UT Micropolitan Statistical Area",Micropolitan
+49049,39340,"Provo-Orem, UT Metropolitan Statistical Area",Metropolitan
+49053,41100,"St. George, UT Metropolitan Statistical Area",Metropolitan
+49057,36260,"Ogden-Clearfield, UT Metropolitan Statistical Area",Metropolitan
+50003,13540,"Bennington, VT Micropolitan Statistical Area",Micropolitan
+50007,15540,"Burlington-South Burlington, VT Metropolitan Statistical Area",Metropolitan
+50009,13620,"Berlin, NH-VT Micropolitan Statistical Area",Micropolitan
+50011,15540,"Burlington-South Burlington, VT Metropolitan Statistical Area",Metropolitan
+50013,15540,"Burlington-South Burlington, VT Metropolitan Statistical Area",Metropolitan
+50017,30100,"Lebanon, NH-VT Micropolitan Statistical Area",Micropolitan
+50021,40860,"Rutland, VT Micropolitan Statistical Area",Micropolitan
+50023,12740,"Barre, VT Micropolitan Statistical Area",Micropolitan
+50027,30100,"Lebanon, NH-VT Micropolitan Statistical Area",Micropolitan
+51003,16820,"Charlottesville, VA Metropolitan Statistical Area",Metropolitan
+51007,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51009,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51011,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51013,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51015,44420,"Staunton-Waynesboro, VA Micropolitan Statistical Area",Micropolitan
+51019,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51023,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51031,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51033,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51036,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51041,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51043,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51045,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51049,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51053,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51059,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51061,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51065,16820,"Charlottesville, VA Metropolitan Statistical Area",Metropolitan
+51067,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51069,49020,"Winchester, VA-WV Metropolitan Statistical Area",Metropolitan
+51071,13980,"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",Metropolitan
+51073,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51075,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51079,16820,"Charlottesville, VA Metropolitan Statistical Area",Metropolitan
+51085,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51087,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51089,32300,"Martinsville, VA Micropolitan Statistical Area",Micropolitan
+51093,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51095,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51097,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51101,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51107,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51109,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51115,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51121,13980,"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",Metropolitan
+51125,16820,"Charlottesville, VA Metropolitan Statistical Area",Metropolitan
+51127,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51143,19260,"Danville, VA Metropolitan Statistical Area",Metropolitan
+51145,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51149,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51153,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51155,13980,"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",Metropolitan
+51161,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51165,25500,"Harrisonburg, VA Metropolitan Statistical Area",Metropolitan
+51169,28700,"Kingsport-Bristol, TN-VA Metropolitan Statistical Area",Metropolitan
+51177,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51179,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51181,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51183,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51185,14140,"Bluefield, WV-VA Micropolitan Statistical Area",Micropolitan
+51187,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51191,14980,"Bristol, VA Metropolitan Statistical Area",Metropolitan
+51199,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51510,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51515,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51520,14980,"Bristol, VA Metropolitan Statistical Area",Metropolitan
+51540,16820,"Charlottesville, VA Metropolitan Statistical Area",Metropolitan
+51550,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51570,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51590,19260,"Danville, VA Metropolitan Statistical Area",Metropolitan
+51600,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51610,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51630,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51650,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51660,25500,"Harrisonburg, VA Metropolitan Statistical Area",Metropolitan
+51670,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51680,31340,"Lynchburg, VA Metropolitan Statistical Area",Metropolitan
+51683,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51685,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+51690,32300,"Martinsville, VA Micropolitan Statistical Area",Micropolitan
+51700,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51710,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51730,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51735,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51740,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51750,13980,"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",Metropolitan
+51760,40060,"Richmond, VA Metropolitan Statistical Area",Metropolitan
+51770,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51775,40220,"Roanoke, VA Metropolitan Statistical Area",Metropolitan
+51790,44420,"Staunton-Waynesboro, VA Micropolitan Statistical Area",Micropolitan
+51800,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51810,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51820,44420,"Staunton-Waynesboro, VA Micropolitan Statistical Area",Micropolitan
+51830,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",Metropolitan
+51840,49020,"Winchester, VA-WV Metropolitan Statistical Area",Metropolitan
+53003,30300,"Lewiston, ID-WA Metropolitan Statistical Area",Metropolitan
+53005,28420,"Kennewick-Richland-Pasco, WA Metropolitan Statistical Area",Metropolitan
+53007,48300,"Wenatchee, WA Metropolitan Statistical Area",Metropolitan
+53009,38820,"Port Angeles, WA Micropolitan Statistical Area",Micropolitan
+53011,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+53015,31020,"Longview-Kelso, WA Metropolitan Statistical Area",Metropolitan
+53017,48300,"Wenatchee, WA Metropolitan Statistical Area",Metropolitan
+53021,28420,"Kennewick-Richland-Pasco, WA Metropolitan Statistical Area",Metropolitan
+53025,34180,"Moses Lake, WA Micropolitan Statistical Area",Micropolitan
+53027,10140,"Aberdeen, WA Micropolitan Statistical Area",Micropolitan
+53029,36020,"Oak Harbor, WA Micropolitan Statistical Area",Micropolitan
+53033,42660,"Seattle-Bellevue-Everett, WA Metropolitan Division",Metropolitan
+53035,14740,"Bremerton-Silverdale, WA Metropolitan Statistical Area",Metropolitan
+53037,21260,"Ellensburg, WA Micropolitan Statistical Area",Micropolitan
+53041,16500,"Centralia, WA Micropolitan Statistical Area",Micropolitan
+53045,43220,"Shelton, WA Micropolitan Statistical Area",Micropolitan
+53053,42660,"Tacoma, WA Metropolitan Division",Metropolitan
+53057,34580,"Mount Vernon-Anacortes, WA Metropolitan Statistical Area",Metropolitan
+53059,38900,"Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",Metropolitan
+53061,42660,"Seattle-Bellevue-Everett, WA Metropolitan Division",Metropolitan
+53063,44060,"Spokane, WA Metropolitan Statistical Area",Metropolitan
+53067,36500,"Olympia, WA Metropolitan Statistical Area",Metropolitan
+53071,47460,"Walla Walla, WA Micropolitan Statistical Area",Micropolitan
+53073,13380,"Bellingham, WA Metropolitan Statistical Area",Metropolitan
+53075,39420,"Pullman, WA Micropolitan Statistical Area",Micropolitan
+53077,49420,"Yakima, WA Metropolitan Statistical Area",Metropolitan
+54003,25180,"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",Metropolitan
+54005,16620,"Charleston, WV Metropolitan Statistical Area",Metropolitan
+54009,48260,"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",Metropolitan
+54011,26580,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",Metropolitan
+54015,16620,"Charleston, WV Metropolitan Statistical Area",Metropolitan
+54017,17220,"Clarksburg, WV Micropolitan Statistical Area",Micropolitan
+54019,36060,"Oak Hill, WV Micropolitan Statistical Area",Micropolitan
+54027,49020,"Winchester, VA-WV Metropolitan Statistical Area",Metropolitan
+54029,48260,"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",Metropolitan
+54033,17220,"Clarksburg, WV Micropolitan Statistical Area",Micropolitan
+54037,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",Metropolitan
+54039,16620,"Charleston, WV Metropolitan Statistical Area",Metropolitan
+54043,16620,"Charleston, WV Metropolitan Statistical Area",Metropolitan
+54049,21900,"Fairmont, WV Micropolitan Statistical Area",Micropolitan
+54051,48540,"Wheeling, WV-OH Metropolitan Statistical Area",Metropolitan
+54053,38580,"Point Pleasant, WV-OH Micropolitan Statistical Area",Micropolitan
+54055,14140,"Bluefield, WV-VA Micropolitan Statistical Area",Micropolitan
+54057,19060,"Cumberland, MD-WV Metropolitan Statistical Area",Metropolitan
+54061,34060,"Morgantown, WV Metropolitan Statistical Area",Metropolitan
+54065,25180,"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",Metropolitan
+54069,48540,"Wheeling, WV-OH Metropolitan Statistical Area",Metropolitan
+54073,37620,"Parkersburg-Marietta, WV-OH Metropolitan Statistical Area",Metropolitan
+54077,34060,"Morgantown, WV Metropolitan Statistical Area",Metropolitan
+54079,16620,"Charleston, WV Metropolitan Statistical Area",Metropolitan
+54081,13220,"Beckley, WV Micropolitan Statistical Area",Micropolitan
+54091,17220,"Clarksburg, WV Micropolitan Statistical Area",Micropolitan
+54099,26580,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",Metropolitan
+54105,37620,"Parkersburg-Marietta, WV-OH Metropolitan Statistical Area",Metropolitan
+54107,37620,"Parkersburg-Marietta, WV-OH Metropolitan Statistical Area",Metropolitan
+55009,24580,"Green Bay, WI Metropolitan Statistical Area",Metropolitan
+55015,11540,"Appleton, WI Metropolitan Statistical Area",Metropolitan
+55017,20740,"Eau Claire, WI Metropolitan Statistical Area",Metropolitan
+55021,31540,"Madison, WI Metropolitan Statistical Area",Metropolitan
+55025,31540,"Madison, WI Metropolitan Statistical Area",Metropolitan
+55027,13180,"Beaver Dam, WI Micropolitan Statistical Area",Micropolitan
+55031,20260,"Duluth, MN-WI Metropolitan Statistical Area",Metropolitan
+55033,32860,"Menomonie, WI Micropolitan Statistical Area",Micropolitan
+55035,20740,"Eau Claire, WI Metropolitan Statistical Area",Metropolitan
+55037,27020,"Iron Mountain, MI-WI Micropolitan Statistical Area",Micropolitan
+55039,22540,"Fond du Lac, WI Metropolitan Statistical Area",Metropolitan
+55043,38420,"Platteville, WI Micropolitan Statistical Area",Micropolitan
+55045,33820,"Monroe, WI Micropolitan Statistical Area",Micropolitan
+55049,31540,"Madison, WI Metropolitan Statistical Area",Metropolitan
+55055,48020,"Watertown-Fort Atkinson, WI Micropolitan Statistical Area",Micropolitan
+55059,16980,"Lake County-Kenosha County, IL-WI Metropolitan Division",Metropolitan
+55061,24580,"Green Bay, WI Metropolitan Statistical Area",Metropolitan
+55063,29100,"La Crosse, WI-MN Metropolitan Statistical Area",Metropolitan
+55069,32980,"Merrill, WI Micropolitan Statistical Area",Micropolitan
+55071,31820,"Manitowoc, WI Micropolitan Statistical Area",Micropolitan
+55073,48140,"Wausau, WI Metropolitan Statistical Area",Metropolitan
+55075,31940,"Marinette, WI-MI Micropolitan Statistical Area",Micropolitan
+55079,33340,"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",Metropolitan
+55083,24580,"Green Bay, WI Metropolitan Statistical Area",Metropolitan
+55087,11540,"Appleton, WI Metropolitan Statistical Area",Metropolitan
+55089,33340,"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",Metropolitan
+55093,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+55097,44620,"Stevens Point, WI Micropolitan Statistical Area",Micropolitan
+55101,39540,"Racine, WI Metropolitan Statistical Area",Metropolitan
+55105,27500,"Janesville, WI Metropolitan Statistical Area",Metropolitan
+55109,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",Metropolitan
+55111,12660,"Baraboo, WI Micropolitan Statistical Area",Micropolitan
+55117,43100,"Sheboygan, WI Metropolitan Statistical Area",Metropolitan
+55127,48580,"Whitewater, WI Micropolitan Statistical Area",Micropolitan
+55131,33340,"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",Metropolitan
+55133,33340,"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",Metropolitan
+55139,36780,"Oshkosh-Neenah, WI Metropolitan Statistical Area",Metropolitan
+55141,49220,"Wisconsin Rapids-Marshfield, WI Micropolitan Statistical Area",Micropolitan
+56001,29660,"Laramie, WY Micropolitan Statistical Area",Micropolitan
+56005,23940,"Gillette, WY Micropolitan Statistical Area",Micropolitan
+56013,40180,"Riverton, WY Micropolitan Statistical Area",Micropolitan
+56021,16940,"Cheyenne, WY Metropolitan Statistical Area",Metropolitan
+56025,16220,"Casper, WY Metropolitan Statistical Area",Metropolitan
+56033,43260,"Sheridan, WY Micropolitan Statistical Area",Micropolitan
+56037,40540,"Rock Springs, WY Micropolitan Statistical Area",Micropolitan
+56039,27220,"Jackson, WY-ID Micropolitan Statistical Area",Micropolitan
+56041,21740,"Evanston, WY Micropolitan Statistical Area",Micropolitan
+72001,10260,"Adjuntas, PR Micropolitan Statistical Area",Micropolitan
+72003,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72005,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72007,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72009,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72011,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72013,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72015,25020,"Guayama, PR Metropolitan Statistical Area",Metropolitan
+72017,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72019,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72021,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72023,41900,"San Germán-Cabo Rojo, PR Metropolitan Statistical Area",Metropolitan
+72025,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72027,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72029,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72031,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72033,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72035,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72037,21940,"Fajardo, PR Metropolitan Statistical Area",Metropolitan
+72039,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72041,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72043,17620,"Coamo, PR Micropolitan Statistical Area",Micropolitan
+72045,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72047,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72051,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72053,21940,"Fajardo, PR Metropolitan Statistical Area",Metropolitan
+72054,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72055,49500,"Yauco, PR Metropolitan Statistical Area",Metropolitan
+72057,25020,"Guayama, PR Metropolitan Statistical Area",Metropolitan
+72059,49500,"Yauco, PR Metropolitan Statistical Area",Metropolitan
+72061,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72063,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72065,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72067,32420,"Mayagüez, PR Metropolitan Statistical Area",Metropolitan
+72069,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72071,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72073,27580,"Jayuya, PR Micropolitan Statistical Area",Micropolitan
+72075,38660,"Ponce, PR Metropolitan Statistical Area",Metropolitan
+72077,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72079,41900,"San Germán-Cabo Rojo, PR Metropolitan Statistical Area",Metropolitan
+72081,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72085,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72087,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72089,21940,"Fajardo, PR Metropolitan Statistical Area",Metropolitan
+72091,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72095,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72097,32420,"Mayagüez, PR Metropolitan Statistical Area",Metropolitan
+72099,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72101,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72103,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72105,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72107,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72109,25020,"Guayama, PR Metropolitan Statistical Area",Metropolitan
+72111,49500,"Yauco, PR Metropolitan Statistical Area",Metropolitan
+72113,38660,"Ponce, PR Metropolitan Statistical Area",Metropolitan
+72115,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72117,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72119,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72121,41900,"San Germán-Cabo Rojo, PR Metropolitan Statistical Area",Metropolitan
+72125,41900,"San Germán-Cabo Rojo, PR Metropolitan Statistical Area",Metropolitan
+72127,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72129,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72131,10380,"Aguadilla-Isabela-San Sebastián, PR Metropolitan Statistical Area",Metropolitan
+72133,42180,"Santa Isabel, PR Micropolitan Statistical Area",Micropolitan
+72135,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72137,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72139,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72141,46580,"Utuado, PR Micropolitan Statistical Area",Micropolitan
+72143,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72145,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72149,38660,"Ponce, PR Metropolitan Statistical Area",Metropolitan
+72151,41980,"San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area",Metropolitan
+72153,49500,"Yauco, PR Metropolitan Statistical Area",Metropolitan

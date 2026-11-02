@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "source_catalog": "provenance/usaspending_source_catalog_20261023.json",
+  "source_catalog_sha256": "0fe55cb79dc4d5d9a435fdbbdbf335e1a55f0832d792f8706e1b56c9249bed7f",
+  "pinned_code_commit": "fc9df562037324ecfeb1cae1d34de8b13d408ce5",
+  "raw_to_results_certified": false,
+  "public_deposit_url": null,
+  "archives": [
+    {
+      "id": "usaspending_fy2007",
+      "fiscal_year": 2007,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2007_097_Contracts_Full_20260806.zip",
+      "bytes": 466997027,
+      "sha256": "88e28719b289efbf8cec5693c001fa9bcf2197b3972139c162dbd9d3b5f61b86",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2007_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2008",
+      "fiscal_year": 2008,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2008_097_Contracts_Full_20260806.zip",
+      "bytes": 493254520,
+      "sha256": "06fa327a912f61ebff5aa710babc4f3d59b40b6bd8497025a06e859d28598653",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2008_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2009",
+      "fiscal_year": 2009,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2009_097_Contracts_Full_20260806.zip",
+      "bytes": 476579180,
+      "sha256": "996b393688c4c450fd069e654d4bb6ba62eff8ee51ce759b14a4da4dd2ec073d",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2009_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2010",
+      "fiscal_year": 2010,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2010_097_Contracts_Full_20260806.zip",
+      "bytes": 497105017,
+      "sha256": "03f18650fdc642c1cd69544730948f6d9bed340fba0925a89955a233a28ac4c3",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2010_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2011",
+      "fiscal_year": 2011,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2011_097_Contracts_Full_20260806.zip",
+      "bytes": 494528908,
+      "sha256": "9599eead7c0e42174f706cffac71da9985a72328c456ca289a345b257e00cb8c",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2011_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2012",
+      "fiscal_year": 2012,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2012_097_Contracts_Full_20260806.zip",
+      "bytes": 472762531,
+      "sha256": "c348fa57d5b717b4583e1403ece6b76d96b62b22513fe70158de11478de62361",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2012_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2013",
+      "fiscal_year": 2013,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2013_097_Contracts_Full_20260806.zip",
+      "bytes": 435310051,
+      "sha256": "af949d826233333aa47783bc733acd50f582a5a79f59d288f014e82ecf6759ed",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2013_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2014",
+      "fiscal_year": 2014,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2014_097_Contracts_Full_20260806.zip",
+      "bytes": 440232751,
+      "sha256": "fc7eeb3628cbdeeb5401e857ee1ce7b0273b10659547a5d742515323bf1152a2",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2014_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2015",
+      "fiscal_year": 2015,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2015_097_Contracts_Full_20260806.zip",
+      "bytes": 852094335,
+      "sha256": "3b565de4d504a19aef54bc09ea59d11a6a1d6aa1a73e68be83a8a433a667ddaf",
+      "zip_members": 4,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2015_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2016",
+      "fiscal_year": 2016,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2016_097_Contracts_Full_20260806.zip",
+      "bytes": 970596480,
+      "sha256": "7da7b54353124135fd801c502e42034e919a713ebffb8e528a43c294cfb0c4e1",
+      "zip_members": 4,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2016_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2017",
+      "fiscal_year": 2017,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2017_097_Contracts_Full_20260806.zip",
+      "bytes": 978887165,
+      "sha256": "02b59c9f423e57c72268e6dc5ef959b5d1afd193de9297d08399617477390e14",
+      "zip_members": 4,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2017_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_fy2018",
+      "fiscal_year": 2018,
+      "role": "production_fy2007_2018",
+      "vintage": "2026-08-06",
+      "path": "production/FY2018_097_Contracts_Full_20260806.zip",
+      "bytes": 1163280107,
+      "sha256": "9e301f2536f94162e80c3b7aff2817788511d10080fe0f313440bd83ccf1ae63",
+      "zip_members": 5,
+      "original_url": "https://files.usaspending.gov/award_data_archive/FY2018_097_Contracts_Full_20260806.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2001",
+      "fiscal_year": 2001,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2001/All_PrimeTransactions_2026-08-14_H12M12S44925658.zip",
+      "bytes": 107519543,
+      "sha256": "fe8e23482d1ea32d0ab218a4dddfab2bf4c54f9d1b4e0d28a38326c7fc0bfec1",
+      "zip_members": 1,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M12S44925658.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2002",
+      "fiscal_year": 2002,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2002/All_PrimeTransactions_2026-08-14_H12M51S07028762.zip",
+      "bytes": 158759404,
+      "sha256": "7336efdd04f4345a2f84a1befa5c7c458997b3b6061c8f9474eaaa4ca8bee8f7",
+      "zip_members": 1,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M51S07028762.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2003",
+      "fiscal_year": 2003,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2003/All_PrimeTransactions_2026-08-14_H12M59S11782179.zip",
+      "bytes": 203326757,
+      "sha256": "e555e3df510057b4e4c4c9215a022d7e6530f6d3f439a03acda97ffecc689802",
+      "zip_members": 1,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S11782179.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2004",
+      "fiscal_year": 2004,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2004/All_PrimeTransactions_2026-08-14_H12M59S13440949.zip",
+      "bytes": 253288709,
+      "sha256": "96e4cd41a386d4b8f7fecaf4b133803bbd03c71e06f22f69a0671bd2839fd9b8",
+      "zip_members": 1,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S13440949.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2005",
+      "fiscal_year": 2005,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2005/All_PrimeTransactions_2026-08-14_H12M59S15018810.zip",
+      "bytes": 452525420,
+      "sha256": "5b70428c10f50c0b96b55383dfd2bd6ddb149ea0dcbab9547aa404e2c0cda508",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S15018810.zip"
+    },
+    {
+      "id": "usaspending_overlap_fy2006",
+      "fiscal_year": 2006,
+      "role": "diagnostic_only_not_production",
+      "vintage": "2026-08-14",
+      "path": "diagnostics/fy2006/All_PrimeTransactions_2026-08-14_H12M59S16662834.zip",
+      "bytes": 442588523,
+      "sha256": "523ef9b8a63ffe9514107140a5284974eef16665c5ad0b85fe84f2d4110bd37e",
+      "zip_members": 2,
+      "original_url": "https://files.usaspending.gov/generated_downloads/All_PrimeTransactions_2026-08-14_H12M59S16662834.zip"
+    }
+  ],
+  "metadata": [
+    {
+      "path": "production/manifest.csv",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/manifest.csv",
+      "sha256": "0bb966d831be8f4ac8ef6e9708da952a31138ad1cf2019e5db5bc018d13149c0",
+      "bytes": 2430
+    },
+    {
+      "path": "production/download_receipt.csv",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/download_receipt.csv",
+      "sha256": "d2818ebff0bbb92bcfb8c56b8ca4727af0eaea4ec01dce486c3f6b8a9642b586",
+      "bytes": 2768
+    },
+    {
+      "path": "diagnostics/download_receipt.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/download_receipt.json",
+      "sha256": "e6bafcf883d9d2c4bd7d78c2794ad8142083dae88acc6686fae5b7554a8d56e6",
+      "bytes": 6455
+    },
+    {
+      "path": "diagnostics/fy2001/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2001/overlap_request.json",
+      "sha256": "996151f601d7f78a636006d0a303ea58bbe791d4c52cfe0befb2886ade90cca6",
+      "bytes": 1468
+    },
+    {
+      "path": "diagnostics/fy2002/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2002/overlap_request.json",
+      "sha256": "c9b41f915c73f5ea3a2c138e1d94da94eb30c9d8754a2d90a69d5cb50f5089d9",
+      "bytes": 1468
+    },
+    {
+      "path": "diagnostics/fy2003/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2003/overlap_request.json",
+      "sha256": "c4fe2ba825da7f1662252263475ad0c0f707b7e59bed5c387f5b687cee27616f",
+      "bytes": 1468
+    },
+    {
+      "path": "diagnostics/fy2004/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2004/overlap_request.json",
+      "sha256": "2480044730ff30800680d54d9e02a81cbb5f0b06adcbad5e08fd4e4636d9bf4b",
+      "bytes": 1468
+    },
+    {
+      "path": "diagnostics/fy2005/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2005/overlap_request.json",
+      "sha256": "13e94a6575f9a7ce142d1055b0a70ae6c0680d44c0dc8d75e52be313769db62b",
+      "bytes": 1468
+    },
+    {
+      "path": "diagnostics/fy2006/overlap_request.json",
+      "preserved_evidence": "provenance/upstream_recovery_20261023/usaspending/overlap/fy2006/overlap_request.json",
+      "sha256": "b0374741111eb7f06eada0f4e1bf49005055c952b62ebda85eefbe446fe6381c",
+      "bytes": 1468
+    }
+  ]
+}

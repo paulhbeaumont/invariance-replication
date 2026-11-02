@@ -1,0 +1,14 @@
+{
+  "git_commit": "fc9df562037324ecfeb1cae1d34de8b13d408ce5",
+  "evidence": "entry_points_and_selected_functions_inspected_not_executed",
+  "files": {
+    "step_1/code/py/53_ns14_exact_replication.py": "8094811f3732ca141df6827bc38365b2f7b11241fff49e21b6770c7339fcfe0a",
+    "step_1/code/py/52_journey_ladder.py": "4e18bd221907c4aafc1717dea859cc2ddaeea5cb97c2fd670cf8afa9045e6083",
+    "step_1/code/py/51_county_multiplier_grid.py": "9d1b2d2e814478b68254e59f6c4e61ece2342aac81c6e9c01a099b973066620c",
+    "step_1/code/py/14_build_instrument.py": "c1d5e2281d4e0e547cdb11ba62fc24eca989159c6e0230c758e37a4c53b6f362",
+    "step_1/code/py/11_build_employment_cells.py": "d5ca09f18d0fe76f301c2f044494440cbfac32ecd216eda1b1e8b53a20d385da",
+    "step_1/code/py/dcads_common.py": "2244d364afc768a9c040fa48a74ff9236746b6f0576e2db727cad50b7457d9c3",
+    "step_1/code/pipeline/lib/contracts.py": "ab244dcbfd0435f64fd559421af90293017bb6a5177b2e29216a779f2b3abe75",
+    "step_2/code/py/mpgr_disagg.py": "66cfbc22edd8b09015398fd4e2109850b14d3a55c2cc19b497abed6b4ffccefd"
+  }
+}

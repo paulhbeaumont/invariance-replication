@@ -1,0 +1,41 @@
+{
+  "id": "aggregation_std_current_z_h24",
+  "horizons": [
+    2,
+    4
+  ],
+  "rungs": [
+    "czone",
+    "cea",
+    "ea",
+    "state"
+  ],
+  "last_year": 2016,
+  "outcome": "(E-E_b)/E_b",
+  "regressor": "saved current county z; aggregate sum(E_b/sum(E_b)*z)",
+  "estimator": "reduced_form_WLS",
+  "county_weights": "E_b/sum(E_b) within rung-year",
+  "aggregate_weights": "equal",
+  "county_fixed_effects": [
+    "county",
+    "year"
+  ],
+  "aggregate_fixed_effects": [
+    "unit",
+    "year"
+  ],
+  "cluster": "rung_unit",
+  "naive_delta": "beta_aggregate-beta_county_noaug",
+  "spill_delta": "coefficient on aggregate exposure in augmented county regression",
+  "geography": "first nonmissing assignment by source row order; whole CCG; 2231 CEA761 and 4012 CEA789",
+  "sources": {
+    "aggregation_county_ccg_crosswalk.csv": {
+      "source": "4_Macro_version/step_1/code/reference/county_ccg_crosswalk.csv",
+      "sha256": "fecef2c188211e615c896dda6c06c371e1438c7cc1deb9c6aa0109523ba656c1"
+    },
+    "aggregation_county_bea_area_2004.csv": {
+      "source": "4_Macro_version/step_1/code/reference/county_bea_area_2004.csv",
+      "sha256": "6b27c28fbe24a85f4f6ee4450a6a2ddeb7e9e82957a84810f3f2878cd14fc601"
+    }
+  }
+}

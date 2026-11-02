@@ -1,0 +1,24 @@
+{
+  "status": "approved",
+  "horizons": [
+    2,
+    3,
+    4
+  ],
+  "rungs": [
+    "naics2",
+    "naics4_alloc"
+  ],
+  "variants": {
+    "midpoint_survivors": "(cell E_t+cell E_t-h)/sum_surviving_cells(E_t+E_t-h)",
+    "lag_full_county": "cell E_t-h/full_county E_t-h"
+  },
+  "natural_log_sample": "positive_both_endpoints",
+  "fixed_effects": [
+    "county",
+    "year"
+  ],
+  "cluster": "county",
+  "baseline_unchanged": true,
+  "full_county_midpoint_role": "separate_comparison_not_survivor_normalized_benchmark"
+}

@@ -1,0 +1,147 @@
+zark_state,zark_county,county_name,fy_from,fy_to,fips5,kind,note
+02,001,,1966,1967,02010,alaska,ALEUTIAN ISLAND JD3 -> Aleutian Islands.
+02,001,,1968,1973,02010,alaska,ALEUTIAN ISLANDS.
+02,003,,1966,1967,02020,alaska,ANCHORAGE JD3 -> Anchorage.
+02,003,,1968,1973,02020,alaska,ANCHORAGE.
+02,005,,1966,1967,02050,alaska,BETHEL JD4 -> Bethel. The same code carries BARROW-KOBUK from FY1968.
+02,005,,1968,1973,02040,alaska,"BARROW-KOBUK. Judgement: the 1960 division split into Barrow/North Slope and Kobuk; assigned to Barrow/North Slope, the larger part."
+02,007,,1968,1973,02050,alaska,BETHEL.
+02,009,,1966,1967,02180,alaska,CAPE NOME JD2 -> Nome. The same code carries BRISTOL BAY from FY1968.
+02,009,,1968,1973,02070,alaska,"BRISTOL BAY. Judgement: the division (02070), not the borough (02060), which the file names BRISTOL BAY BOROUGH from FY1973."
+02,011,,1966,1967,02260,alaska,CHITINA JD3 -> Valdez-Chitina-Whittier.
+02,011,,1968,1973,02080,alaska,"CORDOVA-VALDEZ. Judgement: the 1960 division split into Cordova-McCarthy and Valdez-Chitina-Whittier; assigned to Cordova-McCarthy, which carries the name."
+02,013,,1966,1967,02250,alaska,CIRCLE JD4 -> Upper Yukon. The same code carries FAIRBANKS-UP YUKON from FY1968.
+02,013,,1968,1973,02090,alaska,"FAIRBANKS-UP YUKON. Judgement: Fairbanks and Upper Yukon are separate divisions from FY1973; assigned to Fairbanks, which holds the volume."
+02,015,,1966,1967,02080,alaska,CORDOVA JD3 -> Cordova-McCarthy. The same code carries JUNEAU from FY1968.
+02,015,,1968,1973,02110,alaska,JUNEAU.
+02,017,,1966,1967,02250,alaska,EAGLE JD4 -> Upper Yukon. The same code carries KENAI-COOK INLET from FY1968.
+02,017,,1968,1973,02120,alaska,KENAI-COOK INLET.
+02,019,,1966,1967,02090,alaska,FAIRBANKS JD4 -> Fairbanks. The same code carries KETCHIKAN from FY1968.
+02,019,,1968,1973,02130,alaska,KETCHIKAN.
+02,021,,1968,1973,02150,alaska,KODIAK.
+02,023,,1968,1973,02160,alaska,KUSKOKWIM-YUKON -> Kuskokwim.
+02,025,,1966,1967,02100,alaska,HAINES JD1 -> Haines.
+02,025,,1968,1973,02100,alaska,"LYNN CANAL-ICY STRAITS. Judgement: the 1960 division covers Haines, Skagway-Yakutat and Angoon; assigned to Haines, which the same code carries in FY1966-67."
+02,027,,1966,1967,02120,alaska,HOMER JD3 -> Kenai-Cook Inlet. The same code carries NOME from FY1968.
+02,027,,1968,1973,02180,alaska,NOME.
+02,029,,1968,1973,02170,alaska,PALMER -> Matanuska-Susitna.
+02,031,,1968,1973,02210,alaska,SEWARD.
+02,033,,1968,1973,02220,alaska,SITKA.
+02,035,,1968,1973,02270,alaska,WADE HAMPTON.
+02,037,,1966,1967,02110,alaska,JUNEAU JD1 -> Juneau. The same code carries WRANGELL-PETERSBURG from FY1971.
+02,037,,1968,1973,02280,alaska,WRANGELL-PETERSBURG. FY1971-72 only; the same code carries JUNEAU JD1 in FY1966-67.
+02,041,,1966,1967,02150,alaska,KODIAK JD3 -> Kodiak.
+02,045,,1966,1967,02290,alaska,KOYUKUK JD4 -> Yukon-Koyukuk.
+02,047,,1968,1973,02160,alaska,KUSKOKWIM.
+02,049,,1966,1967,02070,alaska,"KVICHAK JD3 -> Bristol Bay division. Judgement: the Kvichak drainage is the Bristol Bay division, not the borough (02060)."
+02,055,,1966,1967,02290,alaska,"NENANA JD4 -> Yukon-Koyukuk. Nenana sits in the Yukon-Koyukuk area, not in Fairbanks."
+02,057,,1966,1967,02140,alaska,NOATAK&KOBUK JD2 -> Kobuk.
+02,059,,1966,1967,02290,alaska,NULATO JD4 -> Yukon-Koyukuk.
+02,063,,1966,1967,02170,alaska,PALMER JD3 -> Matanuska-Susitna.
+02,069,,1966,1967,02120,alaska,SELDOVIA JD3 -> Kenai-Cook Inlet.
+02,071,,1966,1967,02210,alaska,SEWARD JD3 -> Seward.
+02,073,,1966,1967,02220,alaska,SITKA JD1 -> Sitka.
+02,083,,1966,1967,02260,alaska,VALDEZ JD3 -> Valdez-Chitina-Whittier.
+02,089,,1966,1967,02260,alaska,WHITTIER JD3 -> Valdez-Chitina-Whittier.
+02,122,,1983,1983,02122,alaska,KENAI PENINSULA. A 1980-census borough code appearing in FY1983 alongside ZALF's 1970-census divisions; recorded as written.
+02,185,,1983,1983,02185,alaska,NORTH SLOPE. A 1980-census borough code appearing in FY1983 alongside ZALF's 1970-census divisions; recorded as written.
+02,261,,1983,1983,02261,alaska,VALDEZ-CORDOVA. A 1980-census borough code appearing in FY1983 alongside ZALF's 1970-census divisions; recorded as written.
+13,402,,1966,1966,16079,typo,"Idaho Shoshone County is ZARK 040. 402 is outside the Idaho range and appears once, in FY1966."
+21,004,,1966,1967,24510,renumbering,"Baltimore city under the pre-FY1968 Maryland numbering; continues as ZARK 510 from FY1968 at the same volume (about 1,900 actions a year before, 1,800 after)."
+31,031,ESSEX,1966,1968,34013,typo,"New Jersey runs ZARK 001-021; 031 is outside the range and carries two different county names in the same years, so it is split on the recorded name."
+31,031,MIDDLESEX,1966,1968,34023,typo,See the ESSEX row for ZARK 31/031.
+38,001,,1966,1983,41001,zalf_patch,ZALF leaves the FIPS county blank on Oregon Baker; FIPS 6-4 is 001.
+43,116,,1966,1983,47087,zalf_patch,"ZALF gives 098, which is not a valid Tennessee county code. The record names JACKSON, which is 087 and is also carried on ZARK 044. One action, FY1980."
+47,028,,1966,1967,51650,renumbering,"Elizabeth City County merged into Hampton city in 1952; ZARK kept the old county code until FY1968, after which the same work appears on ZARK 650 = Hampton city at the same volume (99-104 actions a year before, 109-112 after)."
+47,062,,1966,1983,51123,renumbering,"Nansemond County, abolished 1974. Kept on its own contemporaneous FIPS rather than folded into Suffolk: ZARK 800 = Suffolk city runs alongside it from FY1968 and ZARK 695 = Nansemond city has its own ZALF record."
+47,065,,1966,1967,51710,renumbering,"Norfolk city. The series continues into ZARK 710 = Norfolk city from FY1968 at the same volume (574-662 actions a year before, 592-781 after). Not Norfolk County, whose successor ZARK 550 = Chesapeake runs an order of magnitude smaller."
+47,077,,1966,1967,51810,renumbering,"Princess Anne County merged into Virginia Beach in 1963; continues as ZARK 810 = Virginia Beach from FY1968 at the same volume (84/72 before, 62-100 after)."
+47,095,,1966,1967,51700,renumbering,"Warwick County merged into Newport News in 1958; continues as ZARK 700 = Newport News from FY1968 (685/540 before, 400-516 after). Newport News Shipbuilding is most of it."
+47,101,,1966,1967,51510,renumbering,"Alexandria city under the pre-FY1968 Virginia numbering; continues as ZARK 510 from FY1968 at the same volume (407/375 before, 339-386 after)."
+47,119,,1966,1967,51199,renumbering,"York County under the pre-FY1968 Virginia numbering; continues as ZARK 100 = York from FY1968 (12/14 before, 10-26 after)."
+PR,001,,1972,1983,72001,puerto_rico,ADJUNTAS.
+PR,002,,1972,1983,72003,puerto_rico,AGUADA.
+PR,003,,1972,1983,72005,puerto_rico,AGUADILLA.
+PR,004,,1972,1983,72007,puerto_rico,AGUGAS BUENAS.
+PR,006,,1972,1983,72009,puerto_rico,AIBONITO.
+PR,007,,1972,1983,72011,puerto_rico,ANASCO.
+PR,009,,1972,1983,72013,puerto_rico,ARECIBO.
+PR,010,,1966,1971,72005,puerto_rico,"AGUADILLA, under the coarse FY1966-71 Puerto Rico numbering."
+PR,010,,1972,1983,72015,puerto_rico,ARROYO.
+PR,012,,1972,1983,72017,puerto_rico,BARCELONETA.
+PR,013,,1972,1983,72019,puerto_rico,BARRANQUITAS.
+PR,014,,1972,1983,72021,puerto_rico,BAYAMON.
+PR,016,,1972,1983,72023,puerto_rico,CABO ROJO.
+PR,017,,1972,1983,72025,puerto_rico,CAGUAS.
+PR,018,,1972,1983,72027,puerto_rico,CAMUY.
+PR,019,,1972,1983,72029,puerto_rico,CANOVANAS.
+PR,020,,1966,1971,72013,puerto_rico,"ARECIBO, under the coarse FY1966-71 Puerto Rico numbering."
+PR,020,,1972,1983,72031,puerto_rico,CAROLINA.
+PR,022,,1972,1983,72033,puerto_rico,CATANO.
+PR,023,,1972,1983,72035,puerto_rico,CAYEY.
+PR,024,,1972,1983,72037,puerto_rico,CEIBA.
+PR,027,,1972,1983,72039,puerto_rico,CIALES.
+PR,028,,1972,1983,72041,puerto_rico,CIDRA.
+PR,029,,1972,1983,72043,puerto_rico,COAMO.
+PR,030,,1966,1971,72057,puerto_rico,"GUAYAMA, under the coarse FY1966-71 Puerto Rico numbering."
+PR,031,,1972,1983,72045,puerto_rico,COMERIO.
+PR,032,,1972,1983,72047,puerto_rico,COROZAL.
+PR,035,,1972,1983,72049,puerto_rico,CULEBRA.
+PR,036,,1972,1983,72051,puerto_rico,DORADO.
+PR,038,,1972,1983,72053,puerto_rico,FAJARDO.
+PR,039,,1972,1983,72054,puerto_rico,FLORIDA.
+PR,040,,1966,1971,72069,puerto_rico,"HUMACAO, under the coarse FY1966-71 Puerto Rico numbering."
+PR,042,,1972,1983,72055,puerto_rico,GUANICA.
+PR,043,,1972,1983,72057,puerto_rico,GUAYAMA.
+PR,044,,1972,1983,72059,puerto_rico,GUAYANILLA.
+PR,045,,1972,1983,72061,puerto_rico,GUAYNABO.
+PR,046,,1972,1983,72063,puerto_rico,GURABO.
+PR,047,,1972,1983,72065,puerto_rico,HATILLO.
+PR,049,,1972,1983,72067,puerto_rico,HORMIGUEROS.
+PR,050,,1966,1971,72097,puerto_rico,"MAYAGUEZ, under the coarse FY1966-71 Puerto Rico numbering."
+PR,050,,1972,1983,72069,puerto_rico,HUMACAO.
+PR,051,,1972,1983,72071,puerto_rico,ISABELA.
+PR,052,,1972,1983,72073,puerto_rico,JAYUYA.
+PR,053,,1972,1983,72075,puerto_rico,JUANA DIAZ.
+PR,054,,1972,1983,72077,puerto_rico,JUNCOS.
+PR,055,,1972,1983,72079,puerto_rico,LAJAS.
+PR,057,,1972,1983,72081,puerto_rico,LARES.
+PR,058,,1972,1983,72083,puerto_rico,LAS MARIAS.
+PR,059,,1972,1983,72085,puerto_rico,LAS PIEDRAS.
+PR,060,,1966,1971,72113,puerto_rico,"PONCE, under the coarse FY1966-71 Puerto Rico numbering."
+PR,060,,1972,1983,72087,puerto_rico,LOIZA.
+PR,061,,1972,1983,72089,puerto_rico,LUQUILLO.
+PR,062,,1972,1983,72091,puerto_rico,MANATI.
+PR,063,,1972,1983,72093,puerto_rico,MARICAO.
+PR,064,,1972,1983,72095,puerto_rico,MAUNABO.
+PR,065,,1972,1983,72097,puerto_rico,MAYAGUEZ.
+PR,067,,1972,1983,72099,puerto_rico,MOCA.
+PR,068,,1972,1983,72101,puerto_rico,MOROVIS.
+PR,069,,1972,1983,72103,puerto_rico,NAGUABO.
+PR,070,,1966,1971,72127,puerto_rico,"SAN JUAN, under the coarse FY1966-71 Puerto Rico numbering."
+PR,070,,1972,1983,72105,puerto_rico,NARANIJITO.
+PR,071,,1972,1983,72107,puerto_rico,OROCOVIS.
+PR,074,,1972,1983,72109,puerto_rico,PATILLAS.
+PR,075,,1972,1983,72111,puerto_rico,PENUELAS.
+PR,076,,1972,1983,72113,puerto_rico,PONCE.
+PR,079,,1972,1983,72115,puerto_rico,QUEBRADILLAS.
+PR,080,,1966,1971,72147,puerto_rico,"VIEQUES, under the coarse FY1966-71 Puerto Rico numbering."
+PR,080,,1972,1983,72117,puerto_rico,RINCON.
+PR,082,,1972,1983,72119,puerto_rico,RIO GRANDE.
+PR,086,,1972,1983,72121,puerto_rico,SABANA GRANDE.
+PR,090,,1972,1983,72123,puerto_rico,SALINAS.
+PR,092,,1972,1983,72125,puerto_rico,SAN GERMAN.
+PR,093,,1972,1983,72127,puerto_rico,SAN JUAN.
+PR,094,,1972,1983,72129,puerto_rico,SAN LORENZO.
+PR,095,,1972,1983,72131,puerto_rico,SAN SEBASTIAN.
+PR,096,,1972,1983,72133,puerto_rico,SANTA ISABEL.
+PR,097,,1972,1983,72135,puerto_rico,TOA ALTA.
+PR,098,,1972,1983,72137,puerto_rico,TOA BAJA.
+PR,099,,1972,1983,72139,puerto_rico,TRUJILLO ALTO.
+PR,100,,1972,1983,72141,puerto_rico,UTUADO.
+PR,101,,1972,1983,72143,puerto_rico,VEGA ALTA.
+PR,102,,1972,1983,72145,puerto_rico,VEGA BAJA.
+PR,103,,1972,1983,72147,puerto_rico,VIEQUES.
+PR,104,,1972,1983,72149,puerto_rico,VILLALBA.
+PR,105,,1972,1983,72151,puerto_rico,YABUCOA.
+PR,106,,1972,1983,72153,puerto_rico,YAUCO.

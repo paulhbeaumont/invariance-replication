@@ -1,0 +1,8 @@
+# The independent manifests pin exact bytes, including source/CSV line endings.
+# Do not let a future Git checkout rewrite those bytes on another operating system.
+* -text
+*.parquet binary
+*.zip binary
+*.pdf binary
+*.png binary
+*.gph binary

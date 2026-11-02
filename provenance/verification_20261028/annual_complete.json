@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "finished_utc": "2026-10-28T20:00:25.368776+00:00",
+  "workspace": "data/raw_rebuild/runs/20261028_clean_01",
+  "raw_to_results_certified": false,
+  "all_annual_data_generated_within_this_run": true,
+  "population_original_audit_status": "FAILED",
+  "population_application_warning": "KALAWAO_15005_OUTSIDE_FIXED_PAPER_SAMPLE"
+}

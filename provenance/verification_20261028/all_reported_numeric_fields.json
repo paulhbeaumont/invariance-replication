@@ -1,0 +1,2540 @@
+{
+  "status": "PASS",
+  "comparisons": 422,
+  "all_saved_common_numeric_fields_checked": true,
+  "reported_significance_categories_unchanged": true,
+  "checks": [
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "t",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "percent_deviation",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "1",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 1.734723475976807e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "F",
+      "absolute_difference": 1.4210854715202004e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "t",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "percent_deviation",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "2",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 2.0816681711721685e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "beta",
+      "absolute_difference": 6.776263578034403e-21
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "F",
+      "absolute_difference": 7.105427357601002e-15
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "t",
+      "absolute_difference": 8.881784197001252e-16
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "percent_deviation",
+      "absolute_difference": 1.2434497875801753e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "3",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 5.551115123125783e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "beta",
+      "absolute_difference": 1.2874900798265365e-19
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "se",
+      "absolute_difference": 2.371692252312041e-20
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "F",
+      "absolute_difference": 2.1316282072803006e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "t",
+      "absolute_difference": 5.995204332975845e-15
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "percent_deviation",
+      "absolute_difference": 2.1316282072803006e-13
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "4",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 1.582067810090848e-15
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "beta",
+      "absolute_difference": 2.608861477543245e-18
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "se",
+      "absolute_difference": 3.2187251995663413e-19
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "F",
+      "absolute_difference": 1.3216094885137863e-12
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "t",
+      "absolute_difference": 1.127986593019159e-13
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "percent_deviation",
+      "absolute_difference": 4.256150987203e-12
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "5",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 3.219646771412954e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "t",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "percent_deviation",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "6",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 5.898059818321144e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "beta",
+      "absolute_difference": 1.3552527156068805e-20
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "se",
+      "absolute_difference": 3.3881317890172014e-21
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "F",
+      "absolute_difference": 1.4210854715202004e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "t",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "percent_deviation",
+      "absolute_difference": 2.220446049250313e-14
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "7",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 5.204170427930421e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "t",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "percent_deviation",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "8",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 9.367506770274758e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "se",
+      "absolute_difference": 3.3881317890172014e-21
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "t",
+      "absolute_difference": 4.440892098500626e-16
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "percent_deviation",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "9",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 5.204170427930421e-17
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "beta",
+      "absolute_difference": 6.410345344820545e-18
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "se",
+      "absolute_difference": 7.792703114739563e-20
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "F",
+      "absolute_difference": 2.3447910280083306e-13
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "t",
+      "absolute_difference": 2.304822999121825e-13
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "percent_deviation",
+      "absolute_difference": 1.0091483204632823e-11
+    },
+    {
+      "reference": "displayed_estimates.csv",
+      "key": "10",
+      "field": "pvalue_from_saved_t",
+      "absolute_difference": 2.5916768731093498e-14
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "augmented_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "exposure_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "main",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "augmented_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "exposure_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "unweighted",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "augmented_se",
+      "absolute_difference": 1.6940658945086007e-21
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "exposure_se",
+      "absolute_difference": 3.3881317890172014e-21
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "log",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "augmented_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "exposure_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h2",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "augmented_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "exposure_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "h4",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "horizon",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "n_counties",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "n_county_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "n_units",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "n_aggregate_years",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "gap",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "gap_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "gap_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "identity_residual",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "county_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "county_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "county_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "county_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "aggregate_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "aggregate_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "aggregate_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "aggregate_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "augmented_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "augmented_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "augmented_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "augmented_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "exposure_beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "exposure_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "exposure_F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "aggregation_selected.csv",
+      "key": "cea",
+      "field": "exposure_p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'county', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'state', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'state', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'state', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(0, 'state', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'xc1')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'xc1')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'xc1')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'xc1')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'Q1')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'Q1')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'Q1')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'Q1')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'A1')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'A1')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'A1')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'county', 'A1')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'Q1')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'Q1')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'Q1')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'Q1')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'A1')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'A1')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'A1')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(1, 'state', 'A1')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'xc2')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'xc2')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'xc2')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'xc2')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'Q2')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'Q2')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'Q2')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'Q2')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'A2')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'A2')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'A2')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'county', 'A2')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'Q2')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'Q2')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'Q2')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'Q2')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'A2')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'A2')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'A2')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(2, 'state', 'A2')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'xc3')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'xc3')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'xc3')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'xc3')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'Q3')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'Q3')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'Q3')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'Q3')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'A3')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'A3')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'A3')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'county', 'A3')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'x_agg')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'x_agg')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'x_agg')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'x_agg')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'Q3')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'Q3')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'Q3')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'Q3')",
+      "field": "F",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'A3')",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'A3')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'A3')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "heterogeneity_coefficients.csv",
+      "key": "(3, 'state', 'A3')",
+      "field": "F",
+      "absolute_difference": null
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "rho",
+      "absolute_difference": 2.220446049250313e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "rho_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "pi",
+      "absolute_difference": 5.551115123125783e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "se",
+      "absolute_difference": 4.440892098500626e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "p",
+      "absolute_difference": 6.938893903907228e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'employment')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "rho",
+      "absolute_difference": 5.551115123125783e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "rho_se",
+      "absolute_difference": 2.220446049250313e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "pi",
+      "absolute_difference": 1.1102230246251565e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "se",
+      "absolute_difference": 7.771561172376096e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "p",
+      "absolute_difference": 4.0245584642661925e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'population')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "rho",
+      "absolute_difference": 1.7763568394002505e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "rho_se",
+      "absolute_difference": 4.440892098500626e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "pi",
+      "absolute_difference": 2.3037127760972e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "se",
+      "absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "p",
+      "absolute_difference": 3.552713678800501e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'jobs_per_resident')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "rho",
+      "absolute_difference": 2.220446049250313e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "rho_se",
+      "absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "pi",
+      "absolute_difference": 1.1102230246251565e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "se",
+      "absolute_difference": 4.996003610813204e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'income_per_resident')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "rho",
+      "absolute_difference": 3.0531133177191805e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "rho_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "pi",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'manufacturing')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "rho",
+      "absolute_difference": 2.7755575615628914e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "rho_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "pi",
+      "absolute_difference": 6.661338147750939e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "p",
+      "absolute_difference": 5.828670879282072e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(1978, 'concentration')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "rho",
+      "absolute_difference": 1.3322676295501878e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "rho_se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "pi",
+      "absolute_difference": 1.3322676295501878e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "p",
+      "absolute_difference": 1.0408340855860843e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'employment')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "rho",
+      "absolute_difference": 5.329070518200751e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "rho_se",
+      "absolute_difference": 5.551115123125783e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "pi",
+      "absolute_difference": 7.105427357601002e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "se",
+      "absolute_difference": 4.440892098500626e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "p",
+      "absolute_difference": 1.8041124150158794e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'population')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "rho",
+      "absolute_difference": 8.881784197001252e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "rho_se",
+      "absolute_difference": 2.220446049250313e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "pi",
+      "absolute_difference": 2.886579864025407e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "se",
+      "absolute_difference": 2.220446049250313e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "p",
+      "absolute_difference": 3.4416913763379853e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'jobs_per_resident')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "rho",
+      "absolute_difference": 4.440892098500626e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "rho_se",
+      "absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "pi",
+      "absolute_difference": 4.440892098500626e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "se",
+      "absolute_difference": 4.996003610813204e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "p",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'income_per_resident')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "rho",
+      "absolute_difference": 2.3037127760972e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "rho_se",
+      "absolute_difference": 3.0531133177191805e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "pi",
+      "absolute_difference": 3.552713678800501e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "p",
+      "absolute_difference": 1.9949319973733282e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'manufacturing')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "rho",
+      "absolute_difference": 3.0531133177191805e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "rho_se",
+      "absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "pi",
+      "absolute_difference": 1.1102230246251565e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "se",
+      "absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "p",
+      "absolute_difference": 1.4155343563970746e-15
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "F_county",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "balance.csv",
+      "key": "(2000, 'concentration')",
+      "field": "F_regional",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "entry",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "entry",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "exit",
+      "field": "beta",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "exit",
+      "field": "se",
+      "absolute_difference": 0.0
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "jensen",
+      "field": "beta",
+      "absolute_difference": 1.8804131429045468e-19
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "jensen",
+      "field": "se",
+      "absolute_difference": 2.0328790734103208e-20
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "renormalization",
+      "field": "beta",
+      "absolute_difference": 2.558039500707987e-19
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "renormalization",
+      "field": "se",
+      "absolute_difference": 1.1011428314305904e-20
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "sample",
+      "field": "beta",
+      "absolute_difference": 1.3552527156068805e-20
+    },
+    {
+      "reference": "decomposition.csv",
+      "key": "sample",
+      "field": "se",
+      "absolute_difference": 2.3161057151484775e-22
+    }
+  ]
+}

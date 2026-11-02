@@ -1,0 +1,30 @@
+{
+  "id": "baseline_roll5_gap5_2016",
+  "status": "locked",
+  "horizon": 2,
+  "lambda": 1.0,
+  "first_year": 1980,
+  "last_year": 2016,
+  "exposure_length": 5,
+  "exposure_gap": 5,
+  "exposure_formula": "sum_spending_over_sum_population",
+  "outcome": "employment_midpoint",
+  "spending_change": "flat_window_average_minus_base",
+  "denominator": "baseline_population",
+  "procurement": "source51_real_net_excluding_construction",
+  "transition_quarter": "no_additional_adjustment_to_source51",
+  "national_support": "all_3058_retained_counties_including_own",
+  "winsorization": "pooled_p1_p99_endogenous_only",
+  "weights": "equal_county_year",
+  "fixed_effects": [
+    "county",
+    "year"
+  ],
+  "cluster": "county",
+  "county_support": "frozen_source51_whole_history_through_2018",
+  "n_counties": 3058,
+  "n_observations": 113146,
+  "reference_rtol": 1e-10,
+  "reference_atol": 1e-12,
+  "source_boundary": "frozen_constructed_inputs_not_raw_to_result"
+}

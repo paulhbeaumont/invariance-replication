@@ -1,0 +1,61 @@
+bea_code,bea_name,county_fips5,member_name,census_backed,note
+51901,Albemarle + Charlottesville,51003,Albemarle County,1,Census 1980s records Albemarle part annexed to Charlottesville 1988-02-09.
+51901,Albemarle + Charlottesville,51540,Charlottesville city,1,
+51903,Alleghany + Covington + Clifton Forge,51005,Alleghany County,1,Census 2000s records Clifton Forge 51560 added to Alleghany 2001-07-01.
+51903,Alleghany + Covington + Clifton Forge,51580,Covington city,0,BEA combination only. No Census annexation edge in 1970-2009.
+51903,Alleghany + Covington + Clifton Forge,51560,Clifton Forge city,1,Reverted to a town and was added to Alleghany 2001-07-01.
+51907,Augusta + Staunton + Waynesboro,51015,Augusta County,1,Census 1980s and 1990s record Augusta parts annexed to Staunton and Waynesboro.
+51907,Augusta + Staunton + Waynesboro,51790,Staunton city,1,
+51907,Augusta + Staunton + Waynesboro,51820,Waynesboro city,1,
+51911,Campbell + Lynchburg + Bedford,51031,Campbell County,1,Census 1970s records Campbell part annexed to Lynchburg 1975-12-31 population 9000.
+51911,Campbell + Lynchburg + Bedford,51680,Lynchburg city,1,
+51911,Campbell + Lynchburg + Bedford,51019,Bedford County,1,Census 1970s records Bedford part annexed to Lynchburg; Census 1990s records Bedford part annexed to Bedford city. Transitive closure puts Bedford County Campbell Lynchburg and Bedford city in one unit.
+51911,Campbell + Lynchburg + Bedford,51515,Bedford city,1,Census 1990s records the 1993-07-01 annexation from Bedford County. Bedford city reverted to a town in 2013 which is outside the panel.
+51913,Carroll + Galax,51035,Carroll County,0,BEA combination only. No Census annexation edge in 1970-2009.
+51913,Carroll + Galax,51640,Galax city,0,
+51918,Dinwiddie + Colonial Heights + Petersburg + Prince George + Hopewell,51053,Dinwiddie County,1,Census 1970s records Dinwiddie part annexed to Petersburg.
+51918,Dinwiddie + Colonial Heights + Petersburg + Prince George + Hopewell,51570,Colonial Heights city,0,BEA combination only.
+51918,Dinwiddie + Colonial Heights + Petersburg + Prince George + Hopewell,51730,Petersburg city,1,
+51918,Dinwiddie + Colonial Heights + Petersburg + Prince George + Hopewell,51149,Prince George County,1,Census 1970s records Prince George part annexed to Petersburg. This is what links BEA 51941 to BEA 51918.
+51918,Dinwiddie + Colonial Heights + Petersburg + Prince George + Hopewell,51670,Hopewell city,0,BEA combination 51941 with Prince George. Merged here by transitive closure through Prince George and Petersburg.
+51919,Fairfax + Fairfax city + Falls Church,51059,Fairfax County,1,Census 1980s and 1990s record Fairfax County parts annexed to Fairfax city.
+51919,Fairfax + Fairfax city + Falls Church,51600,Fairfax city,1,
+51919,Fairfax + Fairfax city + Falls Church,51610,Falls Church city,0,BEA combination only. Carries 15.39bn of contract dollars.
+51921,Frederick + Winchester,51069,Frederick County,1,Census 1970s records Frederick part annexed to Winchester 1970-12-31 population 4800.
+51921,Frederick + Winchester,51840,Winchester city,1,
+51923,Greensville + Emporia,51081,Greensville County,1,Census 1980s records Greensville part annexed to Emporia 1988-01-01.
+51923,Greensville + Emporia,51595,Emporia city,1,
+51929,Henry + Martinsville,51089,Henry County,0,BEA combination only. No Census annexation edge in 1970-2009.
+51929,Henry + Martinsville,51690,Martinsville city,0,
+51931,James City + Williamsburg,51095,James City County,1,Census 1980s records James City part annexed to Williamsburg 1983-01-01.
+51931,James City + Williamsburg,51830,Williamsburg city,1,
+51933,Montgomery + Radford,51121,Montgomery County,1,Census 1970s records Montgomery part annexed to Radford 1976-12-31.
+51933,Montgomery + Radford,51750,Radford city,1,
+51939,Pittsylvania + Danville,51143,Pittsylvania County,1,Census 1980s records Pittsylvania parts annexed to Danville 1987 and 1988 population 10500.
+51939,Pittsylvania + Danville,51590,Danville city,1,
+51942,Prince William + Manassas + Manassas Park,51153,Prince William County,1,Census 1970s records Manassas and Manassas Park separating in 1975 with 16008 population detached; 1980s and 1990s record further annexations.
+51942,Prince William + Manassas + Manassas Park,51683,Manassas city,1,Carries 11.84bn of contract dollars - the largest single item in the harmonisation.
+51942,Prince William + Manassas + Manassas Park,51685,Manassas Park city,1,
+51944,Roanoke + Salem + Roanoke city,51161,Roanoke County,1,Census 1970s records Roanoke County part annexed to Roanoke city 1975-12-31 population 13500.
+51944,Roanoke + Salem + Roanoke city,51775,Salem city,0,BEA combination only.
+51944,Roanoke + Salem + Roanoke city,51770,Roanoke city,1,BEA keeps Roanoke city separate. The Census annexation edge from Roanoke County forces it into this unit.
+51945,Rockbridge + Buena Vista + Lexington,51163,Rockbridge County,1,Census 1980s records Rockbridge part annexed to Buena Vista 1983-12-31.
+51945,Rockbridge + Buena Vista + Lexington,51530,Buena Vista city,1,
+51945,Rockbridge + Buena Vista + Lexington,51678,Lexington city,0,BEA combination only. Lexington became an independent city in 1966 which is before the Census change list begins.
+51947,Rockingham + Harrisonburg,51165,Rockingham County,1,Census 1980s records Rockingham part annexed to Harrisonburg 1982-12-31 population 5500.
+51947,Rockingham + Harrisonburg,51660,Harrisonburg city,1,
+51949,Southampton + Franklin,51175,Southampton County,1,Census 1980s and 1990s record Southampton parts annexed to Franklin city.
+51949,Southampton + Franklin,51620,Franklin city,1,
+51951,Spotsylvania + Fredericksburg,51177,Spotsylvania County,1,Census 1980s records Spotsylvania part annexed to Fredericksburg 1983-12-31 population 2800.
+51951,Spotsylvania + Fredericksburg,51630,Fredericksburg city,1,
+51953,Washington + Bristol,51191,Washington County,1,Census 1970s records Washington part annexed to Bristol population 4800 with no date given.
+51953,Washington + Bristol,51520,Bristol city,1,
+51955,Wise + Norton,51195,Wise County,0,BEA combination only. No Census annexation edge in 1970-2009.
+51955,Wise + Norton,51720,Norton city,0,
+51958,York + Poquoson,51199,York County,1,Census 1970s records Poquoson separating from York in 1975 with 5441 population detached.
+51958,York + Poquoson,51735,Poquoson city,1,
+51960,Halifax + South Boston,51083,Halifax County,1,Not a BEA combination area. Created here because Census 1990s records South Boston reverting to a town and being added to Halifax 1995-06-30.
+51960,Halifax + South Boston,51780,South Boston city,1,
+51961,Suffolk + Nansemond,51800,Suffolk city,1,Not a BEA combination area. Created here because Census 1970s records Nansemond County combining into Suffolk city 1972-07-01. Suffolk city 51800 is a different place before and after that date with no code change.
+51961,Suffolk + Nansemond,51123,Nansemond County,1,
+51961,Suffolk + Nansemond,51695,Nansemond city,0,Not in the Census list at all. Present in DCADS FY1974 FY1976 FY1981 and in EFSY 1975-1979.

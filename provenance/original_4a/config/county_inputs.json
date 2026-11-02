@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "approved_for_county_input_build",
+  "approval": "User approved existing CBP county-industry sums, whole-county missing-data exclusions, and implementation.",
+  "horizon": 2,
+  "first_regression_year": 1985,
+  "last_regression_year": 2006,
+  "first_population_year": 1969,
+  "first_employment_year": 1983,
+  "employment": "sum_existing_naics4_alloc_emp",
+  "missing_rule": "exclude_entire_county_in_required_years",
+  "undefined_mpgr_rule": "exclude_entire_county",
+  "zero_endpoint_rule": "retain_if_source_present_and_midpoint_denominator_positive",
+  "cell_cleaning": "preserve_existing_cells_without_modification",
+  "source_boundary": "frozen_constructed_inputs_not_raw_to_cell_certification",
+  "fixed_effect_variants": ["county_year", "county_division_year", "county_region_year"],
+  "division_definition": "nine_Census_divisions",
+  "region_definition": "four_Census_regions"
+}

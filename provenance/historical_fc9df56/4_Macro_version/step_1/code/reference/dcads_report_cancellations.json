@@ -1,0 +1,9 @@
+{
+  "n_canceled_records": 25780,
+  "n_pairs": 12890,
+  "first_year": 1966,
+  "last_year": 1983,
+  "positive_nominal": 30011877000,
+  "ledger_sha256": "9a7c9cddf35ec0259de4b32da3bc7f38ee0f523dad77da9ec7a1c2b3d7772752",
+  "audit_producer_commit": "d271423"
+}

@@ -1,0 +1,23 @@
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lcccccccccc@{}}
+\toprule
+Growth rate & \multicolumn{5}{c}{Log} & \multicolumn{5}{c}{MPGR} \\
+\cmidrule(lr){2-6}\cmidrule(lr){7-11}
+ &  & \multicolumn{4}{c}{County $\times$} &  & \multicolumn{4}{c}{County $\times$} \\
+Level & County & NAICS2 & NAICS4 & NAICS6 & NAICS6 & County & NAICS2 & NAICS4 & NAICS6 & NAICS6 \\
+ & (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8) & (9) & (10) \\
+\midrule
+County spending & 6.123$^{**}$ & 5.104$^{*}$ & 5.533$^{*}$ & 3.984 & 2.731 & 6.353$^{***}$ & 6.353$^{***}$ & 6.353$^{***}$ & 6.353$^{***}$ & 5.388$^{**}$ \\
+ & (2.548) & (2.610) & (3.063) & (2.695) & (1.902) & (2.397) & (2.397) & (2.397) & (2.397) & (2.722) \\
+\% deviation & 0.0\% & -16.7\% & -9.6\% & -34.9\% & -55.4\% & 0.0\% & 0.0\% & 0.0\% & 0.0\% & -15.2\% \\
+\addlinespace[4pt]
+County FE & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+Year FE & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes & Yes \\
+Industry $\times$ year FE & -- & -- & -- & -- & Yes & -- & -- & -- & -- & Yes \\
+\addlinespace[4pt]
+\textit{First-stage F} &  &  &  &  &  &  &  &  &  &  \\
+\hspace{1em}County spending & 33.41 & 33.30 & 32.67 & 32.46 & 41.85 & 33.41 & 33.41 & 33.41 & 33.41 & 27.41 \\
+\addlinespace[7pt]
+Observations & 110,088 & 2,359,648 & 13,055,068 & 22,506,999 & 22,506,999 & 110,088 & 2,862,288 & 33,356,664 & 92,353,284 & 36,517,233 \\
+County-years & 110,088 & 110,086 & 110,085 & 110,077 & 110,077 & 110,088 & 110,088 & 110,088 & 110,088 & 110,088 \\
+Clusters & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 & 3,058 \\
+\bottomrule\end{tabular*}

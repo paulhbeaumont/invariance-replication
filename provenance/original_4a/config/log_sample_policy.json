@@ -1,0 +1,10 @@
+{
+  "status": "approved",
+  "scope": "log_growth_benchmark_only",
+  "cell_rule": "positive_employment_at_both_endpoints",
+  "empty_county_year_rule": "no_log_observation_report_loss",
+  "mpgr_rule": "retain_full_approved_sample",
+  "do_not_exclude_counties_from_mpgr_for_log_undefinedness": true,
+  "entry_point": "code/estimate/disaggregation_log_completion.py",
+  "coefficients": "results/coefficients/disaggregation_h234_complete.csv"
+}
